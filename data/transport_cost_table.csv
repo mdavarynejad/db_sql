@@ -1,451 +1,451 @@
-plant,product,distribution_center,transport_cost
-plant_2,cordless screwdriver_2,Distribution_Center_1,1.7133797
-plant_2,cordless screwdriver_2,Distribution_Center_2,1.2991272
-plant_2,cordless screwdriver_2,Distribution_Center_3,1.0981518
-plant_2,cordless screwdriver_2,Distribution_Center_4,1.696706
-plant_2,cordless screwdriver_2,Distribution_Center_5,1.6889188
-plant_1,nail_3,Distribution_Center_5,1.4749053
-plant_1,nail_3,Distribution_Center_3,1.5240705
-plant_1,nail_3,Distribution_Center_4,1.0541801
-plant_1,nail_3,Distribution_Center_1,1.0743321
-plant_1,nail_3,Distribution_Center_2,1.63202
-plant_2,toolbox_3,Distribution_Center_3,2.4134703
-plant_2,toolbox_3,Distribution_Center_2,1.8299533
-plant_2,toolbox_3,Distribution_Center_4,1.5468589
-plant_2,toolbox_3,Distribution_Center_5,2.3899837
-plant_2,toolbox_3,Distribution_Center_1,2.3790145
-plant_1,hammer_1,Distribution_Center_4,1.7870735
-plant_1,hammer_1,Distribution_Center_2,1.3550037
-plant_1,hammer_1,Distribution_Center_1,1.1453842
-plant_1,hammer_1,Distribution_Center_5,1.7696828
-plant_1,hammer_1,Distribution_Center_3,1.7615606
-plant_1,impact drill_2,Distribution_Center_1,2.0450017
-plant_1,impact drill_2,Distribution_Center_2,1.5505712
-plant_1,impact drill_2,Distribution_Center_5,1.3106973
-plant_1,impact drill_2,Distribution_Center_3,2.0251007
-plant_1,impact drill_2,Distribution_Center_4,2.0158064
-plant_2,spirit level_2,Distribution_Center_1,1.3128277
-plant_2,spirit level_2,Distribution_Center_4,1.3565903
-plant_2,spirit level_2,Distribution_Center_2,0.93833613
-plant_2,spirit level_2,Distribution_Center_3,0.9562736
-plant_2,spirit level_2,Distribution_Center_5,1.4526771
-plant_3,cordless screwdriver_2,Distribution_Center_1,1.300107
-plant_3,cordless screwdriver_2,Distribution_Center_2,1.348226
-plant_3,cordless screwdriver_2,Distribution_Center_3,1.462782
-plant_3,cordless screwdriver_2,Distribution_Center_4,1.6766013
-plant_3,cordless screwdriver_2,Distribution_Center_5,1.5048695
-plant_3,screwdriver_1,Distribution_Center_3,1.6369828
-plant_3,screwdriver_1,Distribution_Center_4,1.6915507
-plant_3,screwdriver_1,Distribution_Center_1,1.170024
-plant_3,screwdriver_1,Distribution_Center_5,1.1923906
-plant_3,screwdriver_1,Distribution_Center_2,1.8113629
-plant_3,hammer_3,Distribution_Center_5,1.3560257
-plant_3,hammer_3,Distribution_Center_1,1.4062141
-plant_3,hammer_3,Distribution_Center_3,1.5256974
-plant_3,hammer_3,Distribution_Center_2,1.7487133
-plant_3,hammer_3,Distribution_Center_4,1.569595
-plant_1,screw_3,Distribution_Center_1,1.1238297
-plant_1,screw_3,Distribution_Center_3,0.85211575
-plant_1,screw_3,Distribution_Center_4,0.72029316
-plant_1,screw_3,Distribution_Center_2,1.1128932
-plant_1,screw_3,Distribution_Center_5,1.1077855
-plant_1,screwdriver_3,Distribution_Center_1,1.6369828
-plant_1,screwdriver_3,Distribution_Center_2,1.6915507
-plant_1,screwdriver_3,Distribution_Center_5,1.170024
-plant_1,screwdriver_3,Distribution_Center_4,1.1923906
-plant_1,screwdriver_3,Distribution_Center_3,1.8113629
-plant_3,hammer_1,Distribution_Center_4,1.3560257
-plant_3,hammer_1,Distribution_Center_2,1.4062141
-plant_3,hammer_1,Distribution_Center_1,1.5256974
-plant_3,hammer_1,Distribution_Center_5,1.7487133
-plant_3,hammer_1,Distribution_Center_3,1.569595
-plant_1,spirit level_2,Distribution_Center_1,1.1323513
-plant_1,spirit level_2,Distribution_Center_4,1.1742613
-plant_1,spirit level_2,Distribution_Center_2,1.2740359
-plant_1,spirit level_2,Distribution_Center_3,1.4602656
-plant_1,spirit level_2,Distribution_Center_5,1.3106927
-plant_2,hammer_3,Distribution_Center_5,1.4389461
-plant_2,hammer_3,Distribution_Center_1,1.1484246
-plant_2,hammer_3,Distribution_Center_3,1.1458215
-plant_2,hammer_3,Distribution_Center_2,1.1577138
-plant_2,hammer_3,Distribution_Center_4,1.855241
-plant_2,screwdriver_2,Distribution_Center_3,1.498284
-plant_2,screwdriver_2,Distribution_Center_1,1.1957823
-plant_2,screwdriver_2,Distribution_Center_4,1.1930717
-plant_2,screwdriver_2,Distribution_Center_5,1.2054545
-plant_2,screwdriver_2,Distribution_Center_2,1.9317456
-plant_3,spirit level_3,Distribution_Center_4,1.1621655
-plant_3,spirit level_3,Distribution_Center_1,1.0980604
-plant_3,spirit level_3,Distribution_Center_3,1.5337822
-plant_3,spirit level_3,Distribution_Center_2,1.4405264
-plant_3,spirit level_3,Distribution_Center_5,1.0710201
-plant_3,toolbox_2,Distribution_Center_2,2.4415987
-plant_3,toolbox_2,Distribution_Center_1,1.4755803
-plant_3,toolbox_2,Distribution_Center_3,2.425085
-plant_3,toolbox_2,Distribution_Center_4,2.210557
-plant_3,toolbox_2,Distribution_Center_5,1.8667029
-plant_1,drilling machine_2,Distribution_Center_5,1.0680838
-plant_1,drilling machine_2,Distribution_Center_4,0.8524389
-plant_1,drilling machine_2,Distribution_Center_1,0.8505066
-plant_1,drilling machine_2,Distribution_Center_3,0.85933393
-plant_1,drilling machine_2,Distribution_Center_2,1.377086
-plant_1,current meter_1,Distribution_Center_5,1.0186883
-plant_1,current meter_1,Distribution_Center_3,0.9624973
-plant_1,current meter_1,Distribution_Center_2,1.3444264
-plant_1,current meter_1,Distribution_Center_4,1.2626836
-plant_1,current meter_1,Distribution_Center_1,0.9387954
-plant_2,toolbox_2,Distribution_Center_2,1.8795515
-plant_2,toolbox_2,Distribution_Center_1,1.7758752
-plant_2,toolbox_2,Distribution_Center_3,2.4805613
-plant_2,toolbox_2,Distribution_Center_4,2.32974
-plant_2,toolbox_2,Distribution_Center_5,1.7321435
-plant_1,cordless screwdriver_2,Distribution_Center_1,1.8342931
-plant_1,cordless screwdriver_2,Distribution_Center_2,1.5094644
-plant_1,cordless screwdriver_2,Distribution_Center_3,1.2595348
-plant_1,cordless screwdriver_2,Distribution_Center_4,1.0733062
-plant_1,cordless screwdriver_2,Distribution_Center_5,1.1539894
-plant_1,screw_2,Distribution_Center_5,0.7769452
-plant_1,screw_2,Distribution_Center_3,1.0268564
-plant_1,screw_2,Distribution_Center_4,1.2118433
-plant_1,screw_2,Distribution_Center_2,1.1165673
-plant_1,screw_2,Distribution_Center_1,0.7620748
-plant_3,screwdriver_2,Distribution_Center_3,1.6821134
-plant_3,screwdriver_2,Distribution_Center_1,1.5067577
-plant_3,screwdriver_2,Distribution_Center_4,1.186441
-plant_3,screwdriver_2,Distribution_Center_5,1.1139145
-plant_3,screwdriver_2,Distribution_Center_2,1.4577554
-plant_1,current meter_3,Distribution_Center_5,1.3080641
-plant_1,current meter_3,Distribution_Center_3,0.9918068
-plant_1,current meter_3,Distribution_Center_4,0.83837396
-plant_1,current meter_3,Distribution_Center_1,1.2953347
-plant_1,current meter_3,Distribution_Center_2,1.2893896
-plant_3,current meter_3,Distribution_Center_5,1.3233092
-plant_3,current meter_3,Distribution_Center_3,0.79974204
-plant_3,current meter_3,Distribution_Center_4,1.3143591
-plant_3,current meter_3,Distribution_Center_1,1.1980882
-plant_3,current meter_3,Distribution_Center_2,1.0117245
-plant_1,cordless screwdriver_1,Distribution_Center_5,1.379608
-plant_1,cordless screwdriver_1,Distribution_Center_4,1.101067
-plant_1,cordless screwdriver_1,Distribution_Center_2,1.0985711
-plant_1,cordless screwdriver_1,Distribution_Center_3,1.109973
-plant_1,cordless screwdriver_1,Distribution_Center_1,1.7787361
-plant_1,hammer_3,Distribution_Center_5,1.3917291
-plant_1,hammer_3,Distribution_Center_1,1.3149612
-plant_1,hammer_3,Distribution_Center_3,1.8367517
-plant_1,hammer_3,Distribution_Center_2,1.7250749
-plant_1,hammer_3,Distribution_Center_4,1.2825797
-plant_3,nail_3,Distribution_Center_5,1.7948459
-plant_3,nail_3,Distribution_Center_3,1.4770029
-plant_3,nail_3,Distribution_Center_4,1.2324481
-plant_3,nail_3,Distribution_Center_1,1.0502243
-plant_3,nail_3,Distribution_Center_2,1.1291724
-plant_3,screw_3,Distribution_Center_1,0.7769452
-plant_3,screw_3,Distribution_Center_3,1.0268564
-plant_3,screw_3,Distribution_Center_4,1.2118433
-plant_3,screw_3,Distribution_Center_2,1.1165673
-plant_3,screw_3,Distribution_Center_5,0.7620748
-plant_3,current meter_1,Distribution_Center_5,1.3233092
-plant_3,current meter_1,Distribution_Center_3,0.79974204
-plant_3,current meter_1,Distribution_Center_2,1.3143591
-plant_3,current meter_1,Distribution_Center_4,1.1980882
-plant_3,current meter_1,Distribution_Center_1,1.0117245
-plant_3,impact drill_1,Distribution_Center_2,2.0097404
-plant_3,impact drill_1,Distribution_Center_5,2.0847073
-plant_3,impact drill_1,Distribution_Center_1,1.7571374
-plant_3,impact drill_1,Distribution_Center_3,1.5159199
-plant_3,impact drill_1,Distribution_Center_4,1.3995042
-plant_3,spirit level_1,Distribution_Center_3,0.95882434
-plant_3,spirit level_1,Distribution_Center_5,1.4311881
-plant_3,spirit level_1,Distribution_Center_2,1.1441916
-plant_3,spirit level_1,Distribution_Center_1,1.5853356
-plant_3,spirit level_1,Distribution_Center_4,1.1903155
-plant_2,drilling machine_3,Distribution_Center_3,1.1669581
-plant_2,drilling machine_3,Distribution_Center_4,1.205858
-plant_2,drilling machine_3,Distribution_Center_2,0.8340766
-plant_2,drilling machine_3,Distribution_Center_1,0.850021
-plant_2,drilling machine_3,Distribution_Center_5,1.2912686
-plant_1,impact drill_3,Distribution_Center_4,2.0450017
-plant_1,impact drill_3,Distribution_Center_2,1.5505712
-plant_1,impact drill_3,Distribution_Center_3,1.3106973
-plant_1,impact drill_3,Distribution_Center_5,2.0251007
-plant_1,impact drill_3,Distribution_Center_1,2.0158064
-plant_2,impact drill_2,Distribution_Center_1,1.7990602
-plant_2,impact drill_2,Distribution_Center_2,1.8590311
-plant_2,impact drill_2,Distribution_Center_5,1.285868
-plant_2,impact drill_2,Distribution_Center_3,1.310449
-plant_2,impact drill_2,Distribution_Center_4,1.9907057
-plant_3,drilling machine_1,Distribution_Center_1,1.1669581
-plant_3,drilling machine_1,Distribution_Center_5,1.205858
-plant_3,drilling machine_1,Distribution_Center_3,0.8340766
-plant_3,drilling machine_1,Distribution_Center_2,0.850021
-plant_3,drilling machine_1,Distribution_Center_4,1.2912686
-plant_1,spirit level_3,Distribution_Center_4,1.1323513
-plant_1,spirit level_3,Distribution_Center_1,1.1742613
-plant_1,spirit level_3,Distribution_Center_3,1.2740359
-plant_1,spirit level_3,Distribution_Center_2,1.4602656
-plant_1,spirit level_3,Distribution_Center_5,1.3106927
-plant_2,hammer_1,Distribution_Center_4,1.4389461
-plant_2,hammer_1,Distribution_Center_2,1.1484246
-plant_2,hammer_1,Distribution_Center_1,1.1458215
-plant_2,hammer_1,Distribution_Center_5,1.1577138
-plant_2,hammer_1,Distribution_Center_3,1.855241
-plant_2,nail_3,Distribution_Center_5,1.7948459
-plant_2,nail_3,Distribution_Center_3,1.4770029
-plant_2,nail_3,Distribution_Center_4,1.2324481
-plant_2,nail_3,Distribution_Center_1,1.0502243
-plant_2,nail_3,Distribution_Center_2,1.1291724
-plant_3,hammer_2,Distribution_Center_2,1.2354702
-plant_3,hammer_2,Distribution_Center_1,1.63287
-plant_3,hammer_2,Distribution_Center_4,1.9270295
-plant_3,hammer_2,Distribution_Center_5,1.775525
-plant_3,hammer_2,Distribution_Center_3,1.2118239
-plant_2,current meter_2,Distribution_Center_3,0.9925548
-plant_2,current meter_2,Distribution_Center_2,1.0292907
-plant_2,current meter_2,Distribution_Center_1,1.1167475
-plant_2,current meter_2,Distribution_Center_4,1.2799859
-plant_2,current meter_2,Distribution_Center_5,1.1488787
-plant_2,toolbox_1,Distribution_Center_3,1.9433188
-plant_2,toolbox_1,Distribution_Center_1,1.5509652
-plant_2,toolbox_1,Distribution_Center_2,1.5474495
-plant_2,toolbox_1,Distribution_Center_5,1.5635102
-plant_2,toolbox_1,Distribution_Center_4,2.5055313
-plant_3,cordless screwdriver_1,Distribution_Center_5,1.3343382
-plant_3,cordless screwdriver_1,Distribution_Center_4,1.2607359
-plant_3,cordless screwdriver_1,Distribution_Center_2,1.7610092
-plant_3,cordless screwdriver_1,Distribution_Center_3,1.6539377
-plant_3,cordless screwdriver_1,Distribution_Center_1,1.2296897
-plant_3,toolbox_1,Distribution_Center_3,2.4415987
-plant_3,toolbox_1,Distribution_Center_1,1.4755803
-plant_3,toolbox_1,Distribution_Center_2,2.425085
-plant_3,toolbox_1,Distribution_Center_5,2.210557
-plant_3,toolbox_1,Distribution_Center_4,1.8667029
-plant_1,current meter_2,Distribution_Center_3,1.1824757
-plant_1,current meter_2,Distribution_Center_2,1.0592059
-plant_1,current meter_2,Distribution_Center_1,0.8340328
-plant_1,current meter_2,Distribution_Center_4,0.78304875
-plant_1,current meter_2,Distribution_Center_5,1.0247587
-plant_1,toolbox_2,Distribution_Center_2,2.3718555
-plant_1,toolbox_2,Distribution_Center_1,2.46033
-plant_1,toolbox_2,Distribution_Center_3,2.0737386
-plant_1,toolbox_2,Distribution_Center_4,1.7890586
-plant_1,toolbox_2,Distribution_Center_5,1.651667
-plant_2,cordless screwdriver_3,Distribution_Center_2,1.7333487
-plant_2,cordless screwdriver_3,Distribution_Center_5,1.0475495
-plant_2,cordless screwdriver_3,Distribution_Center_1,1.7216253
-plant_2,cordless screwdriver_3,Distribution_Center_3,1.5693269
-plant_2,cordless screwdriver_3,Distribution_Center_4,1.3252167
-plant_3,impact drill_2,Distribution_Center_1,1.2316747
-plant_3,impact drill_2,Distribution_Center_2,1.5331776
-plant_3,impact drill_2,Distribution_Center_5,1.4170861
-plant_3,impact drill_2,Distribution_Center_3,1.2250396
-plant_3,impact drill_2,Distribution_Center_4,2.177985
-plant_2,screw_2,Distribution_Center_5,0.8752111
-plant_2,screw_2,Distribution_Center_3,0.82693434
-plant_2,screw_2,Distribution_Center_4,1.1550707
-plant_2,screw_2,Distribution_Center_2,1.0848409
-plant_2,screw_2,Distribution_Center_1,0.8065707
-plant_1,hammer_2,Distribution_Center_2,1.6154951
-plant_1,hammer_2,Distribution_Center_1,1.4470843
-plant_1,hammer_2,Distribution_Center_4,1.1394533
-plant_1,hammer_2,Distribution_Center_5,1.0697991
-plant_1,hammer_2,Distribution_Center_3,1.4000226
-plant_2,spirit level_3,Distribution_Center_4,0.95882434
-plant_2,spirit level_3,Distribution_Center_1,1.4311881
-plant_2,spirit level_3,Distribution_Center_3,1.1441916
-plant_2,spirit level_3,Distribution_Center_2,1.5853356
-plant_2,spirit level_3,Distribution_Center_5,1.1903155
-plant_1,screwdriver_2,Distribution_Center_3,1.2523717
-plant_1,screwdriver_2,Distribution_Center_1,1.2290981
-plant_1,screwdriver_2,Distribution_Center_4,1.5831668
-plant_1,screwdriver_2,Distribution_Center_5,1.7065703
-plant_1,screwdriver_2,Distribution_Center_2,1.4108183
-plant_3,nail_2,Distribution_Center_1,1.0479974
-plant_3,nail_2,Distribution_Center_4,1.1278625
-plant_3,nail_2,Distribution_Center_3,1.7753491
-plant_3,nail_2,Distribution_Center_2,1.6810665
-plant_3,nail_2,Distribution_Center_5,1.5967474
-plant_3,drilling machine_2,Distribution_Center_5,1.420098
-plant_3,drilling machine_2,Distribution_Center_4,1.1686177
-plant_3,drilling machine_2,Distribution_Center_1,0.97512376
-plant_3,drilling machine_2,Distribution_Center_3,0.83094674
-plant_3,drilling machine_2,Distribution_Center_2,0.8934112
-plant_1,impact drill_1,Distribution_Center_2,2.1893175
-plant_1,impact drill_1,Distribution_Center_5,1.8016188
-plant_1,impact drill_1,Distribution_Center_1,1.5033158
-plant_1,impact drill_1,Distribution_Center_3,1.2810428
-plant_1,impact drill_1,Distribution_Center_4,1.3773422
-plant_2,current meter_3,Distribution_Center_5,0.90431315
-plant_2,current meter_3,Distribution_Center_3,1.1951934
-plant_2,current meter_3,Distribution_Center_4,1.410506
-plant_2,current meter_3,Distribution_Center_1,1.299611
-plant_2,current meter_3,Distribution_Center_2,0.8870051
-plant_3,cordless screwdriver_3,Distribution_Center_2,1.5488768
-plant_3,cordless screwdriver_3,Distribution_Center_5,1.3874106
-plant_3,cordless screwdriver_3,Distribution_Center_1,1.0924655
-plant_3,cordless screwdriver_3,Distribution_Center_3,1.0256836
-plant_3,cordless screwdriver_3,Distribution_Center_4,1.3422897
-plant_1,screwdriver_1,Distribution_Center_3,1.8824539
-plant_1,screwdriver_1,Distribution_Center_4,1.1376612
-plant_1,screwdriver_1,Distribution_Center_1,1.869722
-plant_1,screwdriver_1,Distribution_Center_5,1.7043227
-plant_1,screwdriver_1,Distribution_Center_2,1.4392138
-plant_2,screw_1,Distribution_Center_3,1.2031385
-plant_2,screw_1,Distribution_Center_4,0.99007887
-plant_2,screw_1,Distribution_Center_2,0.82614654
-plant_2,screw_1,Distribution_Center_5,0.70399654
-plant_2,screw_1,Distribution_Center_1,0.75691783
-plant_1,drilling machine_1,Distribution_Center_1,1.3036153
-plant_1,drilling machine_1,Distribution_Center_5,1.3522426
-plant_1,drilling machine_1,Distribution_Center_3,1.1397649
-plant_1,drilling machine_1,Distribution_Center_2,0.98329943
-plant_1,drilling machine_1,Distribution_Center_4,0.90778655
-plant_2,impact drill_1,Distribution_Center_2,1.4137855
-plant_2,impact drill_1,Distribution_Center_5,1.868542
-plant_2,impact drill_1,Distribution_Center_1,2.2051575
-plant_2,impact drill_1,Distribution_Center_3,2.0317862
-plant_2,impact drill_1,Distribution_Center_4,1.3867263
-plant_2,spirit level_1,Distribution_Center_3,1.3490217
-plant_2,spirit level_1,Distribution_Center_5,1.2083899
-plant_2,spirit level_1,Distribution_Center_2,0.9515022
-plant_2,spirit level_1,Distribution_Center_1,0.89333737
-plant_2,spirit level_1,Distribution_Center_4,1.169091
-plant_3,screw_1,Distribution_Center_3,1.1044519
-plant_3,screw_1,Distribution_Center_4,1.1456499
-plant_3,screw_1,Distribution_Center_2,0.9656341
-plant_3,screw_1,Distribution_Center_5,0.83307314
-plant_3,screw_1,Distribution_Center_1,0.7690969
-plant_1,cordless screwdriver_3,Distribution_Center_2,1.0319437
-plant_1,cordless screwdriver_3,Distribution_Center_5,1.2845542
-plant_1,cordless screwdriver_3,Distribution_Center_1,1.1872884
-plant_1,cordless screwdriver_3,Distribution_Center_3,1.0263845
-plant_1,cordless screwdriver_3,Distribution_Center_4,1.8247981
-plant_1,toolbox_3,Distribution_Center_3,1.6243632
-plant_1,toolbox_3,Distribution_Center_2,1.5941768
-plant_1,toolbox_3,Distribution_Center_4,2.0534143
-plant_1,toolbox_3,Distribution_Center_5,2.2134724
-plant_1,toolbox_3,Distribution_Center_1,1.8298732
-plant_3,screw_2,Distribution_Center_5,0.70250374
-plant_3,screw_2,Distribution_Center_3,0.7560396
-plant_3,screw_2,Distribution_Center_4,1.1900692
-plant_3,screw_2,Distribution_Center_2,1.1268687
-plant_3,screw_2,Distribution_Center_1,1.0703472
-plant_1,spirit level_1,Distribution_Center_3,1.0316813
-plant_1,spirit level_1,Distribution_Center_5,1.3635305
-plant_1,spirit level_1,Distribution_Center_2,1.6091689
-plant_1,spirit level_1,Distribution_Center_1,1.4826548
-plant_1,spirit level_1,Distribution_Center_4,1.0119354
-plant_1,toolbox_1,Distribution_Center_3,1.5506911
-plant_1,toolbox_1,Distribution_Center_1,2.3146374
-plant_1,toolbox_1,Distribution_Center_2,1.8504826
-plant_1,toolbox_1,Distribution_Center_5,2.5639377
-plant_1,toolbox_1,Distribution_Center_4,1.925078
-plant_2,current meter_1,Distribution_Center_5,0.7878279
-plant_2,current meter_1,Distribution_Center_3,0.9806811
-plant_2,current meter_1,Distribution_Center_2,0.90642446
-plant_2,current meter_1,Distribution_Center_4,0.7835838
-plant_2,current meter_1,Distribution_Center_1,1.3931254
-plant_2,screw_3,Distribution_Center_1,0.75638294
-plant_2,screw_3,Distribution_Center_3,0.7423266
-plant_2,screw_3,Distribution_Center_4,0.9561701
-plant_2,screw_3,Distribution_Center_2,1.0307009
-plant_2,screw_3,Distribution_Center_5,0.85207844
-plant_2,screwdriver_3,Distribution_Center_1,1.8286825
-plant_2,screwdriver_3,Distribution_Center_2,1.8968958
-plant_2,screwdriver_3,Distribution_Center_5,1.5988368
-plant_2,screwdriver_3,Distribution_Center_4,1.3793505
-plant_2,screwdriver_3,Distribution_Center_3,1.2734227
-plant_1,nail_2,Distribution_Center_1,1.5865611
-plant_1,nail_2,Distribution_Center_4,1.345326
-plant_1,nail_2,Distribution_Center_3,1.535435
-plant_1,nail_2,Distribution_Center_2,1.2324001
-plant_1,nail_2,Distribution_Center_5,1.5454907
-plant_3,spirit level_2,Distribution_Center_1,0.95882434
-plant_3,spirit level_2,Distribution_Center_4,1.4311881
-plant_3,spirit level_2,Distribution_Center_2,1.1441916
-plant_3,spirit level_2,Distribution_Center_3,1.5853356
-plant_3,spirit level_2,Distribution_Center_5,1.1903155
-plant_1,nail_1,Distribution_Center_4,1.0771977
-plant_1,nail_1,Distribution_Center_3,1.6078781
-plant_1,nail_1,Distribution_Center_1,1.2854499
-plant_1,nail_1,Distribution_Center_5,1.781056
-plant_1,nail_1,Distribution_Center_2,1.3372681
-plant_3,impact drill_3,Distribution_Center_4,1.2316747
-plant_3,impact drill_3,Distribution_Center_2,1.5331776
-plant_3,impact drill_3,Distribution_Center_3,1.4170861
-plant_3,impact drill_3,Distribution_Center_5,1.2250396
-plant_3,impact drill_3,Distribution_Center_1,2.177985
-plant_3,toolbox_3,Distribution_Center_3,1.6243632
-plant_3,toolbox_3,Distribution_Center_2,1.5941768
-plant_3,toolbox_3,Distribution_Center_4,2.0534143
-plant_3,toolbox_3,Distribution_Center_5,2.2134724
-plant_3,toolbox_3,Distribution_Center_1,1.8298732
-plant_3,nail_1,Distribution_Center_4,1.5865611
-plant_3,nail_1,Distribution_Center_3,1.345326
-plant_3,nail_1,Distribution_Center_1,1.535435
-plant_3,nail_1,Distribution_Center_5,1.2324001
-plant_3,nail_1,Distribution_Center_2,1.5454907
-plant_2,screwdriver_1,Distribution_Center_3,1.3829315
-plant_2,screwdriver_1,Distribution_Center_4,1.7975132
-plant_2,screwdriver_1,Distribution_Center_1,1.8134418
-plant_2,screwdriver_1,Distribution_Center_5,1.693493
-plant_2,screwdriver_1,Distribution_Center_2,1.5219868
-plant_2,cordless screwdriver_1,Distribution_Center_5,1.5488768
-plant_2,cordless screwdriver_1,Distribution_Center_4,1.3874106
-plant_2,cordless screwdriver_1,Distribution_Center_2,1.0924655
-plant_2,cordless screwdriver_1,Distribution_Center_3,1.0256836
-plant_2,cordless screwdriver_1,Distribution_Center_1,1.3422897
-plant_2,nail_2,Distribution_Center_1,1.6476249
-plant_2,nail_2,Distribution_Center_4,1.7090844
-plant_2,nail_2,Distribution_Center_3,1.4405361
-plant_2,nail_2,Distribution_Center_2,1.2427812
-plant_2,nail_2,Distribution_Center_5,1.1473413
-plant_2,nail_1,Distribution_Center_4,1.0097513
-plant_2,nail_1,Distribution_Center_3,1.2569294
-plant_2,nail_1,Distribution_Center_1,1.1617553
-plant_2,nail_1,Distribution_Center_5,1.0043117
-plant_2,nail_1,Distribution_Center_2,1.7855551
-plant_3,screwdriver_3,Distribution_Center_1,1.2523717
-plant_3,screwdriver_3,Distribution_Center_2,1.2290981
-plant_3,screwdriver_3,Distribution_Center_5,1.5831668
-plant_3,screwdriver_3,Distribution_Center_4,1.7065703
-plant_3,screwdriver_3,Distribution_Center_3,1.4108183
-plant_2,impact drill_3,Distribution_Center_4,1.2783265
-plant_2,impact drill_3,Distribution_Center_2,1.3757442
-plant_2,impact drill_3,Distribution_Center_3,2.1655357
-plant_2,impact drill_3,Distribution_Center_5,2.0505316
-plant_2,impact drill_3,Distribution_Center_1,1.9476808
-plant_2,drilling machine_1,Distribution_Center_1,0.8522883
-plant_2,drilling machine_1,Distribution_Center_5,1.2721673
-plant_2,drilling machine_1,Distribution_Center_3,1.0170592
-plant_2,drilling machine_1,Distribution_Center_2,1.4091872
-plant_2,drilling machine_1,Distribution_Center_4,1.0580583
-plant_2,drilling machine_2,Distribution_Center_5,0.79892415
-plant_2,drilling machine_2,Distribution_Center_4,0.9944936
-plant_2,drilling machine_2,Distribution_Center_1,0.91919106
-plant_2,drilling machine_2,Distribution_Center_3,0.7946203
-plant_2,drilling machine_2,Distribution_Center_2,1.412747
-plant_2,hammer_2,Distribution_Center_2,1.3251714
-plant_2,hammer_2,Distribution_Center_1,1.8897843
-plant_2,hammer_2,Distribution_Center_4,1.6870487
-plant_2,hammer_2,Distribution_Center_5,1.8527101
-plant_2,hammer_2,Distribution_Center_3,1.4648995
-plant_3,drilling machine_3,Distribution_Center_3,1.0073856
-plant_3,drilling machine_3,Distribution_Center_4,1.1195632
-plant_3,drilling machine_3,Distribution_Center_2,1.1626526
-plant_3,drilling machine_3,Distribution_Center_1,1.1928545
-plant_3,drilling machine_3,Distribution_Center_5,1.1270275
-plant_1,drilling machine_3,Distribution_Center_3,0.9858522
-plant_1,drilling machine_3,Distribution_Center_4,1.2813957
-plant_1,drilling machine_3,Distribution_Center_2,1.2927506
-plant_1,drilling machine_3,Distribution_Center_1,1.2072426
-plant_1,drilling machine_3,Distribution_Center_5,1.0849807
-plant_3,current meter_2,Distribution_Center_3,0.9699707
-plant_3,current meter_2,Distribution_Center_2,1.3832442
-plant_3,current meter_2,Distribution_Center_1,1.23485
-plant_3,current meter_2,Distribution_Center_4,1.3561074
-plant_3,current meter_2,Distribution_Center_5,1.072246
-plant_1,screw_1,Distribution_Center_3,0.70250374
-plant_1,screw_1,Distribution_Center_4,0.7560396
-plant_1,screw_1,Distribution_Center_2,1.1900692
-plant_1,screw_1,Distribution_Center_5,1.1268687
-plant_1,screw_1,Distribution_Center_1,1.0703472
+﻿plant;product;distribution_center;transport_cost
+plant_2;cordless screwdriver_2;Distribution_Center_1;17133797
+plant_2;cordless screwdriver_2;Distribution_Center_2;12991272
+plant_2;cordless screwdriver_2;Distribution_Center_3;10981518
+plant_2;cordless screwdriver_2;Distribution_Center_4;1696706
+plant_2;cordless screwdriver_2;Distribution_Center_5;16889188
+plant_1;nail_3;Distribution_Center_5;14749053
+plant_1;nail_3;Distribution_Center_3;15240705
+plant_1;nail_3;Distribution_Center_4;10541801
+plant_1;nail_3;Distribution_Center_1;10743321
+plant_1;nail_3;Distribution_Center_2;163202
+plant_2;toolbox_3;Distribution_Center_3;24134703
+plant_2;toolbox_3;Distribution_Center_2;18299533
+plant_2;toolbox_3;Distribution_Center_4;15468589
+plant_2;toolbox_3;Distribution_Center_5;23899837
+plant_2;toolbox_3;Distribution_Center_1;23790145
+plant_1;hammer_1;Distribution_Center_4;17870735
+plant_1;hammer_1;Distribution_Center_2;13550037
+plant_1;hammer_1;Distribution_Center_1;11453842
+plant_1;hammer_1;Distribution_Center_5;17696828
+plant_1;hammer_1;Distribution_Center_3;17615606
+plant_1;impact drill_2;Distribution_Center_1;20450017
+plant_1;impact drill_2;Distribution_Center_2;15505712
+plant_1;impact drill_2;Distribution_Center_5;13106973
+plant_1;impact drill_2;Distribution_Center_3;20251007
+plant_1;impact drill_2;Distribution_Center_4;20158064
+plant_2;spirit level_2;Distribution_Center_1;13128277
+plant_2;spirit level_2;Distribution_Center_4;13565903
+plant_2;spirit level_2;Distribution_Center_2;93833613
+plant_2;spirit level_2;Distribution_Center_3;9562736
+plant_2;spirit level_2;Distribution_Center_5;14526771
+plant_3;cordless screwdriver_2;Distribution_Center_1;1300107
+plant_3;cordless screwdriver_2;Distribution_Center_2;1348226
+plant_3;cordless screwdriver_2;Distribution_Center_3;1462782
+plant_3;cordless screwdriver_2;Distribution_Center_4;16766013
+plant_3;cordless screwdriver_2;Distribution_Center_5;15048695
+plant_3;screwdriver_1;Distribution_Center_3;16369828
+plant_3;screwdriver_1;Distribution_Center_4;16915507
+plant_3;screwdriver_1;Distribution_Center_1;1170024
+plant_3;screwdriver_1;Distribution_Center_5;11923906
+plant_3;screwdriver_1;Distribution_Center_2;18113629
+plant_3;hammer_3;Distribution_Center_5;13560257
+plant_3;hammer_3;Distribution_Center_1;14062141
+plant_3;hammer_3;Distribution_Center_3;15256974
+plant_3;hammer_3;Distribution_Center_2;17487133
+plant_3;hammer_3;Distribution_Center_4;1569595
+plant_1;screw_3;Distribution_Center_1;11238297
+plant_1;screw_3;Distribution_Center_3;85211575
+plant_1;screw_3;Distribution_Center_4;72029316
+plant_1;screw_3;Distribution_Center_2;11128932
+plant_1;screw_3;Distribution_Center_5;11077855
+plant_1;screwdriver_3;Distribution_Center_1;16369828
+plant_1;screwdriver_3;Distribution_Center_2;16915507
+plant_1;screwdriver_3;Distribution_Center_5;1170024
+plant_1;screwdriver_3;Distribution_Center_4;11923906
+plant_1;screwdriver_3;Distribution_Center_3;18113629
+plant_3;hammer_1;Distribution_Center_4;13560257
+plant_3;hammer_1;Distribution_Center_2;14062141
+plant_3;hammer_1;Distribution_Center_1;15256974
+plant_3;hammer_1;Distribution_Center_5;17487133
+plant_3;hammer_1;Distribution_Center_3;1569595
+plant_1;spirit level_2;Distribution_Center_1;11323513
+plant_1;spirit level_2;Distribution_Center_4;11742613
+plant_1;spirit level_2;Distribution_Center_2;12740359
+plant_1;spirit level_2;Distribution_Center_3;14602656
+plant_1;spirit level_2;Distribution_Center_5;13106927
+plant_2;hammer_3;Distribution_Center_5;14389461
+plant_2;hammer_3;Distribution_Center_1;11484246
+plant_2;hammer_3;Distribution_Center_3;11458215
+plant_2;hammer_3;Distribution_Center_2;11577138
+plant_2;hammer_3;Distribution_Center_4;1855241
+plant_2;screwdriver_2;Distribution_Center_3;1498284
+plant_2;screwdriver_2;Distribution_Center_1;11957823
+plant_2;screwdriver_2;Distribution_Center_4;11930717
+plant_2;screwdriver_2;Distribution_Center_5;12054545
+plant_2;screwdriver_2;Distribution_Center_2;19317456
+plant_3;spirit level_3;Distribution_Center_4;11621655
+plant_3;spirit level_3;Distribution_Center_1;10980604
+plant_3;spirit level_3;Distribution_Center_3;15337822
+plant_3;spirit level_3;Distribution_Center_2;14405264
+plant_3;spirit level_3;Distribution_Center_5;10710201
+plant_3;toolbox_2;Distribution_Center_2;24415987
+plant_3;toolbox_2;Distribution_Center_1;14755803
+plant_3;toolbox_2;Distribution_Center_3;2425085
+plant_3;toolbox_2;Distribution_Center_4;2210557
+plant_3;toolbox_2;Distribution_Center_5;18667029
+plant_1;drilling machine_2;Distribution_Center_5;10680838
+plant_1;drilling machine_2;Distribution_Center_4;8524389
+plant_1;drilling machine_2;Distribution_Center_1;8505066
+plant_1;drilling machine_2;Distribution_Center_3;85933393
+plant_1;drilling machine_2;Distribution_Center_2;1377086
+plant_1;current meter_1;Distribution_Center_5;10186883
+plant_1;current meter_1;Distribution_Center_3;9624973
+plant_1;current meter_1;Distribution_Center_2;13444264
+plant_1;current meter_1;Distribution_Center_4;12626836
+plant_1;current meter_1;Distribution_Center_1;9387954
+plant_2;toolbox_2;Distribution_Center_2;18795515
+plant_2;toolbox_2;Distribution_Center_1;17758752
+plant_2;toolbox_2;Distribution_Center_3;24805613
+plant_2;toolbox_2;Distribution_Center_4;232974
+plant_2;toolbox_2;Distribution_Center_5;17321435
+plant_1;cordless screwdriver_2;Distribution_Center_1;18342931
+plant_1;cordless screwdriver_2;Distribution_Center_2;15094644
+plant_1;cordless screwdriver_2;Distribution_Center_3;12595348
+plant_1;cordless screwdriver_2;Distribution_Center_4;10733062
+plant_1;cordless screwdriver_2;Distribution_Center_5;11539894
+plant_1;screw_2;Distribution_Center_5;7769452
+plant_1;screw_2;Distribution_Center_3;10268564
+plant_1;screw_2;Distribution_Center_4;12118433
+plant_1;screw_2;Distribution_Center_2;11165673
+plant_1;screw_2;Distribution_Center_1;7620748
+plant_3;screwdriver_2;Distribution_Center_3;16821134
+plant_3;screwdriver_2;Distribution_Center_1;15067577
+plant_3;screwdriver_2;Distribution_Center_4;1186441
+plant_3;screwdriver_2;Distribution_Center_5;11139145
+plant_3;screwdriver_2;Distribution_Center_2;14577554
+plant_1;current meter_3;Distribution_Center_5;13080641
+plant_1;current meter_3;Distribution_Center_3;9918068
+plant_1;current meter_3;Distribution_Center_4;83837396
+plant_1;current meter_3;Distribution_Center_1;12953347
+plant_1;current meter_3;Distribution_Center_2;12893896
+plant_3;current meter_3;Distribution_Center_5;13233092
+plant_3;current meter_3;Distribution_Center_3;79974204
+plant_3;current meter_3;Distribution_Center_4;13143591
+plant_3;current meter_3;Distribution_Center_1;11980882
+plant_3;current meter_3;Distribution_Center_2;10117245
+plant_1;cordless screwdriver_1;Distribution_Center_5;1379608
+plant_1;cordless screwdriver_1;Distribution_Center_4;1101067
+plant_1;cordless screwdriver_1;Distribution_Center_2;10985711
+plant_1;cordless screwdriver_1;Distribution_Center_3;1109973
+plant_1;cordless screwdriver_1;Distribution_Center_1;17787361
+plant_1;hammer_3;Distribution_Center_5;13917291
+plant_1;hammer_3;Distribution_Center_1;13149612
+plant_1;hammer_3;Distribution_Center_3;18367517
+plant_1;hammer_3;Distribution_Center_2;17250749
+plant_1;hammer_3;Distribution_Center_4;12825797
+plant_3;nail_3;Distribution_Center_5;17948459
+plant_3;nail_3;Distribution_Center_3;14770029
+plant_3;nail_3;Distribution_Center_4;12324481
+plant_3;nail_3;Distribution_Center_1;10502243
+plant_3;nail_3;Distribution_Center_2;11291724
+plant_3;screw_3;Distribution_Center_1;7769452
+plant_3;screw_3;Distribution_Center_3;10268564
+plant_3;screw_3;Distribution_Center_4;12118433
+plant_3;screw_3;Distribution_Center_2;11165673
+plant_3;screw_3;Distribution_Center_5;7620748
+plant_3;current meter_1;Distribution_Center_5;13233092
+plant_3;current meter_1;Distribution_Center_3;79974204
+plant_3;current meter_1;Distribution_Center_2;13143591
+plant_3;current meter_1;Distribution_Center_4;11980882
+plant_3;current meter_1;Distribution_Center_1;10117245
+plant_3;impact drill_1;Distribution_Center_2;20097404
+plant_3;impact drill_1;Distribution_Center_5;20847073
+plant_3;impact drill_1;Distribution_Center_1;17571374
+plant_3;impact drill_1;Distribution_Center_3;15159199
+plant_3;impact drill_1;Distribution_Center_4;13995042
+plant_3;spirit level_1;Distribution_Center_3;95882434
+plant_3;spirit level_1;Distribution_Center_5;14311881
+plant_3;spirit level_1;Distribution_Center_2;11441916
+plant_3;spirit level_1;Distribution_Center_1;15853356
+plant_3;spirit level_1;Distribution_Center_4;11903155
+plant_2;drilling machine_3;Distribution_Center_3;11669581
+plant_2;drilling machine_3;Distribution_Center_4;1205858
+plant_2;drilling machine_3;Distribution_Center_2;8340766
+plant_2;drilling machine_3;Distribution_Center_1;850021
+plant_2;drilling machine_3;Distribution_Center_5;12912686
+plant_1;impact drill_3;Distribution_Center_4;20450017
+plant_1;impact drill_3;Distribution_Center_2;15505712
+plant_1;impact drill_3;Distribution_Center_3;13106973
+plant_1;impact drill_3;Distribution_Center_5;20251007
+plant_1;impact drill_3;Distribution_Center_1;20158064
+plant_2;impact drill_2;Distribution_Center_1;17990602
+plant_2;impact drill_2;Distribution_Center_2;18590311
+plant_2;impact drill_2;Distribution_Center_5;1285868
+plant_2;impact drill_2;Distribution_Center_3;1310449
+plant_2;impact drill_2;Distribution_Center_4;19907057
+plant_3;drilling machine_1;Distribution_Center_1;11669581
+plant_3;drilling machine_1;Distribution_Center_5;1205858
+plant_3;drilling machine_1;Distribution_Center_3;8340766
+plant_3;drilling machine_1;Distribution_Center_2;850021
+plant_3;drilling machine_1;Distribution_Center_4;12912686
+plant_1;spirit level_3;Distribution_Center_4;11323513
+plant_1;spirit level_3;Distribution_Center_1;11742613
+plant_1;spirit level_3;Distribution_Center_3;12740359
+plant_1;spirit level_3;Distribution_Center_2;14602656
+plant_1;spirit level_3;Distribution_Center_5;13106927
+plant_2;hammer_1;Distribution_Center_4;14389461
+plant_2;hammer_1;Distribution_Center_2;11484246
+plant_2;hammer_1;Distribution_Center_1;11458215
+plant_2;hammer_1;Distribution_Center_5;11577138
+plant_2;hammer_1;Distribution_Center_3;1855241
+plant_2;nail_3;Distribution_Center_5;17948459
+plant_2;nail_3;Distribution_Center_3;14770029
+plant_2;nail_3;Distribution_Center_4;12324481
+plant_2;nail_3;Distribution_Center_1;10502243
+plant_2;nail_3;Distribution_Center_2;11291724
+plant_3;hammer_2;Distribution_Center_2;12354702
+plant_3;hammer_2;Distribution_Center_1;163287
+plant_3;hammer_2;Distribution_Center_4;19270295
+plant_3;hammer_2;Distribution_Center_5;1775525
+plant_3;hammer_2;Distribution_Center_3;12118239
+plant_2;current meter_2;Distribution_Center_3;9925548
+plant_2;current meter_2;Distribution_Center_2;10292907
+plant_2;current meter_2;Distribution_Center_1;11167475
+plant_2;current meter_2;Distribution_Center_4;12799859
+plant_2;current meter_2;Distribution_Center_5;11488787
+plant_2;toolbox_1;Distribution_Center_3;19433188
+plant_2;toolbox_1;Distribution_Center_1;15509652
+plant_2;toolbox_1;Distribution_Center_2;15474495
+plant_2;toolbox_1;Distribution_Center_5;15635102
+plant_2;toolbox_1;Distribution_Center_4;25055313
+plant_3;cordless screwdriver_1;Distribution_Center_5;13343382
+plant_3;cordless screwdriver_1;Distribution_Center_4;12607359
+plant_3;cordless screwdriver_1;Distribution_Center_2;17610092
+plant_3;cordless screwdriver_1;Distribution_Center_3;16539377
+plant_3;cordless screwdriver_1;Distribution_Center_1;12296897
+plant_3;toolbox_1;Distribution_Center_3;24415987
+plant_3;toolbox_1;Distribution_Center_1;14755803
+plant_3;toolbox_1;Distribution_Center_2;2425085
+plant_3;toolbox_1;Distribution_Center_5;2210557
+plant_3;toolbox_1;Distribution_Center_4;18667029
+plant_1;current meter_2;Distribution_Center_3;11824757
+plant_1;current meter_2;Distribution_Center_2;10592059
+plant_1;current meter_2;Distribution_Center_1;8340328
+plant_1;current meter_2;Distribution_Center_4;78304875
+plant_1;current meter_2;Distribution_Center_5;10247587
+plant_1;toolbox_2;Distribution_Center_2;23718555
+plant_1;toolbox_2;Distribution_Center_1;246033
+plant_1;toolbox_2;Distribution_Center_3;20737386
+plant_1;toolbox_2;Distribution_Center_4;17890586
+plant_1;toolbox_2;Distribution_Center_5;1651667
+plant_2;cordless screwdriver_3;Distribution_Center_2;17333487
+plant_2;cordless screwdriver_3;Distribution_Center_5;10475495
+plant_2;cordless screwdriver_3;Distribution_Center_1;17216253
+plant_2;cordless screwdriver_3;Distribution_Center_3;15693269
+plant_2;cordless screwdriver_3;Distribution_Center_4;13252167
+plant_3;impact drill_2;Distribution_Center_1;12316747
+plant_3;impact drill_2;Distribution_Center_2;15331776
+plant_3;impact drill_2;Distribution_Center_5;14170861
+plant_3;impact drill_2;Distribution_Center_3;12250396
+plant_3;impact drill_2;Distribution_Center_4;2177985
+plant_2;screw_2;Distribution_Center_5;8752111
+plant_2;screw_2;Distribution_Center_3;82693434
+plant_2;screw_2;Distribution_Center_4;11550707
+plant_2;screw_2;Distribution_Center_2;10848409
+plant_2;screw_2;Distribution_Center_1;8065707
+plant_1;hammer_2;Distribution_Center_2;16154951
+plant_1;hammer_2;Distribution_Center_1;14470843
+plant_1;hammer_2;Distribution_Center_4;11394533
+plant_1;hammer_2;Distribution_Center_5;10697991
+plant_1;hammer_2;Distribution_Center_3;14000226
+plant_2;spirit level_3;Distribution_Center_4;95882434
+plant_2;spirit level_3;Distribution_Center_1;14311881
+plant_2;spirit level_3;Distribution_Center_3;11441916
+plant_2;spirit level_3;Distribution_Center_2;15853356
+plant_2;spirit level_3;Distribution_Center_5;11903155
+plant_1;screwdriver_2;Distribution_Center_3;12523717
+plant_1;screwdriver_2;Distribution_Center_1;12290981
+plant_1;screwdriver_2;Distribution_Center_4;15831668
+plant_1;screwdriver_2;Distribution_Center_5;17065703
+plant_1;screwdriver_2;Distribution_Center_2;14108183
+plant_3;nail_2;Distribution_Center_1;10479974
+plant_3;nail_2;Distribution_Center_4;11278625
+plant_3;nail_2;Distribution_Center_3;17753491
+plant_3;nail_2;Distribution_Center_2;16810665
+plant_3;nail_2;Distribution_Center_5;15967474
+plant_3;drilling machine_2;Distribution_Center_5;1420098
+plant_3;drilling machine_2;Distribution_Center_4;11686177
+plant_3;drilling machine_2;Distribution_Center_1;97512376
+plant_3;drilling machine_2;Distribution_Center_3;83094674
+plant_3;drilling machine_2;Distribution_Center_2;8934112
+plant_1;impact drill_1;Distribution_Center_2;21893175
+plant_1;impact drill_1;Distribution_Center_5;18016188
+plant_1;impact drill_1;Distribution_Center_1;15033158
+plant_1;impact drill_1;Distribution_Center_3;12810428
+plant_1;impact drill_1;Distribution_Center_4;13773422
+plant_2;current meter_3;Distribution_Center_5;90431315
+plant_2;current meter_3;Distribution_Center_3;11951934
+plant_2;current meter_3;Distribution_Center_4;1410506
+plant_2;current meter_3;Distribution_Center_1;1299611
+plant_2;current meter_3;Distribution_Center_2;8870051
+plant_3;cordless screwdriver_3;Distribution_Center_2;15488768
+plant_3;cordless screwdriver_3;Distribution_Center_5;13874106
+plant_3;cordless screwdriver_3;Distribution_Center_1;10924655
+plant_3;cordless screwdriver_3;Distribution_Center_3;10256836
+plant_3;cordless screwdriver_3;Distribution_Center_4;13422897
+plant_1;screwdriver_1;Distribution_Center_3;18824539
+plant_1;screwdriver_1;Distribution_Center_4;11376612
+plant_1;screwdriver_1;Distribution_Center_1;1869722
+plant_1;screwdriver_1;Distribution_Center_5;17043227
+plant_1;screwdriver_1;Distribution_Center_2;14392138
+plant_2;screw_1;Distribution_Center_3;12031385
+plant_2;screw_1;Distribution_Center_4;99007887
+plant_2;screw_1;Distribution_Center_2;82614654
+plant_2;screw_1;Distribution_Center_5;70399654
+plant_2;screw_1;Distribution_Center_1;75691783
+plant_1;drilling machine_1;Distribution_Center_1;13036153
+plant_1;drilling machine_1;Distribution_Center_5;13522426
+plant_1;drilling machine_1;Distribution_Center_3;11397649
+plant_1;drilling machine_1;Distribution_Center_2;98329943
+plant_1;drilling machine_1;Distribution_Center_4;90778655
+plant_2;impact drill_1;Distribution_Center_2;14137855
+plant_2;impact drill_1;Distribution_Center_5;1868542
+plant_2;impact drill_1;Distribution_Center_1;22051575
+plant_2;impact drill_1;Distribution_Center_3;20317862
+plant_2;impact drill_1;Distribution_Center_4;13867263
+plant_2;spirit level_1;Distribution_Center_3;13490217
+plant_2;spirit level_1;Distribution_Center_5;12083899
+plant_2;spirit level_1;Distribution_Center_2;9515022
+plant_2;spirit level_1;Distribution_Center_1;89333737
+plant_2;spirit level_1;Distribution_Center_4;1169091
+plant_3;screw_1;Distribution_Center_3;11044519
+plant_3;screw_1;Distribution_Center_4;11456499
+plant_3;screw_1;Distribution_Center_2;9656341
+plant_3;screw_1;Distribution_Center_5;83307314
+plant_3;screw_1;Distribution_Center_1;7690969
+plant_1;cordless screwdriver_3;Distribution_Center_2;10319437
+plant_1;cordless screwdriver_3;Distribution_Center_5;12845542
+plant_1;cordless screwdriver_3;Distribution_Center_1;11872884
+plant_1;cordless screwdriver_3;Distribution_Center_3;10263845
+plant_1;cordless screwdriver_3;Distribution_Center_4;18247981
+plant_1;toolbox_3;Distribution_Center_3;16243632
+plant_1;toolbox_3;Distribution_Center_2;15941768
+plant_1;toolbox_3;Distribution_Center_4;20534143
+plant_1;toolbox_3;Distribution_Center_5;22134724
+plant_1;toolbox_3;Distribution_Center_1;18298732
+plant_3;screw_2;Distribution_Center_5;70250374
+plant_3;screw_2;Distribution_Center_3;7560396
+plant_3;screw_2;Distribution_Center_4;11900692
+plant_3;screw_2;Distribution_Center_2;11268687
+plant_3;screw_2;Distribution_Center_1;10703472
+plant_1;spirit level_1;Distribution_Center_3;10316813
+plant_1;spirit level_1;Distribution_Center_5;13635305
+plant_1;spirit level_1;Distribution_Center_2;16091689
+plant_1;spirit level_1;Distribution_Center_1;14826548
+plant_1;spirit level_1;Distribution_Center_4;10119354
+plant_1;toolbox_1;Distribution_Center_3;15506911
+plant_1;toolbox_1;Distribution_Center_1;23146374
+plant_1;toolbox_1;Distribution_Center_2;18504826
+plant_1;toolbox_1;Distribution_Center_5;25639377
+plant_1;toolbox_1;Distribution_Center_4;1925078
+plant_2;current meter_1;Distribution_Center_5;7878279
+plant_2;current meter_1;Distribution_Center_3;9806811
+plant_2;current meter_1;Distribution_Center_2;90642446
+plant_2;current meter_1;Distribution_Center_4;7835838
+plant_2;current meter_1;Distribution_Center_1;13931254
+plant_2;screw_3;Distribution_Center_1;75638294
+plant_2;screw_3;Distribution_Center_3;7423266
+plant_2;screw_3;Distribution_Center_4;9561701
+plant_2;screw_3;Distribution_Center_2;10307009
+plant_2;screw_3;Distribution_Center_5;85207844
+plant_2;screwdriver_3;Distribution_Center_1;18286825
+plant_2;screwdriver_3;Distribution_Center_2;18968958
+plant_2;screwdriver_3;Distribution_Center_5;15988368
+plant_2;screwdriver_3;Distribution_Center_4;13793505
+plant_2;screwdriver_3;Distribution_Center_3;12734227
+plant_1;nail_2;Distribution_Center_1;15865611
+plant_1;nail_2;Distribution_Center_4;1345326
+plant_1;nail_2;Distribution_Center_3;1535435
+plant_1;nail_2;Distribution_Center_2;12324001
+plant_1;nail_2;Distribution_Center_5;15454907
+plant_3;spirit level_2;Distribution_Center_1;95882434
+plant_3;spirit level_2;Distribution_Center_4;14311881
+plant_3;spirit level_2;Distribution_Center_2;11441916
+plant_3;spirit level_2;Distribution_Center_3;15853356
+plant_3;spirit level_2;Distribution_Center_5;11903155
+plant_1;nail_1;Distribution_Center_4;10771977
+plant_1;nail_1;Distribution_Center_3;16078781
+plant_1;nail_1;Distribution_Center_1;12854499
+plant_1;nail_1;Distribution_Center_5;1781056
+plant_1;nail_1;Distribution_Center_2;13372681
+plant_3;impact drill_3;Distribution_Center_4;12316747
+plant_3;impact drill_3;Distribution_Center_2;15331776
+plant_3;impact drill_3;Distribution_Center_3;14170861
+plant_3;impact drill_3;Distribution_Center_5;12250396
+plant_3;impact drill_3;Distribution_Center_1;2177985
+plant_3;toolbox_3;Distribution_Center_3;16243632
+plant_3;toolbox_3;Distribution_Center_2;15941768
+plant_3;toolbox_3;Distribution_Center_4;20534143
+plant_3;toolbox_3;Distribution_Center_5;22134724
+plant_3;toolbox_3;Distribution_Center_1;18298732
+plant_3;nail_1;Distribution_Center_4;15865611
+plant_3;nail_1;Distribution_Center_3;1345326
+plant_3;nail_1;Distribution_Center_1;1535435
+plant_3;nail_1;Distribution_Center_5;12324001
+plant_3;nail_1;Distribution_Center_2;15454907
+plant_2;screwdriver_1;Distribution_Center_3;13829315
+plant_2;screwdriver_1;Distribution_Center_4;17975132
+plant_2;screwdriver_1;Distribution_Center_1;18134418
+plant_2;screwdriver_1;Distribution_Center_5;1693493
+plant_2;screwdriver_1;Distribution_Center_2;15219868
+plant_2;cordless screwdriver_1;Distribution_Center_5;15488768
+plant_2;cordless screwdriver_1;Distribution_Center_4;13874106
+plant_2;cordless screwdriver_1;Distribution_Center_2;10924655
+plant_2;cordless screwdriver_1;Distribution_Center_3;10256836
+plant_2;cordless screwdriver_1;Distribution_Center_1;13422897
+plant_2;nail_2;Distribution_Center_1;16476249
+plant_2;nail_2;Distribution_Center_4;17090844
+plant_2;nail_2;Distribution_Center_3;14405361
+plant_2;nail_2;Distribution_Center_2;12427812
+plant_2;nail_2;Distribution_Center_5;11473413
+plant_2;nail_1;Distribution_Center_4;10097513
+plant_2;nail_1;Distribution_Center_3;12569294
+plant_2;nail_1;Distribution_Center_1;11617553
+plant_2;nail_1;Distribution_Center_5;10043117
+plant_2;nail_1;Distribution_Center_2;17855551
+plant_3;screwdriver_3;Distribution_Center_1;12523717
+plant_3;screwdriver_3;Distribution_Center_2;12290981
+plant_3;screwdriver_3;Distribution_Center_5;15831668
+plant_3;screwdriver_3;Distribution_Center_4;17065703
+plant_3;screwdriver_3;Distribution_Center_3;14108183
+plant_2;impact drill_3;Distribution_Center_4;12783265
+plant_2;impact drill_3;Distribution_Center_2;13757442
+plant_2;impact drill_3;Distribution_Center_3;21655357
+plant_2;impact drill_3;Distribution_Center_5;20505316
+plant_2;impact drill_3;Distribution_Center_1;19476808
+plant_2;drilling machine_1;Distribution_Center_1;8522883
+plant_2;drilling machine_1;Distribution_Center_5;12721673
+plant_2;drilling machine_1;Distribution_Center_3;10170592
+plant_2;drilling machine_1;Distribution_Center_2;14091872
+plant_2;drilling machine_1;Distribution_Center_4;10580583
+plant_2;drilling machine_2;Distribution_Center_5;79892415
+plant_2;drilling machine_2;Distribution_Center_4;9944936
+plant_2;drilling machine_2;Distribution_Center_1;91919106
+plant_2;drilling machine_2;Distribution_Center_3;7946203
+plant_2;drilling machine_2;Distribution_Center_2;1412747
+plant_2;hammer_2;Distribution_Center_2;13251714
+plant_2;hammer_2;Distribution_Center_1;18897843
+plant_2;hammer_2;Distribution_Center_4;16870487
+plant_2;hammer_2;Distribution_Center_5;18527101
+plant_2;hammer_2;Distribution_Center_3;14648995
+plant_3;drilling machine_3;Distribution_Center_3;10073856
+plant_3;drilling machine_3;Distribution_Center_4;11195632
+plant_3;drilling machine_3;Distribution_Center_2;11626526
+plant_3;drilling machine_3;Distribution_Center_1;11928545
+plant_3;drilling machine_3;Distribution_Center_5;11270275
+plant_1;drilling machine_3;Distribution_Center_3;9858522
+plant_1;drilling machine_3;Distribution_Center_4;12813957
+plant_1;drilling machine_3;Distribution_Center_2;12927506
+plant_1;drilling machine_3;Distribution_Center_1;12072426
+plant_1;drilling machine_3;Distribution_Center_5;10849807
+plant_3;current meter_2;Distribution_Center_3;9699707
+plant_3;current meter_2;Distribution_Center_2;13832442
+plant_3;current meter_2;Distribution_Center_1;123485
+plant_3;current meter_2;Distribution_Center_4;13561074
+plant_3;current meter_2;Distribution_Center_5;1072246
+plant_1;screw_1;Distribution_Center_3;70250374
+plant_1;screw_1;Distribution_Center_4;7560396
+plant_1;screw_1;Distribution_Center_2;11900692
+plant_1;screw_1;Distribution_Center_5;11268687
+plant_1;screw_1;Distribution_Center_1;10703472
