@@ -1,0 +1,4081 @@
+product,store,date,demand
+cordless screwdriver_1,Store_1,2024-02-26,156
+cordless screwdriver_1,Store_1,2024-03-04,152
+cordless screwdriver_1,Store_1,2024-03-11,138
+cordless screwdriver_1,Store_1,2024-03-18,145
+cordless screwdriver_1,Store_1,2024-03-25,161
+cordless screwdriver_1,Store_1,2024-04-01,131
+cordless screwdriver_1,Store_1,2024-04-08,145
+cordless screwdriver_1,Store_1,2024-04-15,159
+cordless screwdriver_1,Store_1,2024-04-22,141
+cordless screwdriver_1,Store_1,2024-04-29,144
+cordless screwdriver_1,Store_1,2024-05-06,149
+cordless screwdriver_1,Store_1,2024-05-13,159
+cordless screwdriver_1,Store_1,2024-05-20,145
+cordless screwdriver_1,Store_1,2024-05-27,147
+cordless screwdriver_1,Store_1,2024-06-03,147
+cordless screwdriver_1,Store_1,2024-06-10,164
+cordless screwdriver_1,Store_1,2024-06-17,167
+cordless screwdriver_1,Store_2,2024-02-26,91
+cordless screwdriver_1,Store_2,2024-03-04,84
+cordless screwdriver_1,Store_2,2024-03-11,73
+cordless screwdriver_1,Store_2,2024-03-18,75
+cordless screwdriver_1,Store_2,2024-03-25,95
+cordless screwdriver_1,Store_2,2024-04-01,64
+cordless screwdriver_1,Store_2,2024-04-08,82
+cordless screwdriver_1,Store_2,2024-04-15,87
+cordless screwdriver_1,Store_2,2024-04-22,80
+cordless screwdriver_1,Store_2,2024-04-29,78
+cordless screwdriver_1,Store_2,2024-05-06,78
+cordless screwdriver_1,Store_2,2024-05-13,96
+cordless screwdriver_1,Store_2,2024-05-20,78
+cordless screwdriver_1,Store_2,2024-05-27,81
+cordless screwdriver_1,Store_2,2024-06-03,74
+cordless screwdriver_1,Store_2,2024-06-10,102
+cordless screwdriver_1,Store_2,2024-06-17,102
+cordless screwdriver_1,Store_3,2024-02-26,143
+cordless screwdriver_1,Store_3,2024-03-04,137
+cordless screwdriver_1,Store_3,2024-03-11,115
+cordless screwdriver_1,Store_3,2024-03-18,121
+cordless screwdriver_1,Store_3,2024-03-25,152
+cordless screwdriver_1,Store_3,2024-04-01,108
+cordless screwdriver_1,Store_3,2024-04-08,124
+cordless screwdriver_1,Store_3,2024-04-15,146
+cordless screwdriver_1,Store_3,2024-04-22,127
+cordless screwdriver_1,Store_3,2024-04-29,122
+cordless screwdriver_1,Store_3,2024-05-06,128
+cordless screwdriver_1,Store_3,2024-05-13,151
+cordless screwdriver_1,Store_3,2024-05-20,127
+cordless screwdriver_1,Store_3,2024-05-27,124
+cordless screwdriver_1,Store_3,2024-06-03,124
+cordless screwdriver_1,Store_3,2024-06-10,159
+cordless screwdriver_1,Store_3,2024-06-17,161
+cordless screwdriver_1,Store_4,2024-02-26,121
+cordless screwdriver_1,Store_4,2024-03-04,117
+cordless screwdriver_1,Store_4,2024-03-11,101
+cordless screwdriver_1,Store_4,2024-03-18,113
+cordless screwdriver_1,Store_4,2024-03-25,127
+cordless screwdriver_1,Store_4,2024-04-01,93
+cordless screwdriver_1,Store_4,2024-04-08,110
+cordless screwdriver_1,Store_4,2024-04-15,128
+cordless screwdriver_1,Store_4,2024-04-22,102
+cordless screwdriver_1,Store_4,2024-04-29,109
+cordless screwdriver_1,Store_4,2024-05-06,118
+cordless screwdriver_1,Store_4,2024-05-13,122
+cordless screwdriver_1,Store_4,2024-05-20,108
+cordless screwdriver_1,Store_4,2024-05-27,111
+cordless screwdriver_1,Store_4,2024-06-03,115
+cordless screwdriver_1,Store_4,2024-06-10,128
+cordless screwdriver_1,Store_4,2024-06-17,129
+cordless screwdriver_1,Store_5,2024-02-26,171
+cordless screwdriver_1,Store_5,2024-03-04,163
+cordless screwdriver_1,Store_5,2024-03-11,146
+cordless screwdriver_1,Store_5,2024-03-18,156
+cordless screwdriver_1,Store_5,2024-03-25,177
+cordless screwdriver_1,Store_5,2024-04-01,137
+cordless screwdriver_1,Store_5,2024-04-08,158
+cordless screwdriver_1,Store_5,2024-04-15,173
+cordless screwdriver_1,Store_5,2024-04-22,152
+cordless screwdriver_1,Store_5,2024-04-29,155
+cordless screwdriver_1,Store_5,2024-05-06,160
+cordless screwdriver_1,Store_5,2024-05-13,175
+cordless screwdriver_1,Store_5,2024-05-20,154
+cordless screwdriver_1,Store_5,2024-05-27,157
+cordless screwdriver_1,Store_5,2024-06-03,157
+cordless screwdriver_1,Store_5,2024-06-10,183
+cordless screwdriver_1,Store_5,2024-06-17,182
+cordless screwdriver_1,Store_6,2024-02-26,129
+cordless screwdriver_1,Store_6,2024-03-04,122
+cordless screwdriver_1,Store_6,2024-03-11,110
+cordless screwdriver_1,Store_6,2024-03-18,116
+cordless screwdriver_1,Store_6,2024-03-25,133
+cordless screwdriver_1,Store_6,2024-04-01,101
+cordless screwdriver_1,Store_6,2024-04-08,119
+cordless screwdriver_1,Store_6,2024-04-15,128
+cordless screwdriver_1,Store_6,2024-04-22,114
+cordless screwdriver_1,Store_6,2024-04-29,117
+cordless screwdriver_1,Store_6,2024-05-06,119
+cordless screwdriver_1,Store_6,2024-05-13,133
+cordless screwdriver_1,Store_6,2024-05-20,116
+cordless screwdriver_1,Store_6,2024-05-27,119
+cordless screwdriver_1,Store_6,2024-06-03,116
+cordless screwdriver_1,Store_6,2024-06-10,139
+cordless screwdriver_1,Store_6,2024-06-17,139
+cordless screwdriver_1,Store_7,2024-02-26,49
+cordless screwdriver_1,Store_7,2024-03-04,44
+cordless screwdriver_1,Store_7,2024-03-11,24
+cordless screwdriver_1,Store_7,2024-03-18,32
+cordless screwdriver_1,Store_7,2024-03-25,58
+cordless screwdriver_1,Store_7,2024-04-01,19
+cordless screwdriver_1,Store_7,2024-04-08,33
+cordless screwdriver_1,Store_7,2024-04-15,53
+cordless screwdriver_1,Store_7,2024-04-22,34
+cordless screwdriver_1,Store_7,2024-04-29,31
+cordless screwdriver_1,Store_7,2024-05-06,38
+cordless screwdriver_1,Store_7,2024-05-13,56
+cordless screwdriver_1,Store_7,2024-05-20,34
+cordless screwdriver_1,Store_7,2024-05-27,32
+cordless screwdriver_1,Store_7,2024-06-03,35
+cordless screwdriver_1,Store_7,2024-06-10,62
+cordless screwdriver_1,Store_7,2024-06-17,61
+cordless screwdriver_1,Store_8,2024-02-26,39
+cordless screwdriver_1,Store_8,2024-03-04,33
+cordless screwdriver_1,Store_8,2024-03-11,28
+cordless screwdriver_1,Store_8,2024-03-18,32
+cordless screwdriver_1,Store_8,2024-03-25,40
+cordless screwdriver_1,Store_8,2024-04-01,22
+cordless screwdriver_1,Store_8,2024-04-08,34
+cordless screwdriver_1,Store_8,2024-04-15,37
+cordless screwdriver_1,Store_8,2024-04-22,30
+cordless screwdriver_1,Store_8,2024-04-29,32
+cordless screwdriver_1,Store_8,2024-05-06,32
+cordless screwdriver_1,Store_8,2024-05-13,40
+cordless screwdriver_1,Store_8,2024-05-20,30
+cordless screwdriver_1,Store_8,2024-05-27,33
+cordless screwdriver_1,Store_8,2024-06-03,31
+cordless screwdriver_1,Store_8,2024-06-10,43
+cordless screwdriver_1,Store_8,2024-06-17,42
+cordless screwdriver_2,Store_1,2024-02-26,176
+cordless screwdriver_2,Store_1,2024-03-04,172
+cordless screwdriver_2,Store_1,2024-03-11,161
+cordless screwdriver_2,Store_1,2024-03-18,166
+cordless screwdriver_2,Store_1,2024-03-25,180
+cordless screwdriver_2,Store_1,2024-04-01,155
+cordless screwdriver_2,Store_1,2024-04-08,167
+cordless screwdriver_2,Store_1,2024-04-15,178
+cordless screwdriver_2,Store_1,2024-04-22,165
+cordless screwdriver_2,Store_1,2024-04-29,166
+cordless screwdriver_2,Store_1,2024-05-06,169
+cordless screwdriver_2,Store_1,2024-05-13,180
+cordless screwdriver_2,Store_1,2024-05-20,167
+cordless screwdriver_2,Store_1,2024-05-27,168
+cordless screwdriver_2,Store_1,2024-06-03,167
+cordless screwdriver_2,Store_1,2024-06-10,184
+cordless screwdriver_2,Store_1,2024-06-17,185
+cordless screwdriver_2,Store_2,2024-02-26,77
+cordless screwdriver_2,Store_2,2024-03-04,74
+cordless screwdriver_2,Store_2,2024-03-11,56
+cordless screwdriver_2,Store_2,2024-03-18,63
+cordless screwdriver_2,Store_2,2024-03-25,85
+cordless screwdriver_2,Store_2,2024-04-01,51
+cordless screwdriver_2,Store_2,2024-04-08,62
+cordless screwdriver_2,Store_2,2024-04-15,82
+cordless screwdriver_2,Store_2,2024-04-22,64
+cordless screwdriver_2,Store_2,2024-04-29,61
+cordless screwdriver_2,Store_2,2024-05-06,69
+cordless screwdriver_2,Store_2,2024-05-13,83
+cordless screwdriver_2,Store_2,2024-05-20,65
+cordless screwdriver_2,Store_2,2024-05-27,64
+cordless screwdriver_2,Store_2,2024-06-03,66
+cordless screwdriver_2,Store_2,2024-06-10,89
+cordless screwdriver_2,Store_2,2024-06-17,91
+cordless screwdriver_2,Store_3,2024-02-26,47
+cordless screwdriver_2,Store_3,2024-03-04,39
+cordless screwdriver_2,Store_3,2024-03-11,12
+cordless screwdriver_2,Store_3,2024-03-18,29
+cordless screwdriver_2,Store_3,2024-03-25,60
+cordless screwdriver_2,Store_3,2024-04-01,3
+cordless screwdriver_2,Store_3,2024-04-08,26
+cordless screwdriver_2,Store_3,2024-04-15,58
+cordless screwdriver_2,Store_3,2024-04-22,22
+cordless screwdriver_2,Store_3,2024-04-29,21
+cordless screwdriver_2,Store_3,2024-05-06,38
+cordless screwdriver_2,Store_3,2024-05-13,54
+cordless screwdriver_2,Store_3,2024-05-20,23
+cordless screwdriver_2,Store_3,2024-05-27,25
+cordless screwdriver_2,Store_3,2024-06-03,33
+cordless screwdriver_2,Store_3,2024-06-10,62
+cordless screwdriver_2,Store_3,2024-06-17,57
+cordless screwdriver_2,Store_4,2024-02-26,77
+cordless screwdriver_2,Store_4,2024-03-04,68
+cordless screwdriver_2,Store_4,2024-03-11,54
+cordless screwdriver_2,Store_4,2024-03-18,61
+cordless screwdriver_2,Store_4,2024-03-25,82
+cordless screwdriver_2,Store_4,2024-04-01,43
+cordless screwdriver_2,Store_4,2024-04-08,65
+cordless screwdriver_2,Store_4,2024-04-15,75
+cordless screwdriver_2,Store_4,2024-04-22,60
+cordless screwdriver_2,Store_4,2024-04-29,61
+cordless screwdriver_2,Store_4,2024-05-06,65
+cordless screwdriver_2,Store_4,2024-05-13,81
+cordless screwdriver_2,Store_4,2024-05-20,60
+cordless screwdriver_2,Store_4,2024-05-27,64
+cordless screwdriver_2,Store_4,2024-06-03,61
+cordless screwdriver_2,Store_4,2024-06-10,88
+cordless screwdriver_2,Store_4,2024-06-17,86
+cordless screwdriver_2,Store_5,2024-02-26,172
+cordless screwdriver_2,Store_5,2024-03-04,165
+cordless screwdriver_2,Store_5,2024-03-11,148
+cordless screwdriver_2,Store_5,2024-03-18,159
+cordless screwdriver_2,Store_5,2024-03-25,176
+cordless screwdriver_2,Store_5,2024-04-01,136
+cordless screwdriver_2,Store_5,2024-04-08,158
+cordless screwdriver_2,Store_5,2024-04-15,174
+cordless screwdriver_2,Store_5,2024-04-22,149
+cordless screwdriver_2,Store_5,2024-04-29,158
+cordless screwdriver_2,Store_5,2024-05-06,163
+cordless screwdriver_2,Store_5,2024-05-13,174
+cordless screwdriver_2,Store_5,2024-05-20,157
+cordless screwdriver_2,Store_5,2024-05-27,161
+cordless screwdriver_2,Store_5,2024-06-03,161
+cordless screwdriver_2,Store_5,2024-06-10,182
+cordless screwdriver_2,Store_5,2024-06-17,186
+cordless screwdriver_2,Store_6,2024-02-26,43
+cordless screwdriver_2,Store_6,2024-03-04,30
+cordless screwdriver_2,Store_6,2024-03-11,11
+cordless screwdriver_2,Store_6,2024-03-18,30
+cordless screwdriver_2,Store_6,2024-03-25,48
+cordless screwdriver_2,Store_6,2024-04-01,6
+cordless screwdriver_2,Store_6,2024-04-08,32
+cordless screwdriver_2,Store_6,2024-04-15,47
+cordless screwdriver_2,Store_6,2024-04-22,9
+cordless screwdriver_2,Store_6,2024-04-29,26
+cordless screwdriver_2,Store_6,2024-05-06,34
+cordless screwdriver_2,Store_6,2024-05-13,42
+cordless screwdriver_2,Store_6,2024-05-20,19
+cordless screwdriver_2,Store_6,2024-05-27,29
+cordless screwdriver_2,Store_6,2024-06-03,29
+cordless screwdriver_2,Store_6,2024-06-10,52
+cordless screwdriver_2,Store_6,2024-06-17,50
+cordless screwdriver_2,Store_7,2024-02-26,65
+cordless screwdriver_2,Store_7,2024-03-04,59
+cordless screwdriver_2,Store_7,2024-03-11,44
+cordless screwdriver_2,Store_7,2024-03-18,51
+cordless screwdriver_2,Store_7,2024-03-25,72
+cordless screwdriver_2,Store_7,2024-04-01,38
+cordless screwdriver_2,Store_7,2024-04-08,53
+cordless screwdriver_2,Store_7,2024-04-15,68
+cordless screwdriver_2,Store_7,2024-04-22,51
+cordless screwdriver_2,Store_7,2024-04-29,50
+cordless screwdriver_2,Store_7,2024-05-06,56
+cordless screwdriver_2,Store_7,2024-05-13,70
+cordless screwdriver_2,Store_7,2024-05-20,51
+cordless screwdriver_2,Store_7,2024-05-27,52
+cordless screwdriver_2,Store_7,2024-06-03,53
+cordless screwdriver_2,Store_7,2024-06-10,76
+cordless screwdriver_2,Store_7,2024-06-17,74
+cordless screwdriver_2,Store_8,2024-02-26,79
+cordless screwdriver_2,Store_8,2024-03-04,66
+cordless screwdriver_2,Store_8,2024-03-11,49
+cordless screwdriver_2,Store_8,2024-03-18,67
+cordless screwdriver_2,Store_8,2024-03-25,83
+cordless screwdriver_2,Store_8,2024-04-01,33
+cordless screwdriver_2,Store_8,2024-04-08,70
+cordless screwdriver_2,Store_8,2024-04-15,81
+cordless screwdriver_2,Store_8,2024-04-22,47
+cordless screwdriver_2,Store_8,2024-04-29,65
+cordless screwdriver_2,Store_8,2024-05-06,69
+cordless screwdriver_2,Store_8,2024-05-13,78
+cordless screwdriver_2,Store_8,2024-05-20,56
+cordless screwdriver_2,Store_8,2024-05-27,66
+cordless screwdriver_2,Store_8,2024-06-03,65
+cordless screwdriver_2,Store_8,2024-06-10,87
+cordless screwdriver_2,Store_8,2024-06-17,84
+cordless screwdriver_3,Store_1,2024-02-26,46
+cordless screwdriver_3,Store_1,2024-03-04,40
+cordless screwdriver_3,Store_1,2024-03-11,26
+cordless screwdriver_3,Store_1,2024-03-18,31
+cordless screwdriver_3,Store_1,2024-03-25,53
+cordless screwdriver_3,Store_1,2024-04-01,20
+cordless screwdriver_3,Store_1,2024-04-08,34
+cordless screwdriver_3,Store_1,2024-04-15,47
+cordless screwdriver_3,Store_1,2024-04-22,34
+cordless screwdriver_3,Store_1,2024-04-29,31
+cordless screwdriver_3,Store_1,2024-05-06,35
+cordless screwdriver_3,Store_1,2024-05-13,52
+cordless screwdriver_3,Store_1,2024-05-20,33
+cordless screwdriver_3,Store_1,2024-05-27,33
+cordless screwdriver_3,Store_1,2024-06-03,32
+cordless screwdriver_3,Store_1,2024-06-10,58
+cordless screwdriver_3,Store_1,2024-06-17,56
+cordless screwdriver_3,Store_2,2024-02-26,48
+cordless screwdriver_3,Store_2,2024-03-04,40
+cordless screwdriver_3,Store_2,2024-03-11,33
+cordless screwdriver_3,Store_2,2024-03-18,38
+cordless screwdriver_3,Store_2,2024-03-25,49
+cordless screwdriver_3,Store_2,2024-04-01,23
+cordless screwdriver_3,Store_2,2024-04-08,43
+cordless screwdriver_3,Store_2,2024-04-15,44
+cordless screwdriver_3,Store_2,2024-04-22,35
+cordless screwdriver_3,Store_2,2024-04-29,39
+cordless screwdriver_3,Store_2,2024-05-06,38
+cordless screwdriver_3,Store_2,2024-05-13,50
+cordless screwdriver_3,Store_2,2024-05-20,36
+cordless screwdriver_3,Store_2,2024-05-27,41
+cordless screwdriver_3,Store_2,2024-06-03,36
+cordless screwdriver_3,Store_2,2024-06-10,55
+cordless screwdriver_3,Store_2,2024-06-17,53
+cordless screwdriver_3,Store_3,2024-02-26,40
+cordless screwdriver_3,Store_3,2024-03-04,31
+cordless screwdriver_3,Store_3,2024-03-11,17
+cordless screwdriver_3,Store_3,2024-03-18,25
+cordless screwdriver_3,Store_3,2024-03-25,44
+cordless screwdriver_3,Store_3,2024-04-01,7
+cordless screwdriver_3,Store_3,2024-04-08,29
+cordless screwdriver_3,Store_3,2024-04-15,39
+cordless screwdriver_3,Store_3,2024-04-22,21
+cordless screwdriver_3,Store_3,2024-04-29,26
+cordless screwdriver_3,Store_3,2024-05-06,28
+cordless screwdriver_3,Store_3,2024-05-13,43
+cordless screwdriver_3,Store_3,2024-05-20,24
+cordless screwdriver_3,Store_3,2024-05-27,28
+cordless screwdriver_3,Store_3,2024-06-03,25
+cordless screwdriver_3,Store_3,2024-06-10,50
+cordless screwdriver_3,Store_3,2024-06-17,49
+cordless screwdriver_3,Store_4,2024-02-26,89
+cordless screwdriver_3,Store_4,2024-03-04,80
+cordless screwdriver_3,Store_4,2024-03-11,56
+cordless screwdriver_3,Store_4,2024-03-18,75
+cordless screwdriver_3,Store_4,2024-03-25,98
+cordless screwdriver_3,Store_4,2024-04-01,43
+cordless screwdriver_3,Store_4,2024-04-08,73
+cordless screwdriver_3,Store_4,2024-04-15,99
+cordless screwdriver_3,Store_4,2024-04-22,58
+cordless screwdriver_3,Store_4,2024-04-29,68
+cordless screwdriver_3,Store_4,2024-05-06,83
+cordless screwdriver_3,Store_4,2024-05-13,91
+cordless screwdriver_3,Store_4,2024-05-20,65
+cordless screwdriver_3,Store_4,2024-05-27,73
+cordless screwdriver_3,Store_4,2024-06-03,77
+cordless screwdriver_3,Store_4,2024-06-10,99
+cordless screwdriver_3,Store_4,2024-06-17,97
+cordless screwdriver_3,Store_5,2024-02-26,93
+cordless screwdriver_3,Store_5,2024-03-04,88
+cordless screwdriver_3,Store_5,2024-03-11,63
+cordless screwdriver_3,Store_5,2024-03-18,76
+cordless screwdriver_3,Store_5,2024-03-25,105
+cordless screwdriver_3,Store_5,2024-04-01,57
+cordless screwdriver_3,Store_5,2024-04-08,73
+cordless screwdriver_3,Store_5,2024-04-15,103
+cordless screwdriver_3,Store_5,2024-04-22,74
+cordless screwdriver_3,Store_5,2024-04-29,70
+cordless screwdriver_3,Store_5,2024-05-06,84
+cordless screwdriver_3,Store_5,2024-05-13,101
+cordless screwdriver_3,Store_5,2024-05-20,74
+cordless screwdriver_3,Store_5,2024-05-27,73
+cordless screwdriver_3,Store_5,2024-06-03,80
+cordless screwdriver_3,Store_5,2024-06-10,108
+cordless screwdriver_3,Store_5,2024-06-17,105
+cordless screwdriver_3,Store_6,2024-02-26,76
+cordless screwdriver_3,Store_6,2024-03-04,66
+cordless screwdriver_3,Store_6,2024-03-11,52
+cordless screwdriver_3,Store_6,2024-03-18,63
+cordless screwdriver_3,Store_6,2024-03-25,78
+cordless screwdriver_3,Store_6,2024-04-01,38
+cordless screwdriver_3,Store_6,2024-04-08,66
+cordless screwdriver_3,Store_6,2024-04-15,74
+cordless screwdriver_3,Store_6,2024-04-22,52
+cordless screwdriver_3,Store_6,2024-04-29,63
+cordless screwdriver_3,Store_6,2024-05-06,64
+cordless screwdriver_3,Store_6,2024-05-13,77
+cordless screwdriver_3,Store_6,2024-05-20,59
+cordless screwdriver_3,Store_6,2024-05-27,66
+cordless screwdriver_3,Store_6,2024-06-03,62
+cordless screwdriver_3,Store_6,2024-06-10,85
+cordless screwdriver_3,Store_6,2024-06-17,86
+cordless screwdriver_3,Store_7,2024-02-26,46
+cordless screwdriver_3,Store_7,2024-03-04,29
+cordless screwdriver_3,Store_7,2024-03-11,9
+cordless screwdriver_3,Store_7,2024-03-18,26
+cordless screwdriver_3,Store_7,2024-03-25,50
+cordless screwdriver_3,Store_7,2024-04-01,12
+cordless screwdriver_3,Store_7,2024-04-08,33
+cordless screwdriver_3,Store_7,2024-04-15,43
+cordless screwdriver_3,Store_7,2024-04-22,10
+cordless screwdriver_3,Store_7,2024-04-29,26
+cordless screwdriver_3,Store_7,2024-05-06,28
+cordless screwdriver_3,Store_7,2024-05-13,48
+cordless screwdriver_3,Store_7,2024-05-20,18
+cordless screwdriver_3,Store_7,2024-05-27,30
+cordless screwdriver_3,Store_7,2024-06-03,24
+cordless screwdriver_3,Store_7,2024-06-10,60
+cordless screwdriver_3,Store_7,2024-06-17,58
+cordless screwdriver_3,Store_8,2024-02-26,173
+cordless screwdriver_3,Store_8,2024-03-04,166
+cordless screwdriver_3,Store_8,2024-03-11,145
+cordless screwdriver_3,Store_8,2024-03-18,157
+cordless screwdriver_3,Store_8,2024-03-25,181
+cordless screwdriver_3,Store_8,2024-04-01,135
+cordless screwdriver_3,Store_8,2024-04-08,157
+cordless screwdriver_3,Store_8,2024-04-15,179
+cordless screwdriver_3,Store_8,2024-04-22,150
+cordless screwdriver_3,Store_8,2024-04-29,154
+cordless screwdriver_3,Store_8,2024-05-06,164
+cordless screwdriver_3,Store_8,2024-05-13,177
+cordless screwdriver_3,Store_8,2024-05-20,155
+cordless screwdriver_3,Store_8,2024-05-27,158
+cordless screwdriver_3,Store_8,2024-06-03,160
+cordless screwdriver_3,Store_8,2024-06-10,185
+cordless screwdriver_3,Store_8,2024-06-17,186
+current meter_1,Store_1,2024-02-26,61
+current meter_1,Store_1,2024-03-04,56
+current meter_1,Store_1,2024-03-11,30
+current meter_1,Store_1,2024-03-18,41
+current meter_1,Store_1,2024-03-25,71
+current meter_1,Store_1,2024-04-01,22
+current meter_1,Store_1,2024-04-08,39
+current meter_1,Store_1,2024-04-15,68
+current meter_1,Store_1,2024-04-22,40
+current meter_1,Store_1,2024-04-29,39
+current meter_1,Store_1,2024-05-06,49
+current meter_1,Store_1,2024-05-13,69
+current meter_1,Store_1,2024-05-20,44
+current meter_1,Store_1,2024-05-27,42
+current meter_1,Store_1,2024-06-03,45
+current meter_1,Store_1,2024-06-10,77
+current meter_1,Store_1,2024-06-17,80
+current meter_1,Store_2,2024-02-26,174
+current meter_1,Store_2,2024-03-04,172
+current meter_1,Store_2,2024-03-11,160
+current meter_1,Store_2,2024-03-18,164
+current meter_1,Store_2,2024-03-25,180
+current meter_1,Store_2,2024-04-01,157
+current meter_1,Store_2,2024-04-08,164
+current meter_1,Store_2,2024-04-15,177
+current meter_1,Store_2,2024-04-22,166
+current meter_1,Store_2,2024-04-29,163
+current meter_1,Store_2,2024-05-06,168
+current meter_1,Store_2,2024-05-13,179
+current meter_1,Store_2,2024-05-20,166
+current meter_1,Store_2,2024-05-27,164
+current meter_1,Store_2,2024-06-03,166
+current meter_1,Store_2,2024-06-10,183
+current meter_1,Store_2,2024-06-17,183
+current meter_1,Store_3,2024-02-26,98
+current meter_1,Store_3,2024-03-04,86
+current meter_1,Store_3,2024-03-11,75
+current meter_1,Store_3,2024-03-18,86
+current meter_1,Store_3,2024-03-25,100
+current meter_1,Store_3,2024-04-01,61
+current meter_1,Store_3,2024-04-08,90
+current meter_1,Store_3,2024-04-15,96
+current meter_1,Store_3,2024-04-22,75
+current meter_1,Store_3,2024-04-29,85
+current meter_1,Store_3,2024-05-06,87
+current meter_1,Store_3,2024-05-13,99
+current meter_1,Store_3,2024-05-20,79
+current meter_1,Store_3,2024-05-27,87
+current meter_1,Store_3,2024-06-03,84
+current meter_1,Store_3,2024-06-10,107
+current meter_1,Store_3,2024-06-17,103
+current meter_1,Store_4,2024-02-26,108
+current meter_1,Store_4,2024-03-04,101
+current meter_1,Store_4,2024-03-11,87
+current meter_1,Store_4,2024-03-18,96
+current meter_1,Store_4,2024-03-25,113
+current meter_1,Store_4,2024-04-01,78
+current meter_1,Store_4,2024-04-08,98
+current meter_1,Store_4,2024-04-15,109
+current meter_1,Store_4,2024-04-22,91
+current meter_1,Store_4,2024-04-29,95
+current meter_1,Store_4,2024-05-06,99
+current meter_1,Store_4,2024-05-13,112
+current meter_1,Store_4,2024-05-20,93
+current meter_1,Store_4,2024-05-27,97
+current meter_1,Store_4,2024-06-03,96
+current meter_1,Store_4,2024-06-10,118
+current meter_1,Store_4,2024-06-17,116
+current meter_1,Store_5,2024-02-26,69
+current meter_1,Store_5,2024-03-04,66
+current meter_1,Store_5,2024-03-11,37
+current meter_1,Store_5,2024-03-18,51
+current meter_1,Store_5,2024-03-25,82
+current meter_1,Store_5,2024-04-01,29
+current meter_1,Store_5,2024-04-08,45
+current meter_1,Store_5,2024-04-15,82
+current meter_1,Store_5,2024-04-22,46
+current meter_1,Store_5,2024-04-29,45
+current meter_1,Store_5,2024-05-06,62
+current meter_1,Store_5,2024-05-13,77
+current meter_1,Store_5,2024-05-20,52
+current meter_1,Store_5,2024-05-27,51
+current meter_1,Store_5,2024-06-03,58
+current meter_1,Store_5,2024-06-10,85
+current meter_1,Store_5,2024-06-17,89
+current meter_1,Store_6,2024-02-26,95
+current meter_1,Store_6,2024-03-04,83
+current meter_1,Store_6,2024-03-11,61
+current meter_1,Store_6,2024-03-18,77
+current meter_1,Store_6,2024-03-25,101
+current meter_1,Store_6,2024-04-01,44
+current meter_1,Store_6,2024-04-08,79
+current meter_1,Store_6,2024-04-15,97
+current meter_1,Store_6,2024-04-22,63
+current meter_1,Store_6,2024-04-29,75
+current meter_1,Store_6,2024-05-06,81
+current meter_1,Store_6,2024-05-13,98
+current meter_1,Store_6,2024-05-20,71
+current meter_1,Store_6,2024-05-27,78
+current meter_1,Store_6,2024-06-03,77
+current meter_1,Store_6,2024-06-10,108
+current meter_1,Store_6,2024-06-17,108
+current meter_1,Store_7,2024-02-26,135
+current meter_1,Store_7,2024-03-04,127
+current meter_1,Store_7,2024-03-11,115
+current meter_1,Store_7,2024-03-18,121
+current meter_1,Store_7,2024-03-25,138
+current meter_1,Store_7,2024-04-01,103
+current meter_1,Store_7,2024-04-08,125
+current meter_1,Store_7,2024-04-15,132
+current meter_1,Store_7,2024-04-22,118
+current meter_1,Store_7,2024-04-29,122
+current meter_1,Store_7,2024-05-06,123
+current meter_1,Store_7,2024-05-13,139
+current meter_1,Store_7,2024-05-20,120
+current meter_1,Store_7,2024-05-27,125
+current meter_1,Store_7,2024-06-03,120
+current meter_1,Store_7,2024-06-10,146
+current meter_1,Store_7,2024-06-17,146
+current meter_1,Store_8,2024-02-26,38
+current meter_1,Store_8,2024-03-04,34
+current meter_1,Store_8,2024-03-11,14
+current meter_1,Store_8,2024-03-18,26
+current meter_1,Store_8,2024-03-25,46
+current meter_1,Store_8,2024-04-01,7
+current meter_1,Store_8,2024-04-08,22
+current meter_1,Store_8,2024-04-15,48
+current meter_1,Store_8,2024-04-22,18
+current meter_1,Store_8,2024-04-29,21
+current meter_1,Store_8,2024-05-06,34
+current meter_1,Store_8,2024-05-13,41
+current meter_1,Store_8,2024-05-20,23
+current meter_1,Store_8,2024-05-27,25
+current meter_1,Store_8,2024-06-03,31
+current meter_1,Store_8,2024-06-10,47
+current meter_1,Store_8,2024-06-17,48
+current meter_2,Store_1,2024-02-26,103
+current meter_2,Store_1,2024-03-04,96
+current meter_2,Store_1,2024-03-11,69
+current meter_2,Store_1,2024-03-18,80
+current meter_2,Store_1,2024-03-25,113
+current meter_2,Store_1,2024-04-01,59
+current meter_2,Store_1,2024-04-08,80
+current meter_2,Store_1,2024-04-15,108
+current meter_2,Store_1,2024-04-22,80
+current meter_2,Store_1,2024-04-29,79
+current meter_2,Store_1,2024-05-06,88
+current meter_2,Store_1,2024-05-13,111
+current meter_2,Store_1,2024-05-20,84
+current meter_2,Store_1,2024-05-27,83
+current meter_2,Store_1,2024-06-03,84
+current meter_2,Store_1,2024-06-10,121
+current meter_2,Store_1,2024-06-17,125
+current meter_2,Store_2,2024-02-26,103
+current meter_2,Store_2,2024-03-04,101
+current meter_2,Store_2,2024-03-11,72
+current meter_2,Store_2,2024-03-18,82
+current meter_2,Store_2,2024-03-25,117
+current meter_2,Store_2,2024-04-01,67
+current meter_2,Store_2,2024-04-08,78
+current meter_2,Store_2,2024-04-15,115
+current meter_2,Store_2,2024-04-22,87
+current meter_2,Store_2,2024-04-29,78
+current meter_2,Store_2,2024-05-06,93
+current meter_2,Store_2,2024-05-13,114
+current meter_2,Store_2,2024-05-20,87
+current meter_2,Store_2,2024-05-27,81
+current meter_2,Store_2,2024-06-03,89
+current meter_2,Store_2,2024-06-10,122
+current meter_2,Store_2,2024-06-17,124
+current meter_2,Store_3,2024-02-26,85
+current meter_2,Store_3,2024-03-04,74
+current meter_2,Store_3,2024-03-11,62
+current meter_2,Store_3,2024-03-18,68
+current meter_2,Store_3,2024-03-25,87
+current meter_2,Store_3,2024-04-01,48
+current meter_2,Store_3,2024-04-08,75
+current meter_2,Store_3,2024-04-15,78
+current meter_2,Store_3,2024-04-22,66
+current meter_2,Store_3,2024-04-29,71
+current meter_2,Store_3,2024-05-06,70
+current meter_2,Store_3,2024-05-13,88
+current meter_2,Store_3,2024-05-20,67
+current meter_2,Store_3,2024-05-27,74
+current meter_2,Store_3,2024-06-03,66
+current meter_2,Store_3,2024-06-10,96
+current meter_2,Store_3,2024-06-17,95
+current meter_2,Store_4,2024-02-26,105
+current meter_2,Store_4,2024-03-04,96
+current meter_2,Store_4,2024-03-11,82
+current meter_2,Store_4,2024-03-18,90
+current meter_2,Store_4,2024-03-25,109
+current meter_2,Store_4,2024-04-01,71
+current meter_2,Store_4,2024-04-08,94
+current meter_2,Store_4,2024-04-15,103
+current meter_2,Store_4,2024-04-22,86
+current meter_2,Store_4,2024-04-29,90
+current meter_2,Store_4,2024-05-06,93
+current meter_2,Store_4,2024-05-13,108
+current meter_2,Store_4,2024-05-20,88
+current meter_2,Store_4,2024-05-27,93
+current meter_2,Store_4,2024-06-03,90
+current meter_2,Store_4,2024-06-10,115
+current meter_2,Store_4,2024-06-17,114
+current meter_2,Store_5,2024-02-26,115
+current meter_2,Store_5,2024-03-04,110
+current meter_2,Store_5,2024-03-11,92
+current meter_2,Store_5,2024-03-18,104
+current meter_2,Store_5,2024-03-25,122
+current meter_2,Store_5,2024-04-01,85
+current meter_2,Store_5,2024-04-08,101
+current meter_2,Store_5,2024-04-15,123
+current meter_2,Store_5,2024-04-22,95
+current meter_2,Store_5,2024-04-29,99
+current meter_2,Store_5,2024-05-06,111
+current meter_2,Store_5,2024-05-13,117
+current meter_2,Store_5,2024-05-20,100
+current meter_2,Store_5,2024-05-27,103
+current meter_2,Store_5,2024-06-03,108
+current meter_2,Store_5,2024-06-10,122
+current meter_2,Store_5,2024-06-17,123
+current meter_2,Store_6,2024-02-26,178
+current meter_2,Store_6,2024-03-04,169
+current meter_2,Store_6,2024-03-11,149
+current meter_2,Store_6,2024-03-18,165
+current meter_2,Store_6,2024-03-25,184
+current meter_2,Store_6,2024-04-01,136
+current meter_2,Store_6,2024-04-08,164
+current meter_2,Store_6,2024-04-15,183
+current meter_2,Store_6,2024-04-22,150
+current meter_2,Store_6,2024-04-29,161
+current meter_2,Store_6,2024-05-06,170
+current meter_2,Store_6,2024-05-13,180
+current meter_2,Store_6,2024-05-20,158
+current meter_2,Store_6,2024-05-27,164
+current meter_2,Store_6,2024-06-03,166
+current meter_2,Store_6,2024-06-10,188
+current meter_2,Store_6,2024-06-17,188
+current meter_2,Store_7,2024-02-26,86
+current meter_2,Store_7,2024-03-04,78
+current meter_2,Store_7,2024-03-11,57
+current meter_2,Store_7,2024-03-18,68
+current meter_2,Store_7,2024-03-25,93
+current meter_2,Store_7,2024-04-01,47
+current meter_2,Store_7,2024-04-08,70
+current meter_2,Store_7,2024-04-15,89
+current meter_2,Store_7,2024-04-22,65
+current meter_2,Store_7,2024-04-29,67
+current meter_2,Store_7,2024-05-06,73
+current meter_2,Store_7,2024-05-13,91
+current meter_2,Store_7,2024-05-20,67
+current meter_2,Store_7,2024-05-27,69
+current meter_2,Store_7,2024-06-03,70
+current meter_2,Store_7,2024-06-10,99
+current meter_2,Store_7,2024-06-17,99
+current meter_2,Store_8,2024-02-26,156
+current meter_2,Store_8,2024-03-04,155
+current meter_2,Store_8,2024-03-11,128
+current meter_2,Store_8,2024-03-18,136
+current meter_2,Store_8,2024-03-25,169
+current meter_2,Store_8,2024-04-01,124
+current meter_2,Store_8,2024-04-08,133
+current meter_2,Store_8,2024-04-15,166
+current meter_2,Store_8,2024-04-22,142
+current meter_2,Store_8,2024-04-29,133
+current meter_2,Store_8,2024-05-06,146
+current meter_2,Store_8,2024-05-13,166
+current meter_2,Store_8,2024-05-20,142
+current meter_2,Store_8,2024-05-27,137
+current meter_2,Store_8,2024-06-03,143
+current meter_2,Store_8,2024-06-10,173
+current meter_2,Store_8,2024-06-17,177
+current meter_3,Store_1,2024-02-26,40
+current meter_3,Store_1,2024-03-04,31
+current meter_3,Store_1,2024-03-11,15
+current meter_3,Store_1,2024-03-18,26
+current meter_3,Store_1,2024-03-25,44
+current meter_3,Store_1,2024-04-01,3
+current meter_3,Store_1,2024-04-08,28
+current meter_3,Store_1,2024-04-15,41
+current meter_3,Store_1,2024-04-22,17
+current meter_3,Store_1,2024-04-29,25
+current meter_3,Store_1,2024-05-06,29
+current meter_3,Store_1,2024-05-13,42
+current meter_3,Store_1,2024-05-20,23
+current meter_3,Store_1,2024-05-27,28
+current meter_3,Store_1,2024-06-03,27
+current meter_3,Store_1,2024-06-10,50
+current meter_3,Store_1,2024-06-17,51
+current meter_3,Store_2,2024-02-26,109
+current meter_3,Store_2,2024-03-04,102
+current meter_3,Store_2,2024-03-11,84
+current meter_3,Store_2,2024-03-18,89
+current meter_3,Store_2,2024-03-25,116
+current meter_3,Store_2,2024-04-01,78
+current meter_3,Store_2,2024-04-08,93
+current meter_3,Store_2,2024-04-15,109
+current meter_3,Store_2,2024-04-22,95
+current meter_3,Store_2,2024-04-29,91
+current meter_3,Store_2,2024-05-06,95
+current meter_3,Store_2,2024-05-13,116
+current meter_3,Store_2,2024-05-20,94
+current meter_3,Store_2,2024-05-27,92
+current meter_3,Store_2,2024-06-03,90
+current meter_3,Store_2,2024-06-10,124
+current meter_3,Store_2,2024-06-17,123
+current meter_3,Store_3,2024-02-26,59
+current meter_3,Store_3,2024-03-04,49
+current meter_3,Store_3,2024-03-11,33
+current meter_3,Store_3,2024-03-18,42
+current meter_3,Store_3,2024-03-25,64
+current meter_3,Store_3,2024-04-01,20
+current meter_3,Store_3,2024-04-08,47
+current meter_3,Store_3,2024-04-15,58
+current meter_3,Store_3,2024-04-22,38
+current meter_3,Store_3,2024-04-29,42
+current meter_3,Store_3,2024-05-06,46
+current meter_3,Store_3,2024-05-13,63
+current meter_3,Store_3,2024-05-20,40
+current meter_3,Store_3,2024-05-27,46
+current meter_3,Store_3,2024-06-03,42
+current meter_3,Store_3,2024-06-10,72
+current meter_3,Store_3,2024-06-17,70
+current meter_3,Store_4,2024-02-26,94
+current meter_3,Store_4,2024-03-04,84
+current meter_3,Store_4,2024-03-11,73
+current meter_3,Store_4,2024-03-18,78
+current meter_3,Store_4,2024-03-25,97
+current meter_3,Store_4,2024-04-01,61
+current meter_3,Store_4,2024-04-08,86
+current meter_3,Store_4,2024-04-15,89
+current meter_3,Store_4,2024-04-22,79
+current meter_3,Store_4,2024-04-29,80
+current meter_3,Store_4,2024-05-06,81
+current meter_3,Store_4,2024-05-13,98
+current meter_3,Store_4,2024-05-20,77
+current meter_3,Store_4,2024-05-27,83
+current meter_3,Store_4,2024-06-03,76
+current meter_3,Store_4,2024-06-10,106
+current meter_3,Store_4,2024-06-17,101
+current meter_3,Store_5,2024-02-26,65
+current meter_3,Store_5,2024-03-04,56
+current meter_3,Store_5,2024-03-11,42
+current meter_3,Store_5,2024-03-18,52
+current meter_3,Store_5,2024-03-25,69
+current meter_3,Store_5,2024-04-01,32
+current meter_3,Store_5,2024-04-08,56
+current meter_3,Store_5,2024-04-15,65
+current meter_3,Store_5,2024-04-22,45
+current meter_3,Store_5,2024-04-29,51
+current meter_3,Store_5,2024-05-06,55
+current meter_3,Store_5,2024-05-13,67
+current meter_3,Store_5,2024-05-20,48
+current meter_3,Store_5,2024-05-27,53
+current meter_3,Store_5,2024-06-03,52
+current meter_3,Store_5,2024-06-10,74
+current meter_3,Store_5,2024-06-17,71
+current meter_3,Store_6,2024-02-26,49
+current meter_3,Store_6,2024-03-04,45
+current meter_3,Store_6,2024-03-11,20
+current meter_3,Store_6,2024-03-18,29
+current meter_3,Store_6,2024-03-25,61
+current meter_3,Store_6,2024-04-01,13
+current meter_3,Store_6,2024-04-08,27
+current meter_3,Store_6,2024-04-15,57
+current meter_3,Store_6,2024-04-22,32
+current meter_3,Store_6,2024-04-29,27
+current meter_3,Store_6,2024-05-06,38
+current meter_3,Store_6,2024-05-13,58
+current meter_3,Store_6,2024-05-20,33
+current meter_3,Store_6,2024-05-27,30
+current meter_3,Store_6,2024-06-03,34
+current meter_3,Store_6,2024-06-10,66
+current meter_3,Store_6,2024-06-17,68
+current meter_3,Store_7,2024-02-26,59
+current meter_3,Store_7,2024-03-04,55
+current meter_3,Store_7,2024-03-11,39
+current meter_3,Store_7,2024-03-18,49
+current meter_3,Store_7,2024-03-25,66
+current meter_3,Store_7,2024-04-01,32
+current meter_3,Store_7,2024-04-08,47
+current meter_3,Store_7,2024-04-15,67
+current meter_3,Store_7,2024-04-22,42
+current meter_3,Store_7,2024-04-29,45
+current meter_3,Store_7,2024-05-06,55
+current meter_3,Store_7,2024-05-13,62
+current meter_3,Store_7,2024-05-20,46
+current meter_3,Store_7,2024-05-27,48
+current meter_3,Store_7,2024-06-03,52
+current meter_3,Store_7,2024-06-10,67
+current meter_3,Store_7,2024-06-17,67
+current meter_3,Store_8,2024-02-26,43
+current meter_3,Store_8,2024-03-04,30
+current meter_3,Store_8,2024-03-11,12
+current meter_3,Store_8,2024-03-18,24
+current meter_3,Store_8,2024-03-25,47
+current meter_3,Store_8,2024-04-01,7
+current meter_3,Store_8,2024-04-08,29
+current meter_3,Store_8,2024-04-15,41
+current meter_3,Store_8,2024-04-22,14
+current meter_3,Store_8,2024-04-29,25
+current meter_3,Store_8,2024-05-06,27
+current meter_3,Store_8,2024-05-13,47
+current meter_3,Store_8,2024-05-20,21
+current meter_3,Store_8,2024-05-27,29
+current meter_3,Store_8,2024-06-03,23
+current meter_3,Store_8,2024-06-10,58
+current meter_3,Store_8,2024-06-17,60
+drilling machine_1,Store_1,2024-02-26,123
+drilling machine_1,Store_1,2024-03-04,114
+drilling machine_1,Store_1,2024-03-11,104
+drilling machine_1,Store_1,2024-03-18,112
+drilling machine_1,Store_1,2024-03-25,125
+drilling machine_1,Store_1,2024-04-01,92
+drilling machine_1,Store_1,2024-04-08,116
+drilling machine_1,Store_1,2024-04-15,121
+drilling machine_1,Store_1,2024-04-22,104
+drilling machine_1,Store_1,2024-04-29,112
+drilling machine_1,Store_1,2024-05-06,113
+drilling machine_1,Store_1,2024-05-13,124
+drilling machine_1,Store_1,2024-05-20,108
+drilling machine_1,Store_1,2024-05-27,114
+drilling machine_1,Store_1,2024-06-03,111
+drilling machine_1,Store_1,2024-06-10,131
+drilling machine_1,Store_1,2024-06-17,129
+drilling machine_1,Store_2,2024-02-26,126
+drilling machine_1,Store_2,2024-03-04,118
+drilling machine_1,Store_2,2024-03-11,95
+drilling machine_1,Store_2,2024-03-18,107
+drilling machine_1,Store_2,2024-03-25,135
+drilling machine_1,Store_2,2024-04-01,85
+drilling machine_1,Store_2,2024-04-08,108
+drilling machine_1,Store_2,2024-04-15,131
+drilling machine_1,Store_2,2024-04-22,104
+drilling machine_1,Store_2,2024-04-29,105
+drilling machine_1,Store_2,2024-05-06,113
+drilling machine_1,Store_2,2024-05-13,132
+drilling machine_1,Store_2,2024-05-20,106
+drilling machine_1,Store_2,2024-05-27,108
+drilling machine_1,Store_2,2024-06-03,109
+drilling machine_1,Store_2,2024-06-10,141
+drilling machine_1,Store_2,2024-06-17,140
+drilling machine_1,Store_3,2024-02-26,122
+drilling machine_1,Store_3,2024-03-04,115
+drilling machine_1,Store_3,2024-03-11,96
+drilling machine_1,Store_3,2024-03-18,108
+drilling machine_1,Store_3,2024-03-25,128
+drilling machine_1,Store_3,2024-04-01,85
+drilling machine_1,Store_3,2024-04-08,108
+drilling machine_1,Store_3,2024-04-15,126
+drilling machine_1,Store_3,2024-04-22,99
+drilling machine_1,Store_3,2024-04-29,107
+drilling machine_1,Store_3,2024-05-06,112
+drilling machine_1,Store_3,2024-05-13,125
+drilling machine_1,Store_3,2024-05-20,106
+drilling machine_1,Store_3,2024-05-27,109
+drilling machine_1,Store_3,2024-06-03,109
+drilling machine_1,Store_3,2024-06-10,133
+drilling machine_1,Store_3,2024-06-17,136
+drilling machine_1,Store_4,2024-02-26,58
+drilling machine_1,Store_4,2024-03-04,55
+drilling machine_1,Store_4,2024-03-11,38
+drilling machine_1,Store_4,2024-03-18,47
+drilling machine_1,Store_4,2024-03-25,66
+drilling machine_1,Store_4,2024-04-01,33
+drilling machine_1,Store_4,2024-04-08,43
+drilling machine_1,Store_4,2024-04-15,66
+drilling machine_1,Store_4,2024-04-22,43
+drilling machine_1,Store_4,2024-04-29,42
+drilling machine_1,Store_4,2024-05-06,54
+drilling machine_1,Store_4,2024-05-13,62
+drilling machine_1,Store_4,2024-05-20,46
+drilling machine_1,Store_4,2024-05-27,46
+drilling machine_1,Store_4,2024-06-03,52
+drilling machine_1,Store_4,2024-06-10,66
+drilling machine_1,Store_4,2024-06-17,67
+drilling machine_1,Store_5,2024-02-26,131
+drilling machine_1,Store_5,2024-03-04,125
+drilling machine_1,Store_5,2024-03-11,109
+drilling machine_1,Store_5,2024-03-18,115
+drilling machine_1,Store_5,2024-03-25,137
+drilling machine_1,Store_5,2024-04-01,103
+drilling machine_1,Store_5,2024-04-08,118
+drilling machine_1,Store_5,2024-04-15,131
+drilling machine_1,Store_5,2024-04-22,118
+drilling machine_1,Store_5,2024-04-29,115
+drilling machine_1,Store_5,2024-05-06,119
+drilling machine_1,Store_5,2024-05-13,137
+drilling machine_1,Store_5,2024-05-20,117
+drilling machine_1,Store_5,2024-05-27,117
+drilling machine_1,Store_5,2024-06-03,116
+drilling machine_1,Store_5,2024-06-10,143
+drilling machine_1,Store_5,2024-06-17,142
+drilling machine_1,Store_6,2024-02-26,98
+drilling machine_1,Store_6,2024-03-04,84
+drilling machine_1,Store_6,2024-03-11,66
+drilling machine_1,Store_6,2024-03-18,80
+drilling machine_1,Store_6,2024-03-25,101
+drilling machine_1,Store_6,2024-04-01,47
+drilling machine_1,Store_6,2024-04-08,84
+drilling machine_1,Store_6,2024-04-15,95
+drilling machine_1,Store_6,2024-04-22,66
+drilling machine_1,Store_6,2024-04-29,80
+drilling machine_1,Store_6,2024-05-06,82
+drilling machine_1,Store_6,2024-05-13,100
+drilling machine_1,Store_6,2024-05-20,74
+drilling machine_1,Store_6,2024-05-27,84
+drilling machine_1,Store_6,2024-06-03,78
+drilling machine_1,Store_6,2024-06-10,110
+drilling machine_1,Store_6,2024-06-17,111
+drilling machine_1,Store_7,2024-02-26,136
+drilling machine_1,Store_7,2024-03-04,134
+drilling machine_1,Store_7,2024-03-11,124
+drilling machine_1,Store_7,2024-03-18,127
+drilling machine_1,Store_7,2024-03-25,141
+drilling machine_1,Store_7,2024-04-01,121
+drilling machine_1,Store_7,2024-04-08,128
+drilling machine_1,Store_7,2024-04-15,137
+drilling machine_1,Store_7,2024-04-22,130
+drilling machine_1,Store_7,2024-04-29,127
+drilling machine_1,Store_7,2024-05-06,130
+drilling machine_1,Store_7,2024-05-13,140
+drilling machine_1,Store_7,2024-05-20,129
+drilling machine_1,Store_7,2024-05-27,128
+drilling machine_1,Store_7,2024-06-03,128
+drilling machine_1,Store_7,2024-06-10,144
+drilling machine_1,Store_7,2024-06-17,144
+drilling machine_1,Store_8,2024-02-26,37
+drilling machine_1,Store_8,2024-03-04,35
+drilling machine_1,Store_8,2024-03-11,16
+drilling machine_1,Store_8,2024-03-18,22
+drilling machine_1,Store_8,2024-03-25,46
+drilling machine_1,Store_8,2024-04-01,11
+drilling machine_1,Store_8,2024-04-08,21
+drilling machine_1,Store_8,2024-04-15,42
+drilling machine_1,Store_8,2024-04-22,25
+drilling machine_1,Store_8,2024-04-29,21
+drilling machine_1,Store_8,2024-05-06,28
+drilling machine_1,Store_8,2024-05-13,45
+drilling machine_1,Store_8,2024-05-20,27
+drilling machine_1,Store_8,2024-05-27,23
+drilling machine_1,Store_8,2024-06-03,26
+drilling machine_1,Store_8,2024-06-10,50
+drilling machine_1,Store_8,2024-06-17,54
+drilling machine_2,Store_1,2024-02-26,43
+drilling machine_2,Store_1,2024-03-04,32
+drilling machine_2,Store_1,2024-03-11,12
+drilling machine_2,Store_1,2024-03-18,23
+drilling machine_2,Store_1,2024-03-25,49
+drilling machine_2,Store_1,2024-04-01,1
+drilling machine_2,Store_1,2024-04-08,27
+drilling machine_2,Store_1,2024-04-15,43
+drilling machine_2,Store_1,2024-04-22,19
+drilling machine_2,Store_1,2024-04-29,23
+drilling machine_2,Store_1,2024-05-06,28
+drilling machine_2,Store_1,2024-05-13,48
+drilling machine_2,Store_1,2024-05-20,22
+drilling machine_2,Store_1,2024-05-27,26
+drilling machine_2,Store_1,2024-06-03,24
+drilling machine_2,Store_1,2024-06-10,57
+drilling machine_2,Store_1,2024-06-17,56
+drilling machine_2,Store_2,2024-02-26,128
+drilling machine_2,Store_2,2024-03-04,117
+drilling machine_2,Store_2,2024-03-11,108
+drilling machine_2,Store_2,2024-03-18,115
+drilling machine_2,Store_2,2024-03-25,131
+drilling machine_2,Store_2,2024-04-01,95
+drilling machine_2,Store_2,2024-04-08,120
+drilling machine_2,Store_2,2024-04-15,125
+drilling machine_2,Store_2,2024-04-22,111
+drilling machine_2,Store_2,2024-04-29,114
+drilling machine_2,Store_2,2024-05-06,118
+drilling machine_2,Store_2,2024-05-13,130
+drilling machine_2,Store_2,2024-05-20,111
+drilling machine_2,Store_2,2024-05-27,118
+drilling machine_2,Store_2,2024-06-03,114
+drilling machine_2,Store_2,2024-06-10,137
+drilling machine_2,Store_2,2024-06-17,132
+drilling machine_2,Store_3,2024-02-26,201
+drilling machine_2,Store_3,2024-03-04,193
+drilling machine_2,Store_3,2024-03-11,183
+drilling machine_2,Store_3,2024-03-18,188
+drilling machine_2,Store_3,2024-03-25,204
+drilling machine_2,Store_3,2024-04-01,172
+drilling machine_2,Store_3,2024-04-08,192
+drilling machine_2,Store_3,2024-04-15,197
+drilling machine_2,Store_3,2024-04-22,187
+drilling machine_2,Store_3,2024-04-29,190
+drilling machine_2,Store_3,2024-05-06,189
+drilling machine_2,Store_3,2024-05-13,205
+drilling machine_2,Store_3,2024-05-20,188
+drilling machine_2,Store_3,2024-05-27,193
+drilling machine_2,Store_3,2024-06-03,187
+drilling machine_2,Store_3,2024-06-10,211
+drilling machine_2,Store_3,2024-06-17,212
+drilling machine_2,Store_4,2024-02-26,150
+drilling machine_2,Store_4,2024-03-04,144
+drilling machine_2,Store_4,2024-03-11,126
+drilling machine_2,Store_4,2024-03-18,138
+drilling machine_2,Store_4,2024-03-25,156
+drilling machine_2,Store_4,2024-04-01,115
+drilling machine_2,Store_4,2024-04-08,136
+drilling machine_2,Store_4,2024-04-15,155
+drilling machine_2,Store_4,2024-04-22,127
+drilling machine_2,Store_4,2024-04-29,136
+drilling machine_2,Store_4,2024-05-06,142
+drilling machine_2,Store_4,2024-05-13,153
+drilling machine_2,Store_4,2024-05-20,136
+drilling machine_2,Store_4,2024-05-27,138
+drilling machine_2,Store_4,2024-06-03,140
+drilling machine_2,Store_4,2024-06-10,160
+drilling machine_2,Store_4,2024-06-17,164
+drilling machine_2,Store_5,2024-02-26,79
+drilling machine_2,Store_5,2024-03-04,67
+drilling machine_2,Store_5,2024-03-11,49
+drilling machine_2,Store_5,2024-03-18,59
+drilling machine_2,Store_5,2024-03-25,84
+drilling machine_2,Store_5,2024-04-01,33
+drilling machine_2,Store_5,2024-04-08,65
+drilling machine_2,Store_5,2024-04-15,77
+drilling machine_2,Store_5,2024-04-22,54
+drilling machine_2,Store_5,2024-04-29,61
+drilling machine_2,Store_5,2024-05-06,63
+drilling machine_2,Store_5,2024-05-13,84
+drilling machine_2,Store_5,2024-05-20,57
+drilling machine_2,Store_5,2024-05-27,64
+drilling machine_2,Store_5,2024-06-03,59
+drilling machine_2,Store_5,2024-06-10,94
+drilling machine_2,Store_5,2024-06-17,93
+drilling machine_2,Store_6,2024-02-26,39
+drilling machine_2,Store_6,2024-03-04,30
+drilling machine_2,Store_6,2024-03-11,19
+drilling machine_2,Store_6,2024-03-18,26
+drilling machine_2,Store_6,2024-03-25,42
+drilling machine_2,Store_6,2024-04-01,8
+drilling machine_2,Store_6,2024-04-08,31
+drilling machine_2,Store_6,2024-04-15,37
+drilling machine_2,Store_6,2024-04-22,22
+drilling machine_2,Store_6,2024-04-29,27
+drilling machine_2,Store_6,2024-05-06,28
+drilling machine_2,Store_6,2024-05-13,42
+drilling machine_2,Store_6,2024-05-20,24
+drilling machine_2,Store_6,2024-05-27,29
+drilling machine_2,Store_6,2024-06-03,25
+drilling machine_2,Store_6,2024-06-10,49
+drilling machine_2,Store_6,2024-06-17,47
+drilling machine_2,Store_7,2024-02-26,146
+drilling machine_2,Store_7,2024-03-04,139
+drilling machine_2,Store_7,2024-03-11,121
+drilling machine_2,Store_7,2024-03-18,135
+drilling machine_2,Store_7,2024-03-25,152
+drilling machine_2,Store_7,2024-04-01,110
+drilling machine_2,Store_7,2024-04-08,133
+drilling machine_2,Store_7,2024-04-15,153
+drilling machine_2,Store_7,2024-04-22,123
+drilling machine_2,Store_7,2024-04-29,131
+drilling machine_2,Store_7,2024-05-06,140
+drilling machine_2,Store_7,2024-05-13,148
+drilling machine_2,Store_7,2024-05-20,129
+drilling machine_2,Store_7,2024-05-27,134
+drilling machine_2,Store_7,2024-06-03,137
+drilling machine_2,Store_7,2024-06-10,155
+drilling machine_2,Store_7,2024-06-17,155
+drilling machine_2,Store_8,2024-02-26,106
+drilling machine_2,Store_8,2024-03-04,94
+drilling machine_2,Store_8,2024-03-11,83
+drilling machine_2,Store_8,2024-03-18,95
+drilling machine_2,Store_8,2024-03-25,107
+drilling machine_2,Store_8,2024-04-01,68
+drilling machine_2,Store_8,2024-04-08,99
+drilling machine_2,Store_8,2024-04-15,104
+drilling machine_2,Store_8,2024-04-22,80
+drilling machine_2,Store_8,2024-04-29,95
+drilling machine_2,Store_8,2024-05-06,95
+drilling machine_2,Store_8,2024-05-13,106
+drilling machine_2,Store_8,2024-05-20,87
+drilling machine_2,Store_8,2024-05-27,97
+drilling machine_2,Store_8,2024-06-03,93
+drilling machine_2,Store_8,2024-06-10,114
+drilling machine_2,Store_8,2024-06-17,112
+drilling machine_3,Store_1,2024-02-26,144
+drilling machine_3,Store_1,2024-03-04,131
+drilling machine_3,Store_1,2024-03-11,115
+drilling machine_3,Store_1,2024-03-18,117
+drilling machine_3,Store_1,2024-03-25,151
+drilling machine_3,Store_1,2024-04-01,98
+drilling machine_3,Store_1,2024-04-08,131
+drilling machine_3,Store_1,2024-04-15,135
+drilling machine_3,Store_1,2024-04-22,127
+drilling machine_3,Store_1,2024-04-29,121
+drilling machine_3,Store_1,2024-05-06,124
+drilling machine_3,Store_1,2024-05-13,151
+drilling machine_3,Store_1,2024-05-20,122
+drilling machine_3,Store_1,2024-05-27,128
+drilling machine_3,Store_1,2024-06-03,115
+drilling machine_3,Store_1,2024-06-10,164
+drilling machine_3,Store_1,2024-06-17,160
+drilling machine_3,Store_2,2024-02-26,119
+drilling machine_3,Store_2,2024-03-04,112
+drilling machine_3,Store_2,2024-03-11,83
+drilling machine_3,Store_2,2024-03-18,96
+drilling machine_3,Store_2,2024-03-25,132
+drilling machine_3,Store_2,2024-04-01,73
+drilling machine_3,Store_2,2024-04-08,95
+drilling machine_3,Store_2,2024-04-15,127
+drilling machine_3,Store_2,2024-04-22,95
+drilling machine_3,Store_2,2024-04-29,93
+drilling machine_3,Store_2,2024-05-06,105
+drilling machine_3,Store_2,2024-05-13,129
+drilling machine_3,Store_2,2024-05-20,98
+drilling machine_3,Store_2,2024-05-27,96
+drilling machine_3,Store_2,2024-06-03,100
+drilling machine_3,Store_2,2024-06-10,138
+drilling machine_3,Store_2,2024-06-17,139
+drilling machine_3,Store_3,2024-02-26,113
+drilling machine_3,Store_3,2024-03-04,106
+drilling machine_3,Store_3,2024-03-11,83
+drilling machine_3,Store_3,2024-03-18,93
+drilling machine_3,Store_3,2024-03-25,121
+drilling machine_3,Store_3,2024-04-01,74
+drilling machine_3,Store_3,2024-04-08,94
+drilling machine_3,Store_3,2024-04-15,117
+drilling machine_3,Store_3,2024-04-22,92
+drilling machine_3,Store_3,2024-04-29,93
+drilling machine_3,Store_3,2024-05-06,100
+drilling machine_3,Store_3,2024-05-13,119
+drilling machine_3,Store_3,2024-05-20,95
+drilling machine_3,Store_3,2024-05-27,96
+drilling machine_3,Store_3,2024-06-03,96
+drilling machine_3,Store_3,2024-06-10,128
+drilling machine_3,Store_3,2024-06-17,129
+drilling machine_3,Store_4,2024-02-26,258
+drilling machine_3,Store_4,2024-03-04,251
+drilling machine_3,Store_4,2024-03-11,232
+drilling machine_3,Store_4,2024-03-18,241
+drilling machine_3,Store_4,2024-03-25,266
+drilling machine_3,Store_4,2024-04-01,223
+drilling machine_3,Store_4,2024-04-08,243
+drilling machine_3,Store_4,2024-04-15,261
+drilling machine_3,Store_4,2024-04-22,240
+drilling machine_3,Store_4,2024-04-29,240
+drilling machine_3,Store_4,2024-05-06,246
+drilling machine_3,Store_4,2024-05-13,264
+drilling machine_3,Store_4,2024-05-20,242
+drilling machine_3,Store_4,2024-05-27,243
+drilling machine_3,Store_4,2024-06-03,242
+drilling machine_3,Store_4,2024-06-10,272
+drilling machine_3,Store_4,2024-06-17,272
+drilling machine_3,Store_5,2024-02-26,110
+drilling machine_3,Store_5,2024-03-04,105
+drilling machine_3,Store_5,2024-03-11,81
+drilling machine_3,Store_5,2024-03-18,93
+drilling machine_3,Store_5,2024-03-25,120
+drilling machine_3,Store_5,2024-04-01,72
+drilling machine_3,Store_5,2024-04-08,91
+drilling machine_3,Store_5,2024-04-15,118
+drilling machine_3,Store_5,2024-04-22,89
+drilling machine_3,Store_5,2024-04-29,89
+drilling machine_3,Store_5,2024-05-06,101
+drilling machine_3,Store_5,2024-05-13,116
+drilling machine_3,Store_5,2024-05-20,92
+drilling machine_3,Store_5,2024-05-27,93
+drilling machine_3,Store_5,2024-06-03,97
+drilling machine_3,Store_5,2024-06-10,124
+drilling machine_3,Store_5,2024-06-17,126
+drilling machine_3,Store_6,2024-02-26,104
+drilling machine_3,Store_6,2024-03-04,99
+drilling machine_3,Store_6,2024-03-11,73
+drilling machine_3,Store_6,2024-03-18,79
+drilling machine_3,Store_6,2024-03-25,116
+drilling machine_3,Store_6,2024-04-01,69
+drilling machine_3,Store_6,2024-04-08,82
+drilling machine_3,Store_6,2024-04-15,108
+drilling machine_3,Store_6,2024-04-22,90
+drilling machine_3,Store_6,2024-04-29,80
+drilling machine_3,Store_6,2024-05-06,87
+drilling machine_3,Store_6,2024-05-13,115
+drilling machine_3,Store_6,2024-05-20,88
+drilling machine_3,Store_6,2024-05-27,82
+drilling machine_3,Store_6,2024-06-03,82
+drilling machine_3,Store_6,2024-06-10,125
+drilling machine_3,Store_6,2024-06-17,126
+drilling machine_3,Store_7,2024-02-26,102
+drilling machine_3,Store_7,2024-03-04,97
+drilling machine_3,Store_7,2024-03-11,80
+drilling machine_3,Store_7,2024-03-18,91
+drilling machine_3,Store_7,2024-03-25,108
+drilling machine_3,Store_7,2024-04-01,72
+drilling machine_3,Store_7,2024-04-08,89
+drilling machine_3,Store_7,2024-04-15,107
+drilling machine_3,Store_7,2024-04-22,83
+drilling machine_3,Store_7,2024-04-29,88
+drilling machine_3,Store_7,2024-05-06,96
+drilling machine_3,Store_7,2024-05-13,104
+drilling machine_3,Store_7,2024-05-20,88
+drilling machine_3,Store_7,2024-05-27,90
+drilling machine_3,Store_7,2024-06-03,93
+drilling machine_3,Store_7,2024-06-10,110
+drilling machine_3,Store_7,2024-06-17,112
+drilling machine_3,Store_8,2024-02-26,84
+drilling machine_3,Store_8,2024-03-04,77
+drilling machine_3,Store_8,2024-03-11,48
+drilling machine_3,Store_8,2024-03-18,64
+drilling machine_3,Store_8,2024-03-25,98
+drilling machine_3,Store_8,2024-04-01,40
+drilling machine_3,Store_8,2024-04-08,61
+drilling machine_3,Store_8,2024-04-15,96
+drilling machine_3,Store_8,2024-04-22,60
+drilling machine_3,Store_8,2024-04-29,56
+drilling machine_3,Store_8,2024-05-06,74
+drilling machine_3,Store_8,2024-05-13,92
+drilling machine_3,Store_8,2024-05-20,60
+drilling machine_3,Store_8,2024-05-27,61
+drilling machine_3,Store_8,2024-06-03,70
+drilling machine_3,Store_8,2024-06-10,100
+drilling machine_3,Store_8,2024-06-17,96
+hammer_1,Store_1,2024-02-26,139
+hammer_1,Store_1,2024-03-04,134
+hammer_1,Store_1,2024-03-11,119
+hammer_1,Store_1,2024-03-18,129
+hammer_1,Store_1,2024-03-25,143
+hammer_1,Store_1,2024-04-01,111
+hammer_1,Store_1,2024-04-08,128
+hammer_1,Store_1,2024-04-15,142
+hammer_1,Store_1,2024-04-22,121
+hammer_1,Store_1,2024-04-29,127
+hammer_1,Store_1,2024-05-06,132
+hammer_1,Store_1,2024-05-13,141
+hammer_1,Store_1,2024-05-20,127
+hammer_1,Store_1,2024-05-27,130
+hammer_1,Store_1,2024-06-03,130
+hammer_1,Store_1,2024-06-10,147
+hammer_1,Store_1,2024-06-17,150
+hammer_1,Store_2,2024-02-26,105
+hammer_1,Store_2,2024-03-04,94
+hammer_1,Store_2,2024-03-11,77
+hammer_1,Store_2,2024-03-18,88
+hammer_1,Store_2,2024-03-25,109
+hammer_1,Store_2,2024-04-01,62
+hammer_1,Store_2,2024-04-08,92
+hammer_1,Store_2,2024-04-15,103
+hammer_1,Store_2,2024-04-22,79
+hammer_1,Store_2,2024-04-29,89
+hammer_1,Store_2,2024-05-06,91
+hammer_1,Store_2,2024-05-13,108
+hammer_1,Store_2,2024-05-20,86
+hammer_1,Store_2,2024-05-27,92
+hammer_1,Store_2,2024-06-03,88
+hammer_1,Store_2,2024-06-10,118
+hammer_1,Store_2,2024-06-17,119
+hammer_1,Store_3,2024-02-26,77
+hammer_1,Store_3,2024-03-04,70
+hammer_1,Store_3,2024-03-11,52
+hammer_1,Store_3,2024-03-18,59
+hammer_1,Store_3,2024-03-25,85
+hammer_1,Store_3,2024-04-01,46
+hammer_1,Store_3,2024-04-08,63
+hammer_1,Store_3,2024-04-15,78
+hammer_1,Store_3,2024-04-22,63
+hammer_1,Store_3,2024-04-29,59
+hammer_1,Store_3,2024-05-06,64
+hammer_1,Store_3,2024-05-13,84
+hammer_1,Store_3,2024-05-20,61
+hammer_1,Store_3,2024-05-27,60
+hammer_1,Store_3,2024-06-03,60
+hammer_1,Store_3,2024-06-10,91
+hammer_1,Store_3,2024-06-17,88
+hammer_1,Store_4,2024-02-26,140
+hammer_1,Store_4,2024-03-04,136
+hammer_1,Store_4,2024-03-11,125
+hammer_1,Store_4,2024-03-18,130
+hammer_1,Store_4,2024-03-25,144
+hammer_1,Store_4,2024-04-01,118
+hammer_1,Store_4,2024-04-08,131
+hammer_1,Store_4,2024-04-15,141
+hammer_1,Store_4,2024-04-22,129
+hammer_1,Store_4,2024-04-29,130
+hammer_1,Store_4,2024-05-06,133
+hammer_1,Store_4,2024-05-13,144
+hammer_1,Store_4,2024-05-20,131
+hammer_1,Store_4,2024-05-27,132
+hammer_1,Store_4,2024-06-03,130
+hammer_1,Store_4,2024-06-10,149
+hammer_1,Store_4,2024-06-17,150
+hammer_1,Store_5,2024-02-26,41
+hammer_1,Store_5,2024-03-04,34
+hammer_1,Store_5,2024-03-11,21
+hammer_1,Store_5,2024-03-18,28
+hammer_1,Store_5,2024-03-25,45
+hammer_1,Store_5,2024-04-01,11
+hammer_1,Store_5,2024-04-08,32
+hammer_1,Store_5,2024-04-15,40
+hammer_1,Store_5,2024-04-22,26
+hammer_1,Store_5,2024-04-29,28
+hammer_1,Store_5,2024-05-06,30
+hammer_1,Store_5,2024-05-13,45
+hammer_1,Store_5,2024-05-20,27
+hammer_1,Store_5,2024-05-27,31
+hammer_1,Store_5,2024-06-03,28
+hammer_1,Store_5,2024-06-10,52
+hammer_1,Store_5,2024-06-17,51
+hammer_1,Store_6,2024-02-26,42
+hammer_1,Store_6,2024-03-04,35
+hammer_1,Store_6,2024-03-11,15
+hammer_1,Store_6,2024-03-18,23
+hammer_1,Store_6,2024-03-25,49
+hammer_1,Store_6,2024-04-01,4
+hammer_1,Store_6,2024-04-08,25
+hammer_1,Store_6,2024-04-15,44
+hammer_1,Store_6,2024-04-22,22
+hammer_1,Store_6,2024-04-29,24
+hammer_1,Store_6,2024-05-06,29
+hammer_1,Store_6,2024-05-13,48
+hammer_1,Store_6,2024-05-20,25
+hammer_1,Store_6,2024-05-27,26
+hammer_1,Store_6,2024-06-03,25
+hammer_1,Store_6,2024-06-10,56
+hammer_1,Store_6,2024-06-17,58
+hammer_1,Store_7,2024-02-26,86
+hammer_1,Store_7,2024-03-04,82
+hammer_1,Store_7,2024-03-11,67
+hammer_1,Store_7,2024-03-18,73
+hammer_1,Store_7,2024-03-25,91
+hammer_1,Store_7,2024-04-01,61
+hammer_1,Store_7,2024-04-08,73
+hammer_1,Store_7,2024-04-15,89
+hammer_1,Store_7,2024-04-22,73
+hammer_1,Store_7,2024-04-29,72
+hammer_1,Store_7,2024-05-06,77
+hammer_1,Store_7,2024-05-13,90
+hammer_1,Store_7,2024-05-20,75
+hammer_1,Store_7,2024-05-27,74
+hammer_1,Store_7,2024-06-03,75
+hammer_1,Store_7,2024-06-10,96
+hammer_1,Store_7,2024-06-17,98
+hammer_1,Store_8,2024-02-26,91
+hammer_1,Store_8,2024-03-04,82
+hammer_1,Store_8,2024-03-11,71
+hammer_1,Store_8,2024-03-18,82
+hammer_1,Store_8,2024-03-25,93
+hammer_1,Store_8,2024-04-01,60
+hammer_1,Store_8,2024-04-08,84
+hammer_1,Store_8,2024-04-15,91
+hammer_1,Store_8,2024-04-22,71
+hammer_1,Store_8,2024-04-29,81
+hammer_1,Store_8,2024-05-06,82
+hammer_1,Store_8,2024-05-13,91
+hammer_1,Store_8,2024-05-20,76
+hammer_1,Store_8,2024-05-27,82
+hammer_1,Store_8,2024-06-03,80
+hammer_1,Store_8,2024-06-10,98
+hammer_1,Store_8,2024-06-17,96
+hammer_2,Store_1,2024-02-26,133
+hammer_2,Store_1,2024-03-04,125
+hammer_2,Store_1,2024-03-11,107
+hammer_2,Store_1,2024-03-18,117
+hammer_2,Store_1,2024-03-25,140
+hammer_2,Store_1,2024-04-01,97
+hammer_2,Store_1,2024-04-08,119
+hammer_2,Store_1,2024-04-15,135
+hammer_2,Store_1,2024-04-22,113
+hammer_2,Store_1,2024-04-29,116
+hammer_2,Store_1,2024-05-06,122
+hammer_2,Store_1,2024-05-13,138
+hammer_2,Store_1,2024-05-20,115
+hammer_2,Store_1,2024-05-27,118
+hammer_2,Store_1,2024-06-03,118
+hammer_2,Store_1,2024-06-10,145
+hammer_2,Store_1,2024-06-17,144
+hammer_2,Store_2,2024-02-26,202
+hammer_2,Store_2,2024-03-04,195
+hammer_2,Store_2,2024-03-11,182
+hammer_2,Store_2,2024-03-18,189
+hammer_2,Store_2,2024-03-25,207
+hammer_2,Store_2,2024-04-01,175
+hammer_2,Store_2,2024-04-08,192
+hammer_2,Store_2,2024-04-15,203
+hammer_2,Store_2,2024-04-22,188
+hammer_2,Store_2,2024-04-29,188
+hammer_2,Store_2,2024-05-06,193
+hammer_2,Store_2,2024-05-13,206
+hammer_2,Store_2,2024-05-20,188
+hammer_2,Store_2,2024-05-27,190
+hammer_2,Store_2,2024-06-03,190
+hammer_2,Store_2,2024-06-10,212
+hammer_2,Store_2,2024-06-17,208
+hammer_2,Store_3,2024-02-26,109
+hammer_2,Store_3,2024-03-04,103
+hammer_2,Store_3,2024-03-11,74
+hammer_2,Store_3,2024-03-18,90
+hammer_2,Store_3,2024-03-25,121
+hammer_2,Store_3,2024-04-01,66
+hammer_2,Store_3,2024-04-08,86
+hammer_2,Store_3,2024-04-15,121
+hammer_2,Store_3,2024-04-22,85
+hammer_2,Store_3,2024-04-29,84
+hammer_2,Store_3,2024-05-06,99
+hammer_2,Store_3,2024-05-13,117
+hammer_2,Store_3,2024-05-20,88
+hammer_2,Store_3,2024-05-27,87
+hammer_2,Store_3,2024-06-03,96
+hammer_2,Store_3,2024-06-10,125
+hammer_2,Store_3,2024-06-17,124
+hammer_2,Store_4,2024-02-26,96
+hammer_2,Store_4,2024-03-04,94
+hammer_2,Store_4,2024-03-11,67
+hammer_2,Store_4,2024-03-18,73
+hammer_2,Store_4,2024-03-25,109
+hammer_2,Store_4,2024-04-01,65
+hammer_2,Store_4,2024-04-08,73
+hammer_2,Store_4,2024-04-15,103
+hammer_2,Store_4,2024-04-22,84
+hammer_2,Store_4,2024-04-29,73
+hammer_2,Store_4,2024-05-06,82
+hammer_2,Store_4,2024-05-13,108
+hammer_2,Store_4,2024-05-20,83
+hammer_2,Store_4,2024-05-27,74
+hammer_2,Store_4,2024-06-03,78
+hammer_2,Store_4,2024-06-10,116
+hammer_2,Store_4,2024-06-17,119
+hammer_2,Store_5,2024-02-26,135
+hammer_2,Store_5,2024-03-04,127
+hammer_2,Store_5,2024-03-11,117
+hammer_2,Store_5,2024-03-18,125
+hammer_2,Store_5,2024-03-25,137
+hammer_2,Store_5,2024-04-01,106
+hammer_2,Store_5,2024-04-08,127
+hammer_2,Store_5,2024-04-15,134
+hammer_2,Store_5,2024-04-22,117
+hammer_2,Store_5,2024-04-29,125
+hammer_2,Store_5,2024-05-06,126
+hammer_2,Store_5,2024-05-13,136
+hammer_2,Store_5,2024-05-20,121
+hammer_2,Store_5,2024-05-27,127
+hammer_2,Store_5,2024-06-03,124
+hammer_2,Store_5,2024-06-10,141
+hammer_2,Store_5,2024-06-17,142
+hammer_2,Store_6,2024-02-26,40
+hammer_2,Store_6,2024-03-04,33
+hammer_2,Store_6,2024-03-11,17
+hammer_2,Store_6,2024-03-18,24
+hammer_2,Store_6,2024-03-25,46
+hammer_2,Store_6,2024-04-01,9
+hammer_2,Store_6,2024-04-08,27
+hammer_2,Store_6,2024-04-15,41
+hammer_2,Store_6,2024-04-22,25
+hammer_2,Store_6,2024-04-29,23
+hammer_2,Store_6,2024-05-06,28
+hammer_2,Store_6,2024-05-13,45
+hammer_2,Store_6,2024-05-20,24
+hammer_2,Store_6,2024-05-27,25
+hammer_2,Store_6,2024-06-03,24
+hammer_2,Store_6,2024-06-10,52
+hammer_2,Store_6,2024-06-17,50
+hammer_2,Store_7,2024-02-26,84
+hammer_2,Store_7,2024-03-04,79
+hammer_2,Store_7,2024-03-11,69
+hammer_2,Store_7,2024-03-18,74
+hammer_2,Store_7,2024-03-25,88
+hammer_2,Store_7,2024-04-01,63
+hammer_2,Store_7,2024-04-08,75
+hammer_2,Store_7,2024-04-15,85
+hammer_2,Store_7,2024-04-22,72
+hammer_2,Store_7,2024-04-29,74
+hammer_2,Store_7,2024-05-06,77
+hammer_2,Store_7,2024-05-13,87
+hammer_2,Store_7,2024-05-20,74
+hammer_2,Store_7,2024-05-27,75
+hammer_2,Store_7,2024-06-03,75
+hammer_2,Store_7,2024-06-10,91
+hammer_2,Store_7,2024-06-17,91
+hammer_2,Store_8,2024-02-26,98
+hammer_2,Store_8,2024-03-04,86
+hammer_2,Store_8,2024-03-11,55
+hammer_2,Store_8,2024-03-18,79
+hammer_2,Store_8,2024-03-25,108
+hammer_2,Store_8,2024-04-01,37
+hammer_2,Store_8,2024-04-08,75
+hammer_2,Store_8,2024-04-15,110
+hammer_2,Store_8,2024-04-22,57
+hammer_2,Store_8,2024-04-29,71
+hammer_2,Store_8,2024-05-06,89
+hammer_2,Store_8,2024-05-13,100
+hammer_2,Store_8,2024-05-20,68
+hammer_2,Store_8,2024-05-27,78
+hammer_2,Store_8,2024-06-03,82
+hammer_2,Store_8,2024-06-10,111
+hammer_2,Store_8,2024-06-17,112
+hammer_3,Store_1,2024-02-26,116
+hammer_3,Store_1,2024-03-04,106
+hammer_3,Store_1,2024-03-11,89
+hammer_3,Store_1,2024-03-18,99
+hammer_3,Store_1,2024-03-25,123
+hammer_3,Store_1,2024-04-01,79
+hammer_3,Store_1,2024-04-08,103
+hammer_3,Store_1,2024-04-15,117
+hammer_3,Store_1,2024-04-22,97
+hammer_3,Store_1,2024-04-29,98
+hammer_3,Store_1,2024-05-06,103
+hammer_3,Store_1,2024-05-13,121
+hammer_3,Store_1,2024-05-20,96
+hammer_3,Store_1,2024-05-27,100
+hammer_3,Store_1,2024-06-03,99
+hammer_3,Store_1,2024-06-10,129
+hammer_3,Store_1,2024-06-17,123
+hammer_3,Store_2,2024-02-26,115
+hammer_3,Store_2,2024-03-04,110
+hammer_3,Store_2,2024-03-11,101
+hammer_3,Store_2,2024-03-18,105
+hammer_3,Store_2,2024-03-25,118
+hammer_3,Store_2,2024-04-01,94
+hammer_3,Store_2,2024-04-08,107
+hammer_3,Store_2,2024-04-15,115
+hammer_3,Store_2,2024-04-22,104
+hammer_3,Store_2,2024-04-29,105
+hammer_3,Store_2,2024-05-06,107
+hammer_3,Store_2,2024-05-13,118
+hammer_3,Store_2,2024-05-20,105
+hammer_3,Store_2,2024-05-27,107
+hammer_3,Store_2,2024-06-03,105
+hammer_3,Store_2,2024-06-10,123
+hammer_3,Store_2,2024-06-17,123
+hammer_3,Store_3,2024-02-26,194
+hammer_3,Store_3,2024-03-04,185
+hammer_3,Store_3,2024-03-11,176
+hammer_3,Store_3,2024-03-18,186
+hammer_3,Store_3,2024-03-25,195
+hammer_3,Store_3,2024-04-01,165
+hammer_3,Store_3,2024-04-08,187
+hammer_3,Store_3,2024-04-15,193
+hammer_3,Store_3,2024-04-22,174
+hammer_3,Store_3,2024-04-29,185
+hammer_3,Store_3,2024-05-06,186
+hammer_3,Store_3,2024-05-13,193
+hammer_3,Store_3,2024-05-20,180
+hammer_3,Store_3,2024-05-27,186
+hammer_3,Store_3,2024-06-03,184
+hammer_3,Store_3,2024-06-10,199
+hammer_3,Store_3,2024-06-17,198
+hammer_3,Store_4,2024-02-26,101
+hammer_3,Store_4,2024-03-04,98
+hammer_3,Store_4,2024-03-11,70
+hammer_3,Store_4,2024-03-18,79
+hammer_3,Store_4,2024-03-25,114
+hammer_3,Store_4,2024-04-01,65
+hammer_3,Store_4,2024-04-08,77
+hammer_3,Store_4,2024-04-15,110
+hammer_3,Store_4,2024-04-22,85
+hammer_3,Store_4,2024-04-29,77
+hammer_3,Store_4,2024-05-06,89
+hammer_3,Store_4,2024-05-13,112
+hammer_3,Store_4,2024-05-20,85
+hammer_3,Store_4,2024-05-27,80
+hammer_3,Store_4,2024-06-03,85
+hammer_3,Store_4,2024-06-10,119
+hammer_3,Store_4,2024-06-17,122
+hammer_3,Store_5,2024-02-26,64
+hammer_3,Store_5,2024-03-04,60
+hammer_3,Store_5,2024-03-11,36
+hammer_3,Store_5,2024-03-18,43
+hammer_3,Store_5,2024-03-25,75
+hammer_3,Store_5,2024-04-01,33
+hammer_3,Store_5,2024-04-08,43
+hammer_3,Store_5,2024-04-15,69
+hammer_3,Store_5,2024-04-22,50
+hammer_3,Store_5,2024-04-29,42
+hammer_3,Store_5,2024-05-06,51
+hammer_3,Store_5,2024-05-13,73
+hammer_3,Store_5,2024-05-20,49
+hammer_3,Store_5,2024-05-27,44
+hammer_3,Store_5,2024-06-03,47
+hammer_3,Store_5,2024-06-10,81
+hammer_3,Store_5,2024-06-17,81
+hammer_3,Store_6,2024-02-26,90
+hammer_3,Store_6,2024-03-04,82
+hammer_3,Store_6,2024-03-11,65
+hammer_3,Store_6,2024-03-18,75
+hammer_3,Store_6,2024-03-25,95
+hammer_3,Store_6,2024-04-01,53
+hammer_3,Store_6,2024-04-08,77
+hammer_3,Store_6,2024-04-15,92
+hammer_3,Store_6,2024-04-22,68
+hammer_3,Store_6,2024-04-29,75
+hammer_3,Store_6,2024-05-06,79
+hammer_3,Store_6,2024-05-13,94
+hammer_3,Store_6,2024-05-20,74
+hammer_3,Store_6,2024-05-27,78
+hammer_3,Store_6,2024-06-03,76
+hammer_3,Store_6,2024-06-10,102
+hammer_3,Store_6,2024-06-17,104
+hammer_3,Store_7,2024-02-26,212
+hammer_3,Store_7,2024-03-04,204
+hammer_3,Store_7,2024-03-11,191
+hammer_3,Store_7,2024-03-18,198
+hammer_3,Store_7,2024-03-25,216
+hammer_3,Store_7,2024-04-01,180
+hammer_3,Store_7,2024-04-08,202
+hammer_3,Store_7,2024-04-15,210
+hammer_3,Store_7,2024-04-22,195
+hammer_3,Store_7,2024-04-29,198
+hammer_3,Store_7,2024-05-06,200
+hammer_3,Store_7,2024-05-13,216
+hammer_3,Store_7,2024-05-20,196
+hammer_3,Store_7,2024-05-27,201
+hammer_3,Store_7,2024-06-03,197
+hammer_3,Store_7,2024-06-10,223
+hammer_3,Store_7,2024-06-17,222
+hammer_3,Store_8,2024-02-26,49
+hammer_3,Store_8,2024-03-04,45
+hammer_3,Store_8,2024-03-11,35
+hammer_3,Store_8,2024-03-18,40
+hammer_3,Store_8,2024-03-25,53
+hammer_3,Store_8,2024-04-01,29
+hammer_3,Store_8,2024-04-08,41
+hammer_3,Store_8,2024-04-15,51
+hammer_3,Store_8,2024-04-22,38
+hammer_3,Store_8,2024-04-29,40
+hammer_3,Store_8,2024-05-06,43
+hammer_3,Store_8,2024-05-13,52
+hammer_3,Store_8,2024-05-20,40
+hammer_3,Store_8,2024-05-27,41
+hammer_3,Store_8,2024-06-03,41
+hammer_3,Store_8,2024-06-10,56
+hammer_3,Store_8,2024-06-17,57
+impact drill_1,Store_1,2024-02-26,45
+impact drill_1,Store_1,2024-03-04,35
+impact drill_1,Store_1,2024-03-11,14
+impact drill_1,Store_1,2024-03-18,30
+impact drill_1,Store_1,2024-03-25,51
+impact drill_1,Store_1,2024-04-01,0
+impact drill_1,Store_1,2024-04-08,30
+impact drill_1,Store_1,2024-04-15,49
+impact drill_1,Store_1,2024-04-22,15
+impact drill_1,Store_1,2024-04-29,27
+impact drill_1,Store_1,2024-05-06,34
+impact drill_1,Store_1,2024-05-13,47
+impact drill_1,Store_1,2024-05-20,24
+impact drill_1,Store_1,2024-05-27,31
+impact drill_1,Store_1,2024-06-03,31
+impact drill_1,Store_1,2024-06-10,57
+impact drill_1,Store_1,2024-06-17,58
+impact drill_1,Store_2,2024-02-26,128
+impact drill_1,Store_2,2024-03-04,115
+impact drill_1,Store_2,2024-03-11,96
+impact drill_1,Store_2,2024-03-18,105
+impact drill_1,Store_2,2024-03-25,134
+impact drill_1,Store_2,2024-04-01,79
+impact drill_1,Store_2,2024-04-08,112
+impact drill_1,Store_2,2024-04-15,125
+impact drill_1,Store_2,2024-04-22,103
+impact drill_1,Store_2,2024-04-29,107
+impact drill_1,Store_2,2024-05-06,109
+impact drill_1,Store_2,2024-05-13,135
+impact drill_1,Store_2,2024-05-20,105
+impact drill_1,Store_2,2024-05-27,111
+impact drill_1,Store_2,2024-06-03,105
+impact drill_1,Store_2,2024-06-10,145
+impact drill_1,Store_2,2024-06-17,145
+impact drill_1,Store_3,2024-02-26,53
+impact drill_1,Store_3,2024-03-04,50
+impact drill_1,Store_3,2024-03-11,36
+impact drill_1,Store_3,2024-03-18,39
+impact drill_1,Store_3,2024-03-25,60
+impact drill_1,Store_3,2024-04-01,33
+impact drill_1,Store_3,2024-04-08,41
+impact drill_1,Store_3,2024-04-15,55
+impact drill_1,Store_3,2024-04-22,45
+impact drill_1,Store_3,2024-04-29,40
+impact drill_1,Store_3,2024-05-06,43
+impact drill_1,Store_3,2024-05-13,59
+impact drill_1,Store_3,2024-05-20,44
+impact drill_1,Store_3,2024-05-27,40
+impact drill_1,Store_3,2024-06-03,40
+impact drill_1,Store_3,2024-06-10,65
+impact drill_1,Store_3,2024-06-17,66
+impact drill_1,Store_4,2024-02-26,143
+impact drill_1,Store_4,2024-03-04,135
+impact drill_1,Store_4,2024-03-11,121
+impact drill_1,Store_4,2024-03-18,130
+impact drill_1,Store_4,2024-03-25,148
+impact drill_1,Store_4,2024-04-01,112
+impact drill_1,Store_4,2024-04-08,132
+impact drill_1,Store_4,2024-04-15,145
+impact drill_1,Store_4,2024-04-22,126
+impact drill_1,Store_4,2024-04-29,128
+impact drill_1,Store_4,2024-05-06,134
+impact drill_1,Store_4,2024-05-13,146
+impact drill_1,Store_4,2024-05-20,126
+impact drill_1,Store_4,2024-05-27,130
+impact drill_1,Store_4,2024-06-03,131
+impact drill_1,Store_4,2024-06-10,152
+impact drill_1,Store_4,2024-06-17,148
+impact drill_1,Store_5,2024-02-26,162
+impact drill_1,Store_5,2024-03-04,150
+impact drill_1,Store_5,2024-03-11,130
+impact drill_1,Store_5,2024-03-18,140
+impact drill_1,Store_5,2024-03-25,169
+impact drill_1,Store_5,2024-04-01,115
+impact drill_1,Store_5,2024-04-08,145
+impact drill_1,Store_5,2024-04-15,161
+impact drill_1,Store_5,2024-04-22,138
+impact drill_1,Store_5,2024-04-29,140
+impact drill_1,Store_5,2024-05-06,145
+impact drill_1,Store_5,2024-05-13,168
+impact drill_1,Store_5,2024-05-20,139
+impact drill_1,Store_5,2024-05-27,144
+impact drill_1,Store_5,2024-06-03,140
+impact drill_1,Store_5,2024-06-10,178
+impact drill_1,Store_5,2024-06-17,176
+impact drill_1,Store_6,2024-02-26,65
+impact drill_1,Store_6,2024-03-04,57
+impact drill_1,Store_6,2024-03-11,45
+impact drill_1,Store_6,2024-03-18,52
+impact drill_1,Store_6,2024-03-25,68
+impact drill_1,Store_6,2024-04-01,35
+impact drill_1,Store_6,2024-04-08,56
+impact drill_1,Store_6,2024-04-15,64
+impact drill_1,Store_6,2024-04-22,48
+impact drill_1,Store_6,2024-04-29,53
+impact drill_1,Store_6,2024-05-06,54
+impact drill_1,Store_6,2024-05-13,68
+impact drill_1,Store_6,2024-05-20,50
+impact drill_1,Store_6,2024-05-27,55
+impact drill_1,Store_6,2024-06-03,52
+impact drill_1,Store_6,2024-06-10,74
+impact drill_1,Store_6,2024-06-17,73
+impact drill_1,Store_7,2024-02-26,41
+impact drill_1,Store_7,2024-03-04,32
+impact drill_1,Store_7,2024-03-11,17
+impact drill_1,Store_7,2024-03-18,23
+impact drill_1,Store_7,2024-03-25,46
+impact drill_1,Store_7,2024-04-01,7
+impact drill_1,Store_7,2024-04-08,29
+impact drill_1,Store_7,2024-04-15,38
+impact drill_1,Store_7,2024-04-22,25
+impact drill_1,Store_7,2024-04-29,24
+impact drill_1,Store_7,2024-05-06,27
+impact drill_1,Store_7,2024-05-13,46
+impact drill_1,Store_7,2024-05-20,24
+impact drill_1,Store_7,2024-05-27,27
+impact drill_1,Store_7,2024-06-03,22
+impact drill_1,Store_7,2024-06-10,54
+impact drill_1,Store_7,2024-06-17,51
+impact drill_1,Store_8,2024-02-26,149
+impact drill_1,Store_8,2024-03-04,132
+impact drill_1,Store_8,2024-03-11,121
+impact drill_1,Store_8,2024-03-18,130
+impact drill_1,Store_8,2024-03-25,150
+impact drill_1,Store_8,2024-04-01,102
+impact drill_1,Store_8,2024-04-08,140
+impact drill_1,Store_8,2024-04-15,140
+impact drill_1,Store_8,2024-04-22,123
+impact drill_1,Store_8,2024-04-29,133
+impact drill_1,Store_8,2024-05-06,130
+impact drill_1,Store_8,2024-05-13,152
+impact drill_1,Store_8,2024-05-20,125
+impact drill_1,Store_8,2024-05-27,136
+impact drill_1,Store_8,2024-06-03,126
+impact drill_1,Store_8,2024-06-10,162
+impact drill_1,Store_8,2024-06-17,156
+impact drill_2,Store_1,2024-02-26,206
+impact drill_2,Store_1,2024-03-04,200
+impact drill_2,Store_1,2024-03-11,172
+impact drill_2,Store_1,2024-03-18,187
+impact drill_2,Store_1,2024-03-25,218
+impact drill_2,Store_1,2024-04-01,165
+impact drill_2,Store_1,2024-04-08,184
+impact drill_2,Store_1,2024-04-15,217
+impact drill_2,Store_1,2024-04-22,183
+impact drill_2,Store_1,2024-04-29,181
+impact drill_2,Store_1,2024-05-06,197
+impact drill_2,Store_1,2024-05-13,213
+impact drill_2,Store_1,2024-05-20,185
+impact drill_2,Store_1,2024-05-27,185
+impact drill_2,Store_1,2024-06-03,192
+impact drill_2,Store_1,2024-06-10,221
+impact drill_2,Store_1,2024-06-17,219
+impact drill_2,Store_2,2024-02-26,135
+impact drill_2,Store_2,2024-03-04,122
+impact drill_2,Store_2,2024-03-11,102
+impact drill_2,Store_2,2024-03-18,115
+impact drill_2,Store_2,2024-03-25,141
+impact drill_2,Store_2,2024-04-01,86
+impact drill_2,Store_2,2024-04-08,120
+impact drill_2,Store_2,2024-04-15,135
+impact drill_2,Store_2,2024-04-22,108
+impact drill_2,Store_2,2024-04-29,115
+impact drill_2,Store_2,2024-05-06,119
+impact drill_2,Store_2,2024-05-13,140
+impact drill_2,Store_2,2024-05-20,111
+impact drill_2,Store_2,2024-05-27,117
+impact drill_2,Store_2,2024-06-03,114
+impact drill_2,Store_2,2024-06-10,151
+impact drill_2,Store_2,2024-06-17,148
+impact drill_2,Store_3,2024-02-26,121
+impact drill_2,Store_3,2024-03-04,111
+impact drill_2,Store_3,2024-03-11,88
+impact drill_2,Store_3,2024-03-18,101
+impact drill_2,Store_3,2024-03-25,130
+impact drill_2,Store_3,2024-04-01,76
+impact drill_2,Store_3,2024-04-08,103
+impact drill_2,Store_3,2024-04-15,124
+impact drill_2,Store_3,2024-04-22,96
+impact drill_2,Store_3,2024-04-29,100
+impact drill_2,Store_3,2024-05-06,107
+impact drill_2,Store_3,2024-05-13,127
+impact drill_2,Store_3,2024-05-20,99
+impact drill_2,Store_3,2024-05-27,103
+impact drill_2,Store_3,2024-06-03,103
+impact drill_2,Store_3,2024-06-10,137
+impact drill_2,Store_3,2024-06-17,136
+impact drill_2,Store_4,2024-02-26,155
+impact drill_2,Store_4,2024-03-04,142
+impact drill_2,Store_4,2024-03-11,124
+impact drill_2,Store_4,2024-03-18,136
+impact drill_2,Store_4,2024-03-25,161
+impact drill_2,Store_4,2024-04-01,109
+impact drill_2,Store_4,2024-04-08,142
+impact drill_2,Store_4,2024-04-15,153
+impact drill_2,Store_4,2024-04-22,130
+impact drill_2,Store_4,2024-04-29,134
+impact drill_2,Store_4,2024-05-06,140
+impact drill_2,Store_4,2024-05-13,159
+impact drill_2,Store_4,2024-05-20,131
+impact drill_2,Store_4,2024-05-27,138
+impact drill_2,Store_4,2024-06-03,135
+impact drill_2,Store_4,2024-06-10,169
+impact drill_2,Store_4,2024-06-17,163
+impact drill_2,Store_5,2024-02-26,147
+impact drill_2,Store_5,2024-03-04,140
+impact drill_2,Store_5,2024-03-11,127
+impact drill_2,Store_5,2024-03-18,132
+impact drill_2,Store_5,2024-03-25,152
+impact drill_2,Store_5,2024-04-01,120
+impact drill_2,Store_5,2024-04-08,136
+impact drill_2,Store_5,2024-04-15,146
+impact drill_2,Store_5,2024-04-22,134
+impact drill_2,Store_5,2024-04-29,133
+impact drill_2,Store_5,2024-05-06,136
+impact drill_2,Store_5,2024-05-13,152
+impact drill_2,Store_5,2024-05-20,134
+impact drill_2,Store_5,2024-05-27,135
+impact drill_2,Store_5,2024-06-03,132
+impact drill_2,Store_5,2024-06-10,158
+impact drill_2,Store_5,2024-06-17,157
+impact drill_2,Store_6,2024-02-26,71
+impact drill_2,Store_6,2024-03-04,61
+impact drill_2,Store_6,2024-03-11,41
+impact drill_2,Store_6,2024-03-18,53
+impact drill_2,Store_6,2024-03-25,78
+impact drill_2,Store_6,2024-04-01,29
+impact drill_2,Store_6,2024-04-08,55
+impact drill_2,Store_6,2024-04-15,74
+impact drill_2,Store_6,2024-04-22,47
+impact drill_2,Store_6,2024-04-29,51
+impact drill_2,Store_6,2024-05-06,58
+impact drill_2,Store_6,2024-05-13,76
+impact drill_2,Store_6,2024-05-20,50
+impact drill_2,Store_6,2024-05-27,54
+impact drill_2,Store_6,2024-06-03,54
+impact drill_2,Store_6,2024-06-10,84
+impact drill_2,Store_6,2024-06-17,82
+impact drill_2,Store_7,2024-02-26,79
+impact drill_2,Store_7,2024-03-04,67
+impact drill_2,Store_7,2024-03-11,50
+impact drill_2,Store_7,2024-03-18,66
+impact drill_2,Store_7,2024-03-25,82
+impact drill_2,Store_7,2024-04-01,35
+impact drill_2,Store_7,2024-04-08,69
+impact drill_2,Store_7,2024-04-15,80
+impact drill_2,Store_7,2024-04-22,48
+impact drill_2,Store_7,2024-04-29,65
+impact drill_2,Store_7,2024-05-06,68
+impact drill_2,Store_7,2024-05-13,78
+impact drill_2,Store_7,2024-05-20,58
+impact drill_2,Store_7,2024-05-27,67
+impact drill_2,Store_7,2024-06-03,65
+impact drill_2,Store_7,2024-06-10,87
+impact drill_2,Store_7,2024-06-17,87
+impact drill_2,Store_8,2024-02-26,138
+impact drill_2,Store_8,2024-03-04,132
+impact drill_2,Store_8,2024-03-11,119
+impact drill_2,Store_8,2024-03-18,128
+impact drill_2,Store_8,2024-03-25,142
+impact drill_2,Store_8,2024-04-01,110
+impact drill_2,Store_8,2024-04-08,128
+impact drill_2,Store_8,2024-04-15,141
+impact drill_2,Store_8,2024-04-22,120
+impact drill_2,Store_8,2024-04-29,126
+impact drill_2,Store_8,2024-05-06,132
+impact drill_2,Store_8,2024-05-13,139
+impact drill_2,Store_8,2024-05-20,125
+impact drill_2,Store_8,2024-05-27,128
+impact drill_2,Store_8,2024-06-03,129
+impact drill_2,Store_8,2024-06-10,145
+impact drill_2,Store_8,2024-06-17,146
+impact drill_3,Store_1,2024-02-26,107
+impact drill_3,Store_1,2024-03-04,92
+impact drill_3,Store_1,2024-03-11,77
+impact drill_3,Store_1,2024-03-18,87
+impact drill_3,Store_1,2024-03-25,111
+impact drill_3,Store_1,2024-04-01,59
+impact drill_3,Store_1,2024-04-08,96
+impact drill_3,Store_1,2024-04-15,102
+impact drill_3,Store_1,2024-04-22,82
+impact drill_3,Store_1,2024-04-29,88
+impact drill_3,Store_1,2024-05-06,90
+impact drill_3,Store_1,2024-05-13,111
+impact drill_3,Store_1,2024-05-20,82
+impact drill_3,Store_1,2024-05-27,92
+impact drill_3,Store_1,2024-06-03,84
+impact drill_3,Store_1,2024-06-10,122
+impact drill_3,Store_1,2024-06-17,116
+impact drill_3,Store_2,2024-02-26,178
+impact drill_3,Store_2,2024-03-04,167
+impact drill_3,Store_2,2024-03-11,152
+impact drill_3,Store_2,2024-03-18,157
+impact drill_3,Store_2,2024-03-25,184
+impact drill_3,Store_2,2024-04-01,140
+impact drill_3,Store_2,2024-04-08,165
+impact drill_3,Store_2,2024-04-15,174
+impact drill_3,Store_2,2024-04-22,161
+impact drill_3,Store_2,2024-04-29,159
+impact drill_3,Store_2,2024-05-06,161
+impact drill_3,Store_2,2024-05-13,185
+impact drill_3,Store_2,2024-05-20,159
+impact drill_3,Store_2,2024-05-27,163
+impact drill_3,Store_2,2024-06-03,156
+impact drill_3,Store_2,2024-06-10,194
+impact drill_3,Store_2,2024-06-17,190
+impact drill_3,Store_3,2024-02-26,76
+impact drill_3,Store_3,2024-03-04,67
+impact drill_3,Store_3,2024-03-11,48
+impact drill_3,Store_3,2024-03-18,61
+impact drill_3,Store_3,2024-03-25,84
+impact drill_3,Store_3,2024-04-01,38
+impact drill_3,Store_3,2024-04-08,62
+impact drill_3,Store_3,2024-04-15,81
+impact drill_3,Store_3,2024-04-22,54
+impact drill_3,Store_3,2024-04-29,58
+impact drill_3,Store_3,2024-05-06,66
+impact drill_3,Store_3,2024-05-13,80
+impact drill_3,Store_3,2024-05-20,56
+impact drill_3,Store_3,2024-05-27,60
+impact drill_3,Store_3,2024-06-03,62
+impact drill_3,Store_3,2024-06-10,88
+impact drill_3,Store_3,2024-06-17,84
+impact drill_3,Store_4,2024-02-26,147
+impact drill_3,Store_4,2024-03-04,138
+impact drill_3,Store_4,2024-03-11,127
+impact drill_3,Store_4,2024-03-18,131
+impact drill_3,Store_4,2024-03-25,149
+impact drill_3,Store_4,2024-04-01,114
+impact drill_3,Store_4,2024-04-08,137
+impact drill_3,Store_4,2024-04-15,142
+impact drill_3,Store_4,2024-04-22,130
+impact drill_3,Store_4,2024-04-29,134
+impact drill_3,Store_4,2024-05-06,133
+impact drill_3,Store_4,2024-05-13,151
+impact drill_3,Store_4,2024-05-20,132
+impact drill_3,Store_4,2024-05-27,137
+impact drill_3,Store_4,2024-06-03,131
+impact drill_3,Store_4,2024-06-10,158
+impact drill_3,Store_4,2024-06-17,158
+impact drill_3,Store_5,2024-02-26,126
+impact drill_3,Store_5,2024-03-04,117
+impact drill_3,Store_5,2024-03-11,107
+impact drill_3,Store_5,2024-03-18,114
+impact drill_3,Store_5,2024-03-25,128
+impact drill_3,Store_5,2024-04-01,97
+impact drill_3,Store_5,2024-04-08,119
+impact drill_3,Store_5,2024-04-15,123
+impact drill_3,Store_5,2024-04-22,110
+impact drill_3,Store_5,2024-04-29,115
+impact drill_3,Store_5,2024-05-06,115
+impact drill_3,Store_5,2024-05-13,128
+impact drill_3,Store_5,2024-05-20,111
+impact drill_3,Store_5,2024-05-27,117
+impact drill_3,Store_5,2024-06-03,113
+impact drill_3,Store_5,2024-06-10,134
+impact drill_3,Store_5,2024-06-17,131
+impact drill_3,Store_6,2024-02-26,103
+impact drill_3,Store_6,2024-03-04,99
+impact drill_3,Store_6,2024-03-11,76
+impact drill_3,Store_6,2024-03-18,86
+impact drill_3,Store_6,2024-03-25,114
+impact drill_3,Store_6,2024-04-01,70
+impact drill_3,Store_6,2024-04-08,84
+impact drill_3,Store_6,2024-04-15,111
+impact drill_3,Store_6,2024-04-22,87
+impact drill_3,Store_6,2024-04-29,82
+impact drill_3,Store_6,2024-05-06,94
+impact drill_3,Store_6,2024-05-13,111
+impact drill_3,Store_6,2024-05-20,87
+impact drill_3,Store_6,2024-05-27,85
+impact drill_3,Store_6,2024-06-03,91
+impact drill_3,Store_6,2024-06-10,118
+impact drill_3,Store_6,2024-06-17,118
+impact drill_3,Store_7,2024-02-26,171
+impact drill_3,Store_7,2024-03-04,160
+impact drill_3,Store_7,2024-03-11,145
+impact drill_3,Store_7,2024-03-18,152
+impact drill_3,Store_7,2024-03-25,176
+impact drill_3,Store_7,2024-04-01,132
+impact drill_3,Store_7,2024-04-08,160
+impact drill_3,Store_7,2024-04-15,167
+impact drill_3,Store_7,2024-04-22,152
+impact drill_3,Store_7,2024-04-29,153
+impact drill_3,Store_7,2024-05-06,156
+impact drill_3,Store_7,2024-05-13,175
+impact drill_3,Store_7,2024-05-20,151
+impact drill_3,Store_7,2024-05-27,157
+impact drill_3,Store_7,2024-06-03,151
+impact drill_3,Store_7,2024-06-10,185
+impact drill_3,Store_7,2024-06-17,180
+impact drill_3,Store_8,2024-02-26,143
+impact drill_3,Store_8,2024-03-04,136
+impact drill_3,Store_8,2024-03-11,122
+impact drill_3,Store_8,2024-03-18,128
+impact drill_3,Store_8,2024-03-25,148
+impact drill_3,Store_8,2024-04-01,115
+impact drill_3,Store_8,2024-04-08,131
+impact drill_3,Store_8,2024-04-15,144
+impact drill_3,Store_8,2024-04-22,129
+impact drill_3,Store_8,2024-04-29,128
+impact drill_3,Store_8,2024-05-06,132
+impact drill_3,Store_8,2024-05-13,148
+impact drill_3,Store_8,2024-05-20,129
+impact drill_3,Store_8,2024-05-27,130
+impact drill_3,Store_8,2024-06-03,129
+impact drill_3,Store_8,2024-06-10,154
+impact drill_3,Store_8,2024-06-17,152
+nail_1,Store_1,2024-02-26,93
+nail_1,Store_1,2024-03-04,84
+nail_1,Store_1,2024-03-11,66
+nail_1,Store_1,2024-03-18,78
+nail_1,Store_1,2024-03-25,97
+nail_1,Store_1,2024-04-01,53
+nail_1,Store_1,2024-04-08,79
+nail_1,Store_1,2024-04-15,94
+nail_1,Store_1,2024-04-22,67
+nail_1,Store_1,2024-04-29,78
+nail_1,Store_1,2024-05-06,82
+nail_1,Store_1,2024-05-13,95
+nail_1,Store_1,2024-05-20,76
+nail_1,Store_1,2024-05-27,81
+nail_1,Store_1,2024-06-03,79
+nail_1,Store_1,2024-06-10,104
+nail_1,Store_1,2024-06-17,107
+nail_1,Store_2,2024-02-26,114
+nail_1,Store_2,2024-03-04,111
+nail_1,Store_2,2024-03-11,90
+nail_1,Store_2,2024-03-18,97
+nail_1,Store_2,2024-03-25,122
+nail_1,Store_2,2024-04-01,85
+nail_1,Store_2,2024-04-08,96
+nail_1,Store_2,2024-04-15,120
+nail_1,Store_2,2024-04-22,100
+nail_1,Store_2,2024-04-29,96
+nail_1,Store_2,2024-05-06,105
+nail_1,Store_2,2024-05-13,121
+nail_1,Store_2,2024-05-20,101
+nail_1,Store_2,2024-05-27,99
+nail_1,Store_2,2024-06-03,102
+nail_1,Store_2,2024-06-10,127
+nail_1,Store_2,2024-06-17,130
+nail_1,Store_3,2024-02-26,73
+nail_1,Store_3,2024-03-04,64
+nail_1,Store_3,2024-03-11,45
+nail_1,Store_3,2024-03-18,56
+nail_1,Store_3,2024-03-25,80
+nail_1,Store_3,2024-04-01,34
+nail_1,Store_3,2024-04-08,58
+nail_1,Store_3,2024-04-15,75
+nail_1,Store_3,2024-04-22,51
+nail_1,Store_3,2024-04-29,55
+nail_1,Store_3,2024-05-06,61
+nail_1,Store_3,2024-05-13,78
+nail_1,Store_3,2024-05-20,54
+nail_1,Store_3,2024-05-27,57
+nail_1,Store_3,2024-06-03,57
+nail_1,Store_3,2024-06-10,86
+nail_1,Store_3,2024-06-17,84
+nail_1,Store_4,2024-02-26,150
+nail_1,Store_4,2024-03-04,142
+nail_1,Store_4,2024-03-11,118
+nail_1,Store_4,2024-03-18,129
+nail_1,Store_4,2024-03-25,159
+nail_1,Store_4,2024-04-01,106
+nail_1,Store_4,2024-04-08,130
+nail_1,Store_4,2024-04-15,154
+nail_1,Store_4,2024-04-22,127
+nail_1,Store_4,2024-04-29,128
+nail_1,Store_4,2024-05-06,136
+nail_1,Store_4,2024-05-13,157
+nail_1,Store_4,2024-05-20,130
+nail_1,Store_4,2024-05-27,131
+nail_1,Store_4,2024-06-03,131
+nail_1,Store_4,2024-06-10,166
+nail_1,Store_4,2024-06-17,167
+nail_1,Store_5,2024-02-26,122
+nail_1,Store_5,2024-03-04,115
+nail_1,Store_5,2024-03-11,101
+nail_1,Store_5,2024-03-18,105
+nail_1,Store_5,2024-03-25,127
+nail_1,Store_5,2024-04-01,93
+nail_1,Store_5,2024-04-08,109
+nail_1,Store_5,2024-04-15,120
+nail_1,Store_5,2024-04-22,109
+nail_1,Store_5,2024-04-29,107
+nail_1,Store_5,2024-05-06,109
+nail_1,Store_5,2024-05-13,127
+nail_1,Store_5,2024-05-20,108
+nail_1,Store_5,2024-05-27,109
+nail_1,Store_5,2024-06-03,105
+nail_1,Store_5,2024-06-10,134
+nail_1,Store_5,2024-06-17,135
+nail_1,Store_6,2024-02-26,76
+nail_1,Store_6,2024-03-04,67
+nail_1,Store_6,2024-03-11,48
+nail_1,Store_6,2024-03-18,62
+nail_1,Store_6,2024-03-25,83
+nail_1,Store_6,2024-04-01,36
+nail_1,Store_6,2024-04-08,63
+nail_1,Store_6,2024-04-15,81
+nail_1,Store_6,2024-04-22,51
+nail_1,Store_6,2024-04-29,59
+nail_1,Store_6,2024-05-06,67
+nail_1,Store_6,2024-05-13,79
+nail_1,Store_6,2024-05-20,56
+nail_1,Store_6,2024-05-27,62
+nail_1,Store_6,2024-06-03,63
+nail_1,Store_6,2024-06-10,87
+nail_1,Store_6,2024-06-17,85
+nail_1,Store_7,2024-02-26,156
+nail_1,Store_7,2024-03-04,147
+nail_1,Store_7,2024-03-11,129
+nail_1,Store_7,2024-03-18,139
+nail_1,Store_7,2024-03-25,162
+nail_1,Store_7,2024-04-01,118
+nail_1,Store_7,2024-04-08,142
+nail_1,Store_7,2024-04-15,158
+nail_1,Store_7,2024-04-22,135
+nail_1,Store_7,2024-04-29,138
+nail_1,Store_7,2024-05-06,144
+nail_1,Store_7,2024-05-13,160
+nail_1,Store_7,2024-05-20,137
+nail_1,Store_7,2024-05-27,140
+nail_1,Store_7,2024-06-03,140
+nail_1,Store_7,2024-06-10,168
+nail_1,Store_7,2024-06-17,166
+nail_1,Store_8,2024-02-26,170
+nail_1,Store_8,2024-03-04,160
+nail_1,Store_8,2024-03-11,141
+nail_1,Store_8,2024-03-18,154
+nail_1,Store_8,2024-03-25,177
+nail_1,Store_8,2024-04-01,129
+nail_1,Store_8,2024-04-08,155
+nail_1,Store_8,2024-04-15,173
+nail_1,Store_8,2024-04-22,146
+nail_1,Store_8,2024-04-29,151
+nail_1,Store_8,2024-05-06,159
+nail_1,Store_8,2024-05-13,174
+nail_1,Store_8,2024-05-20,149
+nail_1,Store_8,2024-05-27,154
+nail_1,Store_8,2024-06-03,155
+nail_1,Store_8,2024-06-10,182
+nail_1,Store_8,2024-06-17,178
+nail_2,Store_1,2024-02-26,101
+nail_2,Store_1,2024-03-04,98
+nail_2,Store_1,2024-03-11,84
+nail_2,Store_1,2024-03-18,90
+nail_2,Store_1,2024-03-25,107
+nail_2,Store_1,2024-04-01,79
+nail_2,Store_1,2024-04-08,90
+nail_2,Store_1,2024-04-15,104
+nail_2,Store_1,2024-04-22,90
+nail_2,Store_1,2024-04-29,89
+nail_2,Store_1,2024-05-06,94
+nail_2,Store_1,2024-05-13,106
+nail_2,Store_1,2024-05-20,92
+nail_2,Store_1,2024-05-27,91
+nail_2,Store_1,2024-06-03,92
+nail_2,Store_1,2024-06-10,111
+nail_2,Store_1,2024-06-17,113
+nail_2,Store_2,2024-02-26,96
+nail_2,Store_2,2024-03-04,89
+nail_2,Store_2,2024-03-11,82
+nail_2,Store_2,2024-03-18,86
+nail_2,Store_2,2024-03-25,97
+nail_2,Store_2,2024-04-01,73
+nail_2,Store_2,2024-04-08,90
+nail_2,Store_2,2024-04-15,93
+nail_2,Store_2,2024-04-22,84
+nail_2,Store_2,2024-04-29,87
+nail_2,Store_2,2024-05-06,87
+nail_2,Store_2,2024-05-13,98
+nail_2,Store_2,2024-05-20,85
+nail_2,Store_2,2024-05-27,89
+nail_2,Store_2,2024-06-03,85
+nail_2,Store_2,2024-06-10,103
+nail_2,Store_2,2024-06-17,102
+nail_2,Store_3,2024-02-26,38
+nail_2,Store_3,2024-03-04,32
+nail_2,Store_3,2024-03-11,18
+nail_2,Store_3,2024-03-18,26
+nail_2,Store_3,2024-03-25,43
+nail_2,Store_3,2024-04-01,10
+nail_2,Store_3,2024-04-08,27
+nail_2,Store_3,2024-04-15,39
+nail_2,Store_3,2024-04-22,23
+nail_2,Store_3,2024-04-29,25
+nail_2,Store_3,2024-05-06,29
+nail_2,Store_3,2024-05-13,42
+nail_2,Store_3,2024-05-20,25
+nail_2,Store_3,2024-05-27,27
+nail_2,Store_3,2024-06-03,26
+nail_2,Store_3,2024-06-10,48
+nail_2,Store_3,2024-06-17,47
+nail_2,Store_4,2024-02-26,89
+nail_2,Store_4,2024-03-04,80
+nail_2,Store_4,2024-03-11,67
+nail_2,Store_4,2024-03-18,73
+nail_2,Store_4,2024-03-25,92
+nail_2,Store_4,2024-04-01,55
+nail_2,Store_4,2024-04-08,78
+nail_2,Store_4,2024-04-15,85
+nail_2,Store_4,2024-04-22,71
+nail_2,Store_4,2024-04-29,76
+nail_2,Store_4,2024-05-06,75
+nail_2,Store_4,2024-05-13,94
+nail_2,Store_4,2024-05-20,74
+nail_2,Store_4,2024-05-27,79
+nail_2,Store_4,2024-06-03,73
+nail_2,Store_4,2024-06-10,101
+nail_2,Store_4,2024-06-17,103
+nail_2,Store_5,2024-02-26,97
+nail_2,Store_5,2024-03-04,88
+nail_2,Store_5,2024-03-11,66
+nail_2,Store_5,2024-03-18,83
+nail_2,Store_5,2024-03-25,103
+nail_2,Store_5,2024-04-01,53
+nail_2,Store_5,2024-04-08,82
+nail_2,Store_5,2024-04-15,103
+nail_2,Store_5,2024-04-22,68
+nail_2,Store_5,2024-04-29,79
+nail_2,Store_5,2024-05-06,88
+nail_2,Store_5,2024-05-13,99
+nail_2,Store_5,2024-05-20,76
+nail_2,Store_5,2024-05-27,82
+nail_2,Store_5,2024-06-03,84
+nail_2,Store_5,2024-06-10,107
+nail_2,Store_5,2024-06-17,107
+nail_2,Store_6,2024-02-26,123
+nail_2,Store_6,2024-03-04,112
+nail_2,Store_6,2024-03-11,97
+nail_2,Store_6,2024-03-18,113
+nail_2,Store_6,2024-03-25,127
+nail_2,Store_6,2024-04-01,84
+nail_2,Store_6,2024-04-08,114
+nail_2,Store_6,2024-04-15,125
+nail_2,Store_6,2024-04-22,96
+nail_2,Store_6,2024-04-29,110
+nail_2,Store_6,2024-05-06,114
+nail_2,Store_6,2024-05-13,123
+nail_2,Store_6,2024-05-20,103
+nail_2,Store_6,2024-05-27,111
+nail_2,Store_6,2024-06-03,111
+nail_2,Store_6,2024-06-10,130
+nail_2,Store_6,2024-06-17,127
+nail_2,Store_7,2024-02-26,103
+nail_2,Store_7,2024-03-04,99
+nail_2,Store_7,2024-03-11,72
+nail_2,Store_7,2024-03-18,80
+nail_2,Store_7,2024-03-25,116
+nail_2,Store_7,2024-04-01,67
+nail_2,Store_7,2024-04-08,80
+nail_2,Store_7,2024-04-15,109
+nail_2,Store_7,2024-04-22,88
+nail_2,Store_7,2024-04-29,79
+nail_2,Store_7,2024-05-06,88
+nail_2,Store_7,2024-05-13,114
+nail_2,Store_7,2024-05-20,87
+nail_2,Store_7,2024-05-27,81
+nail_2,Store_7,2024-06-03,84
+nail_2,Store_7,2024-06-10,123
+nail_2,Store_7,2024-06-17,124
+nail_2,Store_8,2024-02-26,122
+nail_2,Store_8,2024-03-04,115
+nail_2,Store_8,2024-03-11,98
+nail_2,Store_8,2024-03-18,106
+nail_2,Store_8,2024-03-25,128
+nail_2,Store_8,2024-04-01,89
+nail_2,Store_8,2024-04-08,108
+nail_2,Store_8,2024-04-15,124
+nail_2,Store_8,2024-04-22,104
+nail_2,Store_8,2024-04-29,105
+nail_2,Store_8,2024-05-06,111
+nail_2,Store_8,2024-05-13,127
+nail_2,Store_8,2024-05-20,106
+nail_2,Store_8,2024-05-27,108
+nail_2,Store_8,2024-06-03,108
+nail_2,Store_8,2024-06-10,134
+nail_2,Store_8,2024-06-17,134
+nail_3,Store_1,2024-02-26,185
+nail_3,Store_1,2024-03-04,182
+nail_3,Store_1,2024-03-11,160
+nail_3,Store_1,2024-03-18,170
+nail_3,Store_1,2024-03-25,194
+nail_3,Store_1,2024-04-01,153
+nail_3,Store_1,2024-04-08,166
+nail_3,Store_1,2024-04-15,193
+nail_3,Store_1,2024-04-22,167
+nail_3,Store_1,2024-04-29,166
+nail_3,Store_1,2024-05-06,178
+nail_3,Store_1,2024-05-13,191
+nail_3,Store_1,2024-05-20,171
+nail_3,Store_1,2024-05-27,171
+nail_3,Store_1,2024-06-03,174
+nail_3,Store_1,2024-06-10,197
+nail_3,Store_1,2024-06-17,201
+nail_3,Store_2,2024-02-26,83
+nail_3,Store_2,2024-03-04,76
+nail_3,Store_2,2024-03-11,59
+nail_3,Store_2,2024-03-18,68
+nail_3,Store_2,2024-03-25,89
+nail_3,Store_2,2024-04-01,50
+nail_3,Store_2,2024-04-08,69
+nail_3,Store_2,2024-04-15,86
+nail_3,Store_2,2024-04-22,65
+nail_3,Store_2,2024-04-29,67
+nail_3,Store_2,2024-05-06,73
+nail_3,Store_2,2024-05-13,88
+nail_3,Store_2,2024-05-20,67
+nail_3,Store_2,2024-05-27,69
+nail_3,Store_2,2024-06-03,69
+nail_3,Store_2,2024-06-10,95
+nail_3,Store_2,2024-06-17,95
+nail_3,Store_3,2024-02-26,85
+nail_3,Store_3,2024-03-04,80
+nail_3,Store_3,2024-03-11,58
+nail_3,Store_3,2024-03-18,69
+nail_3,Store_3,2024-03-25,94
+nail_3,Store_3,2024-04-01,50
+nail_3,Store_3,2024-04-08,67
+nail_3,Store_3,2024-04-15,93
+nail_3,Store_3,2024-04-22,65
+nail_3,Store_3,2024-04-29,65
+nail_3,Store_3,2024-05-06,77
+nail_3,Store_3,2024-05-13,90
+nail_3,Store_3,2024-05-20,69
+nail_3,Store_3,2024-05-27,69
+nail_3,Store_3,2024-06-03,73
+nail_3,Store_3,2024-06-10,97
+nail_3,Store_3,2024-06-17,99
+nail_3,Store_4,2024-02-26,46
+nail_3,Store_4,2024-03-04,36
+nail_3,Store_4,2024-03-11,22
+nail_3,Store_4,2024-03-18,25
+nail_3,Store_4,2024-03-25,51
+nail_3,Store_4,2024-04-01,10
+nail_3,Store_4,2024-04-08,35
+nail_3,Store_4,2024-04-15,41
+nail_3,Store_4,2024-04-22,31
+nail_3,Store_4,2024-04-29,29
+nail_3,Store_4,2024-05-06,30
+nail_3,Store_4,2024-05-13,52
+nail_3,Store_4,2024-05-20,29
+nail_3,Store_4,2024-05-27,32
+nail_3,Store_4,2024-06-03,24
+nail_3,Store_4,2024-06-10,61
+nail_3,Store_4,2024-06-17,60
+nail_3,Store_5,2024-02-26,111
+nail_3,Store_5,2024-03-04,103
+nail_3,Store_5,2024-03-11,82
+nail_3,Store_5,2024-03-18,93
+nail_3,Store_5,2024-03-25,118
+nail_3,Store_5,2024-04-01,72
+nail_3,Store_5,2024-04-08,95
+nail_3,Store_5,2024-04-15,114
+nail_3,Store_5,2024-04-22,90
+nail_3,Store_5,2024-04-29,92
+nail_3,Store_5,2024-05-06,99
+nail_3,Store_5,2024-05-13,116
+nail_3,Store_5,2024-05-20,92
+nail_3,Store_5,2024-05-27,95
+nail_3,Store_5,2024-06-03,95
+nail_3,Store_5,2024-06-10,125
+nail_3,Store_5,2024-06-17,124
+nail_3,Store_6,2024-02-26,157
+nail_3,Store_6,2024-03-04,152
+nail_3,Store_6,2024-03-11,136
+nail_3,Store_6,2024-03-18,143
+nail_3,Store_6,2024-03-25,163
+nail_3,Store_6,2024-04-01,130
+nail_3,Store_6,2024-04-08,143
+nail_3,Store_6,2024-04-15,161
+nail_3,Store_6,2024-04-22,143
+nail_3,Store_6,2024-04-29,142
+nail_3,Store_6,2024-05-06,148
+nail_3,Store_6,2024-05-13,162
+nail_3,Store_6,2024-05-20,144
+nail_3,Store_6,2024-05-27,144
+nail_3,Store_6,2024-06-03,146
+nail_3,Store_6,2024-06-10,167
+nail_3,Store_6,2024-06-17,168
+nail_3,Store_7,2024-02-26,41
+nail_3,Store_7,2024-03-04,39
+nail_3,Store_7,2024-03-11,12
+nail_3,Store_7,2024-03-18,15
+nail_3,Store_7,2024-03-25,52
+nail_3,Store_7,2024-04-01,9
+nail_3,Store_7,2024-04-08,18
+nail_3,Store_7,2024-04-15,44
+nail_3,Store_7,2024-04-22,29
+nail_3,Store_7,2024-04-29,19
+nail_3,Store_7,2024-05-06,24
+nail_3,Store_7,2024-05-13,52
+nail_3,Store_7,2024-05-20,29
+nail_3,Store_7,2024-05-27,20
+nail_3,Store_7,2024-06-03,18
+nail_3,Store_7,2024-06-10,61
+nail_3,Store_7,2024-06-17,68
+nail_3,Store_8,2024-02-26,74
+nail_3,Store_8,2024-03-04,72
+nail_3,Store_8,2024-03-11,53
+nail_3,Store_8,2024-03-18,61
+nail_3,Store_8,2024-03-25,83
+nail_3,Store_8,2024-04-01,50
+nail_3,Store_8,2024-04-08,58
+nail_3,Store_8,2024-04-15,82
+nail_3,Store_8,2024-04-22,62
+nail_3,Store_8,2024-04-29,57
+nail_3,Store_8,2024-05-06,68
+nail_3,Store_8,2024-05-13,80
+nail_3,Store_8,2024-05-20,62
+nail_3,Store_8,2024-05-27,60
+nail_3,Store_8,2024-06-03,65
+nail_3,Store_8,2024-06-10,85
+nail_3,Store_8,2024-06-17,85
+screw_1,Store_1,2024-02-26,113
+screw_1,Store_1,2024-03-04,102
+screw_1,Store_1,2024-03-11,88
+screw_1,Store_1,2024-03-18,97
+screw_1,Store_1,2024-03-25,117
+screw_1,Store_1,2024-04-01,75
+screw_1,Store_1,2024-04-08,102
+screw_1,Store_1,2024-04-15,111
+screw_1,Store_1,2024-04-22,93
+screw_1,Store_1,2024-04-29,97
+screw_1,Store_1,2024-05-06,101
+screw_1,Store_1,2024-05-13,116
+screw_1,Store_1,2024-05-20,94
+screw_1,Store_1,2024-05-27,100
+screw_1,Store_1,2024-06-03,96
+screw_1,Store_1,2024-06-10,124
+screw_1,Store_1,2024-06-17,121
+screw_1,Store_2,2024-02-26,153
+screw_1,Store_2,2024-03-04,144
+screw_1,Store_2,2024-03-11,129
+screw_1,Store_2,2024-03-18,138
+screw_1,Store_2,2024-03-25,158
+screw_1,Store_2,2024-04-01,118
+screw_1,Store_2,2024-04-08,141
+screw_1,Store_2,2024-04-15,154
+screw_1,Store_2,2024-04-22,133
+screw_1,Store_2,2024-04-29,137
+screw_1,Store_2,2024-05-06,142
+screw_1,Store_2,2024-05-13,156
+screw_1,Store_2,2024-05-20,135
+screw_1,Store_2,2024-05-27,140
+screw_1,Store_2,2024-06-03,138
+screw_1,Store_2,2024-06-10,164
+screw_1,Store_2,2024-06-17,161
+screw_1,Store_3,2024-02-26,127
+screw_1,Store_3,2024-03-04,119
+screw_1,Store_3,2024-03-11,108
+screw_1,Store_3,2024-03-18,117
+screw_1,Store_3,2024-03-25,129
+screw_1,Store_3,2024-04-01,97
+screw_1,Store_3,2024-04-08,120
+screw_1,Store_3,2024-04-15,125
+screw_1,Store_3,2024-04-22,108
+screw_1,Store_3,2024-04-29,117
+screw_1,Store_3,2024-05-06,118
+screw_1,Store_3,2024-05-13,128
+screw_1,Store_3,2024-05-20,113
+screw_1,Store_3,2024-05-27,119
+screw_1,Store_3,2024-06-03,116
+screw_1,Store_3,2024-06-10,135
+screw_1,Store_3,2024-06-17,135
+screw_1,Store_4,2024-02-26,125
+screw_1,Store_4,2024-03-04,120
+screw_1,Store_4,2024-03-11,102
+screw_1,Store_4,2024-03-18,109
+screw_1,Store_4,2024-03-25,132
+screw_1,Store_4,2024-04-01,94
+screw_1,Store_4,2024-04-08,109
+screw_1,Store_4,2024-04-15,129
+screw_1,Store_4,2024-04-22,109
+screw_1,Store_4,2024-04-29,108
+screw_1,Store_4,2024-05-06,115
+screw_1,Store_4,2024-05-13,131
+screw_1,Store_4,2024-05-20,112
+screw_1,Store_4,2024-05-27,111
+screw_1,Store_4,2024-06-03,112
+screw_1,Store_4,2024-06-10,138
+screw_1,Store_4,2024-06-17,141
+screw_1,Store_5,2024-02-26,99
+screw_1,Store_5,2024-03-04,91
+screw_1,Store_5,2024-03-11,76
+screw_1,Store_5,2024-03-18,82
+screw_1,Store_5,2024-03-25,106
+screw_1,Store_5,2024-04-01,70
+screw_1,Store_5,2024-04-08,86
+screw_1,Store_5,2024-04-15,98
+screw_1,Store_5,2024-04-22,86
+screw_1,Store_5,2024-04-29,82
+screw_1,Store_5,2024-05-06,87
+screw_1,Store_5,2024-05-13,104
+screw_1,Store_5,2024-05-20,83
+screw_1,Store_5,2024-05-27,84
+screw_1,Store_5,2024-06-03,83
+screw_1,Store_5,2024-06-10,111
+screw_1,Store_5,2024-06-17,106
+screw_1,Store_6,2024-02-26,134
+screw_1,Store_6,2024-03-04,126
+screw_1,Store_6,2024-03-11,108
+screw_1,Store_6,2024-03-18,120
+screw_1,Store_6,2024-03-25,139
+screw_1,Store_6,2024-04-01,97
+screw_1,Store_6,2024-04-08,120
+screw_1,Store_6,2024-04-15,137
+screw_1,Store_6,2024-04-22,111
+screw_1,Store_6,2024-04-29,118
+screw_1,Store_6,2024-05-06,125
+screw_1,Store_6,2024-05-13,137
+screw_1,Store_6,2024-05-20,117
+screw_1,Store_6,2024-05-27,121
+screw_1,Store_6,2024-06-03,121
+screw_1,Store_6,2024-06-10,144
+screw_1,Store_6,2024-06-17,146
+screw_1,Store_7,2024-02-26,162
+screw_1,Store_7,2024-03-04,150
+screw_1,Store_7,2024-03-11,137
+screw_1,Store_7,2024-03-18,146
+screw_1,Store_7,2024-03-25,164
+screw_1,Store_7,2024-04-01,121
+screw_1,Store_7,2024-04-08,151
+screw_1,Store_7,2024-04-15,158
+screw_1,Store_7,2024-04-22,138
+screw_1,Store_7,2024-04-29,148
+screw_1,Store_7,2024-05-06,148
+screw_1,Store_7,2024-05-13,164
+screw_1,Store_7,2024-05-20,143
+screw_1,Store_7,2024-05-27,150
+screw_1,Store_7,2024-06-03,145
+screw_1,Store_7,2024-06-10,173
+screw_1,Store_7,2024-06-17,172
+screw_1,Store_8,2024-02-26,43
+screw_1,Store_8,2024-03-04,35
+screw_1,Store_8,2024-03-11,12
+screw_1,Store_8,2024-03-18,19
+screw_1,Store_8,2024-03-25,52
+screw_1,Store_8,2024-04-01,4
+screw_1,Store_8,2024-04-08,24
+screw_1,Store_8,2024-04-15,43
+screw_1,Store_8,2024-04-22,26
+screw_1,Store_8,2024-04-29,21
+screw_1,Store_8,2024-05-06,25
+screw_1,Store_8,2024-05-13,52
+screw_1,Store_8,2024-05-20,24
+screw_1,Store_8,2024-05-27,23
+screw_1,Store_8,2024-06-03,20
+screw_1,Store_8,2024-06-10,61
+screw_1,Store_8,2024-06-17,61
+screw_2,Store_1,2024-02-26,147
+screw_2,Store_1,2024-03-04,139
+screw_2,Store_1,2024-03-11,120
+screw_2,Store_1,2024-03-18,131
+screw_2,Store_1,2024-03-25,154
+screw_2,Store_1,2024-04-01,110
+screw_2,Store_1,2024-04-08,132
+screw_2,Store_1,2024-04-15,150
+screw_2,Store_1,2024-04-22,127
+screw_2,Store_1,2024-04-29,129
+screw_2,Store_1,2024-05-06,135
+screw_2,Store_1,2024-05-13,152
+screw_2,Store_1,2024-05-20,129
+screw_2,Store_1,2024-05-27,132
+screw_2,Store_1,2024-06-03,132
+screw_2,Store_1,2024-06-10,160
+screw_2,Store_1,2024-06-17,159
+screw_2,Store_2,2024-02-26,103
+screw_2,Store_2,2024-03-04,99
+screw_2,Store_2,2024-03-11,81
+screw_2,Store_2,2024-03-18,89
+screw_2,Store_2,2024-03-25,111
+screw_2,Store_2,2024-04-01,75
+screw_2,Store_2,2024-04-08,89
+screw_2,Store_2,2024-04-15,108
+screw_2,Store_2,2024-04-22,88
+screw_2,Store_2,2024-04-29,87
+screw_2,Store_2,2024-05-06,95
+screw_2,Store_2,2024-05-13,109
+screw_2,Store_2,2024-05-20,90
+screw_2,Store_2,2024-05-27,90
+screw_2,Store_2,2024-06-03,92
+screw_2,Store_2,2024-06-10,115
+screw_2,Store_2,2024-06-17,115
+screw_2,Store_3,2024-02-26,84
+screw_2,Store_3,2024-03-04,77
+screw_2,Store_3,2024-03-11,56
+screw_2,Store_3,2024-03-18,70
+screw_2,Store_3,2024-03-25,93
+screw_2,Store_3,2024-04-01,49
+screw_2,Store_3,2024-04-08,68
+screw_2,Store_3,2024-04-15,92
+screw_2,Store_3,2024-04-22,63
+screw_2,Store_3,2024-04-29,64
+screw_2,Store_3,2024-05-06,77
+screw_2,Store_3,2024-05-13,89
+screw_2,Store_3,2024-05-20,65
+screw_2,Store_3,2024-05-27,67
+screw_2,Store_3,2024-06-03,73
+screw_2,Store_3,2024-06-10,95
+screw_2,Store_3,2024-06-17,91
+screw_2,Store_4,2024-02-26,41
+screw_2,Store_4,2024-03-04,32
+screw_2,Store_4,2024-03-11,15
+screw_2,Store_4,2024-03-18,25
+screw_2,Store_4,2024-03-25,47
+screw_2,Store_4,2024-04-01,4
+screw_2,Store_4,2024-04-08,28
+screw_2,Store_4,2024-04-15,43
+screw_2,Store_4,2024-04-22,20
+screw_2,Store_4,2024-04-29,24
+screw_2,Store_4,2024-05-06,29
+screw_2,Store_4,2024-05-13,45
+screw_2,Store_4,2024-05-20,22
+screw_2,Store_4,2024-05-27,26
+screw_2,Store_4,2024-06-03,26
+screw_2,Store_4,2024-06-10,53
+screw_2,Store_4,2024-06-17,51
+screw_2,Store_5,2024-02-26,43
+screw_2,Store_5,2024-03-04,32
+screw_2,Store_5,2024-03-11,16
+screw_2,Store_5,2024-03-18,27
+screw_2,Store_5,2024-03-25,48
+screw_2,Store_5,2024-04-01,4
+screw_2,Store_5,2024-04-08,30
+screw_2,Store_5,2024-04-15,44
+screw_2,Store_5,2024-04-22,21
+screw_2,Store_5,2024-04-29,26
+screw_2,Store_5,2024-05-06,31
+screw_2,Store_5,2024-05-13,46
+screw_2,Store_5,2024-05-20,23
+screw_2,Store_5,2024-05-27,28
+screw_2,Store_5,2024-06-03,27
+screw_2,Store_5,2024-06-10,54
+screw_2,Store_5,2024-06-17,50
+screw_2,Store_6,2024-02-26,197
+screw_2,Store_6,2024-03-04,190
+screw_2,Store_6,2024-03-11,166
+screw_2,Store_6,2024-03-18,176
+screw_2,Store_6,2024-03-25,206
+screw_2,Store_6,2024-04-01,155
+screw_2,Store_6,2024-04-08,178
+screw_2,Store_6,2024-04-15,201
+screw_2,Store_6,2024-04-22,175
+screw_2,Store_6,2024-04-29,176
+screw_2,Store_6,2024-05-06,183
+screw_2,Store_6,2024-05-13,204
+screw_2,Store_6,2024-05-20,178
+screw_2,Store_6,2024-05-27,178
+screw_2,Store_6,2024-06-03,179
+screw_2,Store_6,2024-06-10,213
+screw_2,Store_6,2024-06-17,215
+screw_2,Store_7,2024-02-26,78
+screw_2,Store_7,2024-03-04,67
+screw_2,Store_7,2024-03-11,47
+screw_2,Store_7,2024-03-18,60
+screw_2,Store_7,2024-03-25,83
+screw_2,Store_7,2024-04-01,32
+screw_2,Store_7,2024-04-08,63
+screw_2,Store_7,2024-04-15,78
+screw_2,Store_7,2024-04-22,51
+screw_2,Store_7,2024-04-29,60
+screw_2,Store_7,2024-05-06,64
+screw_2,Store_7,2024-05-13,82
+screw_2,Store_7,2024-05-20,57
+screw_2,Store_7,2024-05-27,63
+screw_2,Store_7,2024-06-03,60
+screw_2,Store_7,2024-06-10,92
+screw_2,Store_7,2024-06-17,93
+screw_2,Store_8,2024-02-26,56
+screw_2,Store_8,2024-03-04,47
+screw_2,Store_8,2024-03-11,32
+screw_2,Store_8,2024-03-18,42
+screw_2,Store_8,2024-03-25,61
+screw_2,Store_8,2024-04-01,21
+screw_2,Store_8,2024-04-08,44
+screw_2,Store_8,2024-04-15,58
+screw_2,Store_8,2024-04-22,36
+screw_2,Store_8,2024-04-29,40
+screw_2,Store_8,2024-05-06,46
+screw_2,Store_8,2024-05-13,60
+screw_2,Store_8,2024-05-20,38
+screw_2,Store_8,2024-05-27,43
+screw_2,Store_8,2024-06-03,42
+screw_2,Store_8,2024-06-10,67
+screw_2,Store_8,2024-06-17,64
+screw_3,Store_1,2024-02-26,87
+screw_3,Store_1,2024-03-04,78
+screw_3,Store_1,2024-03-11,65
+screw_3,Store_1,2024-03-18,73
+screw_3,Store_1,2024-03-25,92
+screw_3,Store_1,2024-04-01,54
+screw_3,Store_1,2024-04-08,77
+screw_3,Store_1,2024-04-15,87
+screw_3,Store_1,2024-04-22,69
+screw_3,Store_1,2024-04-29,72
+screw_3,Store_1,2024-05-06,76
+screw_3,Store_1,2024-05-13,91
+screw_3,Store_1,2024-05-20,70
+screw_3,Store_1,2024-05-27,75
+screw_3,Store_1,2024-06-03,73
+screw_3,Store_1,2024-06-10,98
+screw_3,Store_1,2024-06-17,93
+screw_3,Store_2,2024-02-26,67
+screw_3,Store_2,2024-03-04,64
+screw_3,Store_2,2024-03-11,56
+screw_3,Store_2,2024-03-18,60
+screw_3,Store_2,2024-03-25,70
+screw_3,Store_2,2024-04-01,50
+screw_3,Store_2,2024-04-08,61
+screw_3,Store_2,2024-04-15,68
+screw_3,Store_2,2024-04-22,57
+screw_3,Store_2,2024-04-29,60
+screw_3,Store_2,2024-05-06,62
+screw_3,Store_2,2024-05-13,69
+screw_3,Store_2,2024-05-20,60
+screw_3,Store_2,2024-05-27,61
+screw_3,Store_2,2024-06-03,61
+screw_3,Store_2,2024-06-10,73
+screw_3,Store_2,2024-06-17,74
+screw_3,Store_3,2024-02-26,114
+screw_3,Store_3,2024-03-04,112
+screw_3,Store_3,2024-03-11,91
+screw_3,Store_3,2024-03-18,99
+screw_3,Store_3,2024-03-25,125
+screw_3,Store_3,2024-04-01,87
+screw_3,Store_3,2024-04-08,96
+screw_3,Store_3,2024-04-15,123
+screw_3,Store_3,2024-04-22,101
+screw_3,Store_3,2024-04-29,95
+screw_3,Store_3,2024-05-06,107
+screw_3,Store_3,2024-05-13,122
+screw_3,Store_3,2024-05-20,101
+screw_3,Store_3,2024-05-27,98
+screw_3,Store_3,2024-06-03,104
+screw_3,Store_3,2024-06-10,128
+screw_3,Store_3,2024-06-17,128
+screw_3,Store_4,2024-02-26,183
+screw_3,Store_4,2024-03-04,179
+screw_3,Store_4,2024-03-11,166
+screw_3,Store_4,2024-03-18,168
+screw_3,Store_4,2024-03-25,188
+screw_3,Store_4,2024-04-01,161
+screw_3,Store_4,2024-04-08,172
+screw_3,Store_4,2024-04-15,183
+screw_3,Store_4,2024-04-22,174
+screw_3,Store_4,2024-04-29,170
+screw_3,Store_4,2024-05-06,172
+screw_3,Store_4,2024-05-13,189
+screw_3,Store_4,2024-05-20,173
+screw_3,Store_4,2024-05-27,172
+screw_3,Store_4,2024-06-03,169
+screw_3,Store_4,2024-06-10,195
+screw_3,Store_4,2024-06-17,196
+screw_3,Store_5,2024-02-26,80
+screw_3,Store_5,2024-03-04,74
+screw_3,Store_5,2024-03-11,57
+screw_3,Store_5,2024-03-18,64
+screw_3,Store_5,2024-03-25,87
+screw_3,Store_5,2024-04-01,51
+screw_3,Store_5,2024-04-08,66
+screw_3,Store_5,2024-04-15,82
+screw_3,Store_5,2024-04-22,66
+screw_3,Store_5,2024-04-29,64
+screw_3,Store_5,2024-05-06,68
+screw_3,Store_5,2024-05-13,86
+screw_3,Store_5,2024-05-20,66
+screw_3,Store_5,2024-05-27,65
+screw_3,Store_5,2024-06-03,65
+screw_3,Store_5,2024-06-10,93
+screw_3,Store_5,2024-06-17,92
+screw_3,Store_6,2024-02-26,119
+screw_3,Store_6,2024-03-04,109
+screw_3,Store_6,2024-03-11,93
+screw_3,Store_6,2024-03-18,102
+screw_3,Store_6,2024-03-25,123
+screw_3,Store_6,2024-04-01,81
+screw_3,Store_6,2024-04-08,106
+screw_3,Store_6,2024-04-15,117
+screw_3,Store_6,2024-04-22,99
+screw_3,Store_6,2024-04-29,102
+screw_3,Store_6,2024-05-06,105
+screw_3,Store_6,2024-05-13,123
+screw_3,Store_6,2024-05-20,100
+screw_3,Store_6,2024-05-27,105
+screw_3,Store_6,2024-06-03,102
+screw_3,Store_6,2024-06-10,131
+screw_3,Store_6,2024-06-17,130
+screw_3,Store_7,2024-02-26,53
+screw_3,Store_7,2024-03-04,42
+screw_3,Store_7,2024-03-11,30
+screw_3,Store_7,2024-03-18,37
+screw_3,Store_7,2024-03-25,56
+screw_3,Store_7,2024-04-01,16
+screw_3,Store_7,2024-04-08,43
+screw_3,Store_7,2024-04-15,49
+screw_3,Store_7,2024-04-22,33
+screw_3,Store_7,2024-04-29,39
+screw_3,Store_7,2024-05-06,39
+screw_3,Store_7,2024-05-13,57
+screw_3,Store_7,2024-05-20,35
+screw_3,Store_7,2024-05-27,42
+screw_3,Store_7,2024-06-03,36
+screw_3,Store_7,2024-06-10,65
+screw_3,Store_7,2024-06-17,64
+screw_3,Store_8,2024-02-26,186
+screw_3,Store_8,2024-03-04,177
+screw_3,Store_8,2024-03-11,161
+screw_3,Store_8,2024-03-18,173
+screw_3,Store_8,2024-03-25,190
+screw_3,Store_8,2024-04-01,149
+screw_3,Store_8,2024-04-08,175
+screw_3,Store_8,2024-04-15,187
+screw_3,Store_8,2024-04-22,162
+screw_3,Store_8,2024-04-29,172
+screw_3,Store_8,2024-05-06,176
+screw_3,Store_8,2024-05-13,188
+screw_3,Store_8,2024-05-20,169
+screw_3,Store_8,2024-05-27,175
+screw_3,Store_8,2024-06-03,172
+screw_3,Store_8,2024-06-10,195
+screw_3,Store_8,2024-06-17,197
+screwdriver_1,Store_1,2024-02-26,89
+screwdriver_1,Store_1,2024-03-04,85
+screwdriver_1,Store_1,2024-03-11,61
+screwdriver_1,Store_1,2024-03-18,77
+screwdriver_1,Store_1,2024-03-25,99
+screwdriver_1,Store_1,2024-04-01,53
+screwdriver_1,Store_1,2024-04-08,71
+screwdriver_1,Store_1,2024-04-15,102
+screwdriver_1,Store_1,2024-04-22,66
+screwdriver_1,Store_1,2024-04-29,69
+screwdriver_1,Store_1,2024-05-06,86
+screwdriver_1,Store_1,2024-05-13,93
+screwdriver_1,Store_1,2024-05-20,71
+screwdriver_1,Store_1,2024-05-27,74
+screwdriver_1,Store_1,2024-06-03,81
+screwdriver_1,Store_1,2024-06-10,99
+screwdriver_1,Store_1,2024-06-17,99
+screwdriver_1,Store_2,2024-02-26,144
+screwdriver_1,Store_2,2024-03-04,135
+screwdriver_1,Store_2,2024-03-11,120
+screwdriver_1,Store_2,2024-03-18,130
+screwdriver_1,Store_2,2024-03-25,149
+screwdriver_1,Store_2,2024-04-01,110
+screwdriver_1,Store_2,2024-04-08,132
+screwdriver_1,Store_2,2024-04-15,146
+screwdriver_1,Store_2,2024-04-22,124
+screwdriver_1,Store_2,2024-04-29,128
+screwdriver_1,Store_2,2024-05-06,134
+screwdriver_1,Store_2,2024-05-13,147
+screwdriver_1,Store_2,2024-05-20,126
+screwdriver_1,Store_2,2024-05-27,130
+screwdriver_1,Store_2,2024-06-03,131
+screwdriver_1,Store_2,2024-06-10,153
+screwdriver_1,Store_2,2024-06-17,151
+screwdriver_1,Store_3,2024-02-26,89
+screwdriver_1,Store_3,2024-03-04,82
+screwdriver_1,Store_3,2024-03-11,65
+screwdriver_1,Store_3,2024-03-18,72
+screwdriver_1,Store_3,2024-03-25,95
+screwdriver_1,Store_3,2024-04-01,56
+screwdriver_1,Store_3,2024-04-08,75
+screwdriver_1,Store_3,2024-04-15,90
+screwdriver_1,Store_3,2024-04-22,72
+screwdriver_1,Store_3,2024-04-29,73
+screwdriver_1,Store_3,2024-05-06,77
+screwdriver_1,Store_3,2024-05-13,94
+screwdriver_1,Store_3,2024-05-20,74
+screwdriver_1,Store_3,2024-05-27,76
+screwdriver_1,Store_3,2024-06-03,74
+screwdriver_1,Store_3,2024-06-10,101
+screwdriver_1,Store_3,2024-06-17,103
+screwdriver_1,Store_4,2024-02-26,145
+screwdriver_1,Store_4,2024-03-04,138
+screwdriver_1,Store_4,2024-03-11,116
+screwdriver_1,Store_4,2024-03-18,126
+screwdriver_1,Store_4,2024-03-25,153
+screwdriver_1,Store_4,2024-04-01,107
+screwdriver_1,Store_4,2024-04-08,127
+screwdriver_1,Store_4,2024-04-15,148
+screwdriver_1,Store_4,2024-04-22,125
+screwdriver_1,Store_4,2024-04-29,125
+screwdriver_1,Store_4,2024-05-06,132
+screwdriver_1,Store_4,2024-05-13,151
+screwdriver_1,Store_4,2024-05-20,127
+screwdriver_1,Store_4,2024-05-27,128
+screwdriver_1,Store_4,2024-06-03,129
+screwdriver_1,Store_4,2024-06-10,159
+screwdriver_1,Store_4,2024-06-17,160
+screwdriver_1,Store_5,2024-02-26,63
+screwdriver_1,Store_5,2024-03-04,56
+screwdriver_1,Store_5,2024-03-11,34
+screwdriver_1,Store_5,2024-03-18,38
+screwdriver_1,Store_5,2024-03-25,72
+screwdriver_1,Store_5,2024-04-01,25
+screwdriver_1,Store_5,2024-04-08,44
+screwdriver_1,Store_5,2024-04-15,62
+screwdriver_1,Store_5,2024-04-22,47
+screwdriver_1,Store_5,2024-04-29,41
+screwdriver_1,Store_5,2024-05-06,45
+screwdriver_1,Store_5,2024-05-13,72
+screwdriver_1,Store_5,2024-05-20,46
+screwdriver_1,Store_5,2024-05-27,44
+screwdriver_1,Store_5,2024-06-03,39
+screwdriver_1,Store_5,2024-06-10,82
+screwdriver_1,Store_5,2024-06-17,84
+screwdriver_1,Store_6,2024-02-26,112
+screwdriver_1,Store_6,2024-03-04,106
+screwdriver_1,Store_6,2024-03-11,91
+screwdriver_1,Store_6,2024-03-18,95
+screwdriver_1,Store_6,2024-03-25,117
+screwdriver_1,Store_6,2024-04-01,83
+screwdriver_1,Store_6,2024-04-08,99
+screwdriver_1,Store_6,2024-04-15,111
+screwdriver_1,Store_6,2024-04-22,98
+screwdriver_1,Store_6,2024-04-29,97
+screwdriver_1,Store_6,2024-05-06,100
+screwdriver_1,Store_6,2024-05-13,118
+screwdriver_1,Store_6,2024-05-20,99
+screwdriver_1,Store_6,2024-05-27,99
+screwdriver_1,Store_6,2024-06-03,96
+screwdriver_1,Store_6,2024-06-10,124
+screwdriver_1,Store_6,2024-06-17,126
+screwdriver_1,Store_7,2024-02-26,198
+screwdriver_1,Store_7,2024-03-04,193
+screwdriver_1,Store_7,2024-03-11,165
+screwdriver_1,Store_7,2024-03-18,182
+screwdriver_1,Store_7,2024-03-25,209
+screwdriver_1,Store_7,2024-04-01,155
+screwdriver_1,Store_7,2024-04-08,176
+screwdriver_1,Store_7,2024-04-15,211
+screwdriver_1,Store_7,2024-04-22,171
+screwdriver_1,Store_7,2024-04-29,175
+screwdriver_1,Store_7,2024-05-06,193
+screwdriver_1,Store_7,2024-05-13,202
+screwdriver_1,Store_7,2024-05-20,178
+screwdriver_1,Store_7,2024-05-27,180
+screwdriver_1,Store_7,2024-06-03,188
+screwdriver_1,Store_7,2024-06-10,210
+screwdriver_1,Store_7,2024-06-17,213
+screwdriver_1,Store_8,2024-02-26,64
+screwdriver_1,Store_8,2024-03-04,49
+screwdriver_1,Store_8,2024-03-11,39
+screwdriver_1,Store_8,2024-03-18,48
+screwdriver_1,Store_8,2024-03-25,65
+screwdriver_1,Store_8,2024-04-01,22
+screwdriver_1,Store_8,2024-04-08,57
+screwdriver_1,Store_8,2024-04-15,56
+screwdriver_1,Store_8,2024-04-22,41
+screwdriver_1,Store_8,2024-04-29,50
+screwdriver_1,Store_8,2024-05-06,47
+screwdriver_1,Store_8,2024-05-13,67
+screwdriver_1,Store_8,2024-05-20,42
+screwdriver_1,Store_8,2024-05-27,53
+screwdriver_1,Store_8,2024-06-03,44
+screwdriver_1,Store_8,2024-06-10,76
+screwdriver_1,Store_8,2024-06-17,71
+screwdriver_2,Store_1,2024-02-26,134
+screwdriver_2,Store_1,2024-03-04,119
+screwdriver_2,Store_1,2024-03-11,106
+screwdriver_2,Store_1,2024-03-18,120
+screwdriver_2,Store_1,2024-03-25,135
+screwdriver_2,Store_1,2024-04-01,88
+screwdriver_2,Store_1,2024-04-08,126
+screwdriver_2,Store_1,2024-04-15,129
+screwdriver_2,Store_1,2024-04-22,104
+screwdriver_2,Store_1,2024-04-29,120
+screwdriver_2,Store_1,2024-05-06,120
+screwdriver_2,Store_1,2024-05-13,134
+screwdriver_2,Store_1,2024-05-20,111
+screwdriver_2,Store_1,2024-05-27,122
+screwdriver_2,Store_1,2024-06-03,117
+screwdriver_2,Store_1,2024-06-10,143
+screwdriver_2,Store_1,2024-06-17,140
+screwdriver_2,Store_2,2024-02-26,119
+screwdriver_2,Store_2,2024-03-04,113
+screwdriver_2,Store_2,2024-03-11,97
+screwdriver_2,Store_2,2024-03-18,105
+screwdriver_2,Store_2,2024-03-25,125
+screwdriver_2,Store_2,2024-04-01,89
+screwdriver_2,Store_2,2024-04-08,106
+screwdriver_2,Store_2,2024-04-15,122
+screwdriver_2,Store_2,2024-04-22,103
+screwdriver_2,Store_2,2024-04-29,104
+screwdriver_2,Store_2,2024-05-06,109
+screwdriver_2,Store_2,2024-05-13,124
+screwdriver_2,Store_2,2024-05-20,105
+screwdriver_2,Store_2,2024-05-27,106
+screwdriver_2,Store_2,2024-06-03,106
+screwdriver_2,Store_2,2024-06-10,130
+screwdriver_2,Store_2,2024-06-17,130
+screwdriver_2,Store_3,2024-02-26,37
+screwdriver_2,Store_3,2024-03-04,35
+screwdriver_2,Store_3,2024-03-11,17
+screwdriver_2,Store_3,2024-03-18,23
+screwdriver_2,Store_3,2024-03-25,45
+screwdriver_2,Store_3,2024-04-01,14
+screwdriver_2,Store_3,2024-04-08,22
+screwdriver_2,Store_3,2024-04-15,42
+screwdriver_2,Store_3,2024-04-22,27
+screwdriver_2,Store_3,2024-04-29,22
+screwdriver_2,Store_3,2024-05-06,28
+screwdriver_2,Store_3,2024-05-13,44
+screwdriver_2,Store_3,2024-05-20,27
+screwdriver_2,Store_3,2024-05-27,23
+screwdriver_2,Store_3,2024-06-03,26
+screwdriver_2,Store_3,2024-06-10,49
+screwdriver_2,Store_3,2024-06-17,51
+screwdriver_2,Store_4,2024-02-26,77
+screwdriver_2,Store_4,2024-03-04,73
+screwdriver_2,Store_4,2024-03-11,59
+screwdriver_2,Store_4,2024-03-18,65
+screwdriver_2,Store_4,2024-03-25,82
+screwdriver_2,Store_4,2024-04-01,52
+screwdriver_2,Store_4,2024-04-08,66
+screwdriver_2,Store_4,2024-04-15,80
+screwdriver_2,Store_4,2024-04-22,63
+screwdriver_2,Store_4,2024-04-29,65
+screwdriver_2,Store_4,2024-05-06,70
+screwdriver_2,Store_4,2024-05-13,81
+screwdriver_2,Store_4,2024-05-20,67
+screwdriver_2,Store_4,2024-05-27,67
+screwdriver_2,Store_4,2024-06-03,67
+screwdriver_2,Store_4,2024-06-10,86
+screwdriver_2,Store_4,2024-06-17,90
+screwdriver_2,Store_5,2024-02-26,165
+screwdriver_2,Store_5,2024-03-04,160
+screwdriver_2,Store_5,2024-03-11,143
+screwdriver_2,Store_5,2024-03-18,150
+screwdriver_2,Store_5,2024-03-25,172
+screwdriver_2,Store_5,2024-04-01,138
+screwdriver_2,Store_5,2024-04-08,150
+screwdriver_2,Store_5,2024-04-15,169
+screwdriver_2,Store_5,2024-04-22,151
+screwdriver_2,Store_5,2024-04-29,149
+screwdriver_2,Store_5,2024-05-06,155
+screwdriver_2,Store_5,2024-05-13,171
+screwdriver_2,Store_5,2024-05-20,152
+screwdriver_2,Store_5,2024-05-27,150
+screwdriver_2,Store_5,2024-06-03,153
+screwdriver_2,Store_5,2024-06-10,177
+screwdriver_2,Store_5,2024-06-17,177
+screwdriver_2,Store_6,2024-02-26,118
+screwdriver_2,Store_6,2024-03-04,111
+screwdriver_2,Store_6,2024-03-11,90
+screwdriver_2,Store_6,2024-03-18,99
+screwdriver_2,Store_6,2024-03-25,126
+screwdriver_2,Store_6,2024-04-01,83
+screwdriver_2,Store_6,2024-04-08,101
+screwdriver_2,Store_6,2024-04-15,121
+screwdriver_2,Store_6,2024-04-22,100
+screwdriver_2,Store_6,2024-04-29,98
+screwdriver_2,Store_6,2024-05-06,105
+screwdriver_2,Store_6,2024-05-13,124
+screwdriver_2,Store_6,2024-05-20,100
+screwdriver_2,Store_6,2024-05-27,100
+screwdriver_2,Store_6,2024-06-03,102
+screwdriver_2,Store_6,2024-06-10,132
+screwdriver_2,Store_6,2024-06-17,131
+screwdriver_2,Store_7,2024-02-26,52
+screwdriver_2,Store_7,2024-03-04,41
+screwdriver_2,Store_7,2024-03-11,22
+screwdriver_2,Store_7,2024-03-18,34
+screwdriver_2,Store_7,2024-03-25,59
+screwdriver_2,Store_7,2024-04-01,10
+screwdriver_2,Store_7,2024-04-08,37
+screwdriver_2,Store_7,2024-04-15,54
+screwdriver_2,Store_7,2024-04-22,28
+screwdriver_2,Store_7,2024-04-29,33
+screwdriver_2,Store_7,2024-05-06,39
+screwdriver_2,Store_7,2024-05-13,57
+screwdriver_2,Store_7,2024-05-20,30
+screwdriver_2,Store_7,2024-05-27,35
+screwdriver_2,Store_7,2024-06-03,35
+screwdriver_2,Store_7,2024-06-10,65
+screwdriver_2,Store_7,2024-06-17,62
+screwdriver_2,Store_8,2024-02-26,145
+screwdriver_2,Store_8,2024-03-04,139
+screwdriver_2,Store_8,2024-03-11,115
+screwdriver_2,Store_8,2024-03-18,130
+screwdriver_2,Store_8,2024-03-25,154
+screwdriver_2,Store_8,2024-04-01,105
+screwdriver_2,Store_8,2024-04-08,127
+screwdriver_2,Store_8,2024-04-15,155
+screwdriver_2,Store_8,2024-04-22,120
+screwdriver_2,Store_8,2024-04-29,125
+screwdriver_2,Store_8,2024-05-06,139
+screwdriver_2,Store_8,2024-05-13,149
+screwdriver_2,Store_8,2024-05-20,126
+screwdriver_2,Store_8,2024-05-27,129
+screwdriver_2,Store_8,2024-06-03,134
+screwdriver_2,Store_8,2024-06-10,156
+screwdriver_2,Store_8,2024-06-17,157
+screwdriver_3,Store_1,2024-02-26,86
+screwdriver_3,Store_1,2024-03-04,77
+screwdriver_3,Store_1,2024-03-11,63
+screwdriver_3,Store_1,2024-03-18,72
+screwdriver_3,Store_1,2024-03-25,91
+screwdriver_3,Store_1,2024-04-01,53
+screwdriver_3,Store_1,2024-04-08,75
+screwdriver_3,Store_1,2024-04-15,87
+screwdriver_3,Store_1,2024-04-22,67
+screwdriver_3,Store_1,2024-04-29,71
+screwdriver_3,Store_1,2024-05-06,76
+screwdriver_3,Store_1,2024-05-13,89
+screwdriver_3,Store_1,2024-05-20,69
+screwdriver_3,Store_1,2024-05-27,73
+screwdriver_3,Store_1,2024-06-03,72
+screwdriver_3,Store_1,2024-06-10,96
+screwdriver_3,Store_1,2024-06-17,93
+screwdriver_3,Store_2,2024-02-26,132
+screwdriver_3,Store_2,2024-03-04,119
+screwdriver_3,Store_2,2024-03-11,100
+screwdriver_3,Store_2,2024-03-18,111
+screwdriver_3,Store_2,2024-03-25,138
+screwdriver_3,Store_2,2024-04-01,83
+screwdriver_3,Store_2,2024-04-08,117
+screwdriver_3,Store_2,2024-04-15,130
+screwdriver_3,Store_2,2024-04-22,106
+screwdriver_3,Store_2,2024-04-29,112
+screwdriver_3,Store_2,2024-05-06,115
+screwdriver_3,Store_2,2024-05-13,138
+screwdriver_3,Store_2,2024-05-20,108
+screwdriver_3,Store_2,2024-05-27,115
+screwdriver_3,Store_2,2024-06-03,110
+screwdriver_3,Store_2,2024-06-10,148
+screwdriver_3,Store_2,2024-06-17,145
+screwdriver_3,Store_3,2024-02-26,133
+screwdriver_3,Store_3,2024-03-04,118
+screwdriver_3,Store_3,2024-03-11,102
+screwdriver_3,Store_3,2024-03-18,114
+screwdriver_3,Store_3,2024-03-25,135
+screwdriver_3,Store_3,2024-04-01,83
+screwdriver_3,Store_3,2024-04-08,120
+screwdriver_3,Store_3,2024-04-15,128
+screwdriver_3,Store_3,2024-04-22,103
+screwdriver_3,Store_3,2024-04-29,115
+screwdriver_3,Store_3,2024-05-06,116
+screwdriver_3,Store_3,2024-05-13,135
+screwdriver_3,Store_3,2024-05-20,109
+screwdriver_3,Store_3,2024-05-27,119
+screwdriver_3,Store_3,2024-06-03,112
+screwdriver_3,Store_3,2024-06-10,146
+screwdriver_3,Store_3,2024-06-17,144
+screwdriver_3,Store_4,2024-02-26,53
+screwdriver_3,Store_4,2024-03-04,47
+screwdriver_3,Store_4,2024-03-11,30
+screwdriver_3,Store_4,2024-03-18,38
+screwdriver_3,Store_4,2024-03-25,59
+screwdriver_3,Store_4,2024-04-01,22
+screwdriver_3,Store_4,2024-04-08,39
+screwdriver_3,Store_4,2024-04-15,56
+screwdriver_3,Store_4,2024-04-22,36
+screwdriver_3,Store_4,2024-04-29,37
+screwdriver_3,Store_4,2024-05-06,43
+screwdriver_3,Store_4,2024-05-13,58
+screwdriver_3,Store_4,2024-05-20,38
+screwdriver_3,Store_4,2024-05-27,40
+screwdriver_3,Store_4,2024-06-03,40
+screwdriver_3,Store_4,2024-06-10,64
+screwdriver_3,Store_4,2024-06-17,65
+screwdriver_3,Store_5,2024-02-26,148
+screwdriver_3,Store_5,2024-03-04,143
+screwdriver_3,Store_5,2024-03-11,128
+screwdriver_3,Store_5,2024-03-18,132
+screwdriver_3,Store_5,2024-03-25,155
+screwdriver_3,Store_5,2024-04-01,123
+screwdriver_3,Store_5,2024-04-08,135
+screwdriver_3,Store_5,2024-04-15,149
+screwdriver_3,Store_5,2024-04-22,138
+screwdriver_3,Store_5,2024-04-29,133
+screwdriver_3,Store_5,2024-05-06,137
+screwdriver_3,Store_5,2024-05-13,154
+screwdriver_3,Store_5,2024-05-20,136
+screwdriver_3,Store_5,2024-05-27,134
+screwdriver_3,Store_5,2024-06-03,133
+screwdriver_3,Store_5,2024-06-10,161
+screwdriver_3,Store_5,2024-06-17,160
+screwdriver_3,Store_6,2024-02-26,58
+screwdriver_3,Store_6,2024-03-04,53
+screwdriver_3,Store_6,2024-03-11,36
+screwdriver_3,Store_6,2024-03-18,41
+screwdriver_3,Store_6,2024-03-25,64
+screwdriver_3,Store_6,2024-04-01,27
+screwdriver_3,Store_6,2024-04-08,43
+screwdriver_3,Store_6,2024-04-15,59
+screwdriver_3,Store_6,2024-04-22,43
+screwdriver_3,Store_6,2024-04-29,42
+screwdriver_3,Store_6,2024-05-06,46
+screwdriver_3,Store_6,2024-05-13,64
+screwdriver_3,Store_6,2024-05-20,46
+screwdriver_3,Store_6,2024-05-27,45
+screwdriver_3,Store_6,2024-06-03,44
+screwdriver_3,Store_6,2024-06-10,71
+screwdriver_3,Store_6,2024-06-17,76
+screwdriver_3,Store_7,2024-02-26,48
+screwdriver_3,Store_7,2024-03-04,38
+screwdriver_3,Store_7,2024-03-11,16
+screwdriver_3,Store_7,2024-03-18,28
+screwdriver_3,Store_7,2024-03-25,55
+screwdriver_3,Store_7,2024-04-01,4
+screwdriver_3,Store_7,2024-04-08,30
+screwdriver_3,Store_7,2024-04-15,51
+screwdriver_3,Store_7,2024-04-22,23
+screwdriver_3,Store_7,2024-04-29,27
+screwdriver_3,Store_7,2024-05-06,34
+screwdriver_3,Store_7,2024-05-13,53
+screwdriver_3,Store_7,2024-05-20,26
+screwdriver_3,Store_7,2024-05-27,29
+screwdriver_3,Store_7,2024-06-03,29
+screwdriver_3,Store_7,2024-06-10,62
+screwdriver_3,Store_7,2024-06-17,61
+screwdriver_3,Store_8,2024-02-26,67
+screwdriver_3,Store_8,2024-03-04,57
+screwdriver_3,Store_8,2024-03-11,39
+screwdriver_3,Store_8,2024-03-18,53
+screwdriver_3,Store_8,2024-03-25,73
+screwdriver_3,Store_8,2024-04-01,26
+screwdriver_3,Store_8,2024-04-08,54
+screwdriver_3,Store_8,2024-04-15,71
+screwdriver_3,Store_8,2024-04-22,41
+screwdriver_3,Store_8,2024-04-29,51
+screwdriver_3,Store_8,2024-05-06,57
+screwdriver_3,Store_8,2024-05-13,69
+screwdriver_3,Store_8,2024-05-20,47
+screwdriver_3,Store_8,2024-05-27,53
+screwdriver_3,Store_8,2024-06-03,53
+screwdriver_3,Store_8,2024-06-10,78
+screwdriver_3,Store_8,2024-06-17,77
+spirit level_1,Store_1,2024-02-26,120
+spirit level_1,Store_1,2024-03-04,110
+spirit level_1,Store_1,2024-03-11,97
+spirit level_1,Store_1,2024-03-18,103
+spirit level_1,Store_1,2024-03-25,123
+spirit level_1,Store_1,2024-04-01,84
+spirit level_1,Store_1,2024-04-08,109
+spirit level_1,Store_1,2024-04-15,116
+spirit level_1,Store_1,2024-04-22,100
+spirit level_1,Store_1,2024-04-29,105
+spirit level_1,Store_1,2024-05-06,106
+spirit level_1,Store_1,2024-05-13,124
+spirit level_1,Store_1,2024-05-20,103
+spirit level_1,Store_1,2024-05-27,109
+spirit level_1,Store_1,2024-06-03,103
+spirit level_1,Store_1,2024-06-10,131
+spirit level_1,Store_1,2024-06-17,132
+spirit level_1,Store_2,2024-02-26,157
+spirit level_1,Store_2,2024-03-04,143
+spirit level_1,Store_2,2024-03-11,133
+spirit level_1,Store_2,2024-03-18,141
+spirit level_1,Store_2,2024-03-25,158
+spirit level_1,Store_2,2024-04-01,117
+spirit level_1,Store_2,2024-04-08,150
+spirit level_1,Store_2,2024-04-15,150
+spirit level_1,Store_2,2024-04-22,135
+spirit level_1,Store_2,2024-04-29,143
+spirit level_1,Store_2,2024-05-06,141
+spirit level_1,Store_2,2024-05-13,160
+spirit level_1,Store_2,2024-05-20,136
+spirit level_1,Store_2,2024-05-27,146
+spirit level_1,Store_2,2024-06-03,138
+spirit level_1,Store_2,2024-06-10,168
+spirit level_1,Store_2,2024-06-17,163
+spirit level_1,Store_3,2024-02-26,118
+spirit level_1,Store_3,2024-03-04,107
+spirit level_1,Store_3,2024-03-11,98
+spirit level_1,Store_3,2024-03-18,103
+spirit level_1,Store_3,2024-03-25,120
+spirit level_1,Store_3,2024-04-01,84
+spirit level_1,Store_3,2024-04-08,109
+spirit level_1,Store_3,2024-04-15,112
+spirit level_1,Store_3,2024-04-22,101
+spirit level_1,Store_3,2024-04-29,105
+spirit level_1,Store_3,2024-05-06,104
+spirit level_1,Store_3,2024-05-13,121
+spirit level_1,Store_3,2024-05-20,102
+spirit level_1,Store_3,2024-05-27,108
+spirit level_1,Store_3,2024-06-03,101
+spirit level_1,Store_3,2024-06-10,129
+spirit level_1,Store_3,2024-06-17,127
+spirit level_1,Store_4,2024-02-26,197
+spirit level_1,Store_4,2024-03-04,193
+spirit level_1,Store_4,2024-03-11,175
+spirit level_1,Store_4,2024-03-18,182
+spirit level_1,Store_4,2024-03-25,204
+spirit level_1,Store_4,2024-04-01,169
+spirit level_1,Store_4,2024-04-08,182
+spirit level_1,Store_4,2024-04-15,201
+spirit level_1,Store_4,2024-04-22,183
+spirit level_1,Store_4,2024-04-29,182
+spirit level_1,Store_4,2024-05-06,188
+spirit level_1,Store_4,2024-05-13,203
+spirit level_1,Store_4,2024-05-20,185
+spirit level_1,Store_4,2024-05-27,184
+spirit level_1,Store_4,2024-06-03,185
+spirit level_1,Store_4,2024-06-10,209
+spirit level_1,Store_4,2024-06-17,212
+spirit level_1,Store_5,2024-02-26,172
+spirit level_1,Store_5,2024-03-04,158
+spirit level_1,Store_5,2024-03-11,144
+spirit level_1,Store_5,2024-03-18,154
+spirit level_1,Store_5,2024-03-25,174
+spirit level_1,Store_5,2024-04-01,128
+spirit level_1,Store_5,2024-04-08,162
+spirit level_1,Store_5,2024-04-15,167
+spirit level_1,Store_5,2024-04-22,147
+spirit level_1,Store_5,2024-04-29,156
+spirit level_1,Store_5,2024-05-06,155
+spirit level_1,Store_5,2024-05-13,174
+spirit level_1,Store_5,2024-05-20,149
+spirit level_1,Store_5,2024-05-27,158
+spirit level_1,Store_5,2024-06-03,152
+spirit level_1,Store_5,2024-06-10,183
+spirit level_1,Store_5,2024-06-17,180
+spirit level_1,Store_6,2024-02-26,97
+spirit level_1,Store_6,2024-03-04,82
+spirit level_1,Store_6,2024-03-11,58
+spirit level_1,Store_6,2024-03-18,75
+spirit level_1,Store_6,2024-03-25,105
+spirit level_1,Store_6,2024-04-01,41
+spirit level_1,Store_6,2024-04-08,79
+spirit level_1,Store_6,2024-04-15,100
+spirit level_1,Store_6,2024-04-22,64
+spirit level_1,Store_6,2024-04-29,72
+spirit level_1,Store_6,2024-05-06,81
+spirit level_1,Store_6,2024-05-13,101
+spirit level_1,Store_6,2024-05-20,68
+spirit level_1,Store_6,2024-05-27,75
+spirit level_1,Store_6,2024-06-03,75
+spirit level_1,Store_6,2024-06-10,112
+spirit level_1,Store_6,2024-06-17,107
+spirit level_1,Store_7,2024-02-26,167
+spirit level_1,Store_7,2024-03-04,156
+spirit level_1,Store_7,2024-03-11,142
+spirit level_1,Store_7,2024-03-18,152
+spirit level_1,Store_7,2024-03-25,171
+spirit level_1,Store_7,2024-04-01,129
+spirit level_1,Store_7,2024-04-08,157
+spirit level_1,Store_7,2024-04-15,166
+spirit level_1,Store_7,2024-04-22,145
+spirit level_1,Store_7,2024-04-29,152
+spirit level_1,Store_7,2024-05-06,154
+spirit level_1,Store_7,2024-05-13,170
+spirit level_1,Store_7,2024-05-20,147
+spirit level_1,Store_7,2024-05-27,154
+spirit level_1,Store_7,2024-06-03,151
+spirit level_1,Store_7,2024-06-10,178
+spirit level_1,Store_7,2024-06-17,174
+spirit level_1,Store_8,2024-02-26,48
+spirit level_1,Store_8,2024-03-04,39
+spirit level_1,Store_8,2024-03-11,22
+spirit level_1,Store_8,2024-03-18,33
+spirit level_1,Store_8,2024-03-25,53
+spirit level_1,Store_8,2024-04-01,11
+spirit level_1,Store_8,2024-04-08,35
+spirit level_1,Store_8,2024-04-15,50
+spirit level_1,Store_8,2024-04-22,26
+spirit level_1,Store_8,2024-04-29,31
+spirit level_1,Store_8,2024-05-06,38
+spirit level_1,Store_8,2024-05-13,51
+spirit level_1,Store_8,2024-05-20,29
+spirit level_1,Store_8,2024-05-27,34
+spirit level_1,Store_8,2024-06-03,34
+spirit level_1,Store_8,2024-06-10,58
+spirit level_1,Store_8,2024-06-17,57
+spirit level_2,Store_1,2024-02-26,190
+spirit level_2,Store_1,2024-03-04,187
+spirit level_2,Store_1,2024-03-11,165
+spirit level_2,Store_1,2024-03-18,174
+spirit level_2,Store_1,2024-03-25,200
+spirit level_2,Store_1,2024-04-01,159
+spirit level_2,Store_1,2024-04-08,173
+spirit level_2,Store_1,2024-04-15,198
+spirit level_2,Store_1,2024-04-22,174
+spirit level_2,Store_1,2024-04-29,172
+spirit level_2,Store_1,2024-05-06,182
+spirit level_2,Store_1,2024-05-13,197
+spirit level_2,Store_1,2024-05-20,176
+spirit level_2,Store_1,2024-05-27,174
+spirit level_2,Store_1,2024-06-03,178
+spirit level_2,Store_1,2024-06-10,204
+spirit level_2,Store_1,2024-06-17,205
+spirit level_2,Store_2,2024-02-26,116
+spirit level_2,Store_2,2024-03-04,110
+spirit level_2,Store_2,2024-03-11,92
+spirit level_2,Store_2,2024-03-18,97
+spirit level_2,Store_2,2024-03-25,123
+spirit level_2,Store_2,2024-04-01,84
+spirit level_2,Store_2,2024-04-08,101
+spirit level_2,Store_2,2024-04-15,116
+spirit level_2,Store_2,2024-04-22,101
+spirit level_2,Store_2,2024-04-29,100
+spirit level_2,Store_2,2024-05-06,102
+spirit level_2,Store_2,2024-05-13,123
+spirit level_2,Store_2,2024-05-20,103
+spirit level_2,Store_2,2024-05-27,102
+spirit level_2,Store_2,2024-06-03,98
+spirit level_2,Store_2,2024-06-10,131
+spirit level_2,Store_2,2024-06-17,135
+spirit level_2,Store_3,2024-02-26,39
+spirit level_2,Store_3,2024-03-04,31
+spirit level_2,Store_3,2024-03-11,18
+spirit level_2,Store_3,2024-03-18,24
+spirit level_2,Store_3,2024-03-25,43
+spirit level_2,Store_3,2024-04-01,7
+spirit level_2,Store_3,2024-04-08,29
+spirit level_2,Store_3,2024-04-15,37
+spirit level_2,Store_3,2024-04-22,22
+spirit level_2,Store_3,2024-04-29,26
+spirit level_2,Store_3,2024-05-06,27
+spirit level_2,Store_3,2024-05-13,43
+spirit level_2,Store_3,2024-05-20,24
+spirit level_2,Store_3,2024-05-27,29
+spirit level_2,Store_3,2024-06-03,24
+spirit level_2,Store_3,2024-06-10,50
+spirit level_2,Store_3,2024-06-17,50
+spirit level_2,Store_4,2024-02-26,92
+spirit level_2,Store_4,2024-03-04,88
+spirit level_2,Store_4,2024-03-11,69
+spirit level_2,Store_4,2024-03-18,78
+spirit level_2,Store_4,2024-03-25,101
+spirit level_2,Store_4,2024-04-01,64
+spirit level_2,Store_4,2024-04-08,75
+spirit level_2,Store_4,2024-04-15,99
+spirit level_2,Store_4,2024-04-22,77
+spirit level_2,Store_4,2024-04-29,74
+spirit level_2,Store_4,2024-05-06,85
+spirit level_2,Store_4,2024-05-13,98
+spirit level_2,Store_4,2024-05-20,78
+spirit level_2,Store_4,2024-05-27,77
+spirit level_2,Store_4,2024-06-03,82
+spirit level_2,Store_4,2024-06-10,104
+spirit level_2,Store_4,2024-06-17,104
+spirit level_2,Store_5,2024-02-26,118
+spirit level_2,Store_5,2024-03-04,112
+spirit level_2,Store_5,2024-03-11,89
+spirit level_2,Store_5,2024-03-18,102
+spirit level_2,Store_5,2024-03-25,125
+spirit level_2,Store_5,2024-04-01,78
+spirit level_2,Store_5,2024-04-08,99
+spirit level_2,Store_5,2024-04-15,124
+spirit level_2,Store_5,2024-04-22,92
+spirit level_2,Store_5,2024-04-29,100
+spirit level_2,Store_5,2024-05-06,108
+spirit level_2,Store_5,2024-05-13,122
+spirit level_2,Store_5,2024-05-20,102
+spirit level_2,Store_5,2024-05-27,104
+spirit level_2,Store_5,2024-06-03,106
+spirit level_2,Store_5,2024-06-10,130
+spirit level_2,Store_5,2024-06-17,137
+spirit level_2,Store_6,2024-02-26,111
+spirit level_2,Store_6,2024-03-04,106
+spirit level_2,Store_6,2024-03-11,90
+spirit level_2,Store_6,2024-03-18,97
+spirit level_2,Store_6,2024-03-25,117
+spirit level_2,Store_6,2024-04-01,83
+spirit level_2,Store_6,2024-04-08,98
+spirit level_2,Store_6,2024-04-15,114
+spirit level_2,Store_6,2024-04-22,96
+spirit level_2,Store_6,2024-04-29,96
+spirit level_2,Store_6,2024-05-06,102
+spirit level_2,Store_6,2024-05-13,116
+spirit level_2,Store_6,2024-05-20,98
+spirit level_2,Store_6,2024-05-27,98
+spirit level_2,Store_6,2024-06-03,99
+spirit level_2,Store_6,2024-06-10,122
+spirit level_2,Store_6,2024-06-17,122
+spirit level_2,Store_7,2024-02-26,106
+spirit level_2,Store_7,2024-03-04,99
+spirit level_2,Store_7,2024-03-11,86
+spirit level_2,Store_7,2024-03-18,96
+spirit level_2,Store_7,2024-03-25,110
+spirit level_2,Store_7,2024-04-01,77
+spirit level_2,Store_7,2024-04-08,98
+spirit level_2,Store_7,2024-04-15,108
+spirit level_2,Store_7,2024-04-22,87
+spirit level_2,Store_7,2024-04-29,95
+spirit level_2,Store_7,2024-05-06,99
+spirit level_2,Store_7,2024-05-13,107
+spirit level_2,Store_7,2024-05-20,92
+spirit level_2,Store_7,2024-05-27,97
+spirit level_2,Store_7,2024-06-03,96
+spirit level_2,Store_7,2024-06-10,113
+spirit level_2,Store_7,2024-06-17,112
+spirit level_2,Store_8,2024-02-26,39
+spirit level_2,Store_8,2024-03-04,32
+spirit level_2,Store_8,2024-03-11,16
+spirit level_2,Store_8,2024-03-18,25
+spirit level_2,Store_8,2024-03-25,43
+spirit level_2,Store_8,2024-04-01,6
+spirit level_2,Store_8,2024-04-08,26
+spirit level_2,Store_8,2024-04-15,41
+spirit level_2,Store_8,2024-04-22,19
+spirit level_2,Store_8,2024-04-29,25
+spirit level_2,Store_8,2024-05-06,29
+spirit level_2,Store_8,2024-05-13,42
+spirit level_2,Store_8,2024-05-20,24
+spirit level_2,Store_8,2024-05-27,27
+spirit level_2,Store_8,2024-06-03,26
+spirit level_2,Store_8,2024-06-10,49
+spirit level_2,Store_8,2024-06-17,52
+spirit level_3,Store_1,2024-02-26,162
+spirit level_3,Store_1,2024-03-04,151
+spirit level_3,Store_1,2024-03-11,129
+spirit level_3,Store_1,2024-03-18,147
+spirit level_3,Store_1,2024-03-25,168
+spirit level_3,Store_1,2024-04-01,114
+spirit level_3,Store_1,2024-04-08,147
+spirit level_3,Store_1,2024-04-15,168
+spirit level_3,Store_1,2024-04-22,130
+spirit level_3,Store_1,2024-04-29,143
+spirit level_3,Store_1,2024-05-06,152
+spirit level_3,Store_1,2024-05-13,163
+spirit level_3,Store_1,2024-05-20,139
+spirit level_3,Store_1,2024-05-27,146
+spirit level_3,Store_1,2024-06-03,148
+spirit level_3,Store_1,2024-06-10,173
+spirit level_3,Store_1,2024-06-17,172
+spirit level_3,Store_2,2024-02-26,155
+spirit level_3,Store_2,2024-03-04,148
+spirit level_3,Store_2,2024-03-11,138
+spirit level_3,Store_2,2024-03-18,139
+spirit level_3,Store_2,2024-03-25,158
+spirit level_3,Store_2,2024-04-01,130
+spirit level_3,Store_2,2024-04-08,146
+spirit level_3,Store_2,2024-04-15,150
+spirit level_3,Store_2,2024-04-22,145
+spirit level_3,Store_2,2024-04-29,142
+spirit level_3,Store_2,2024-05-06,143
+spirit level_3,Store_2,2024-05-13,159
+spirit level_3,Store_2,2024-05-20,143
+spirit level_3,Store_2,2024-05-27,145
+spirit level_3,Store_2,2024-06-03,138
+spirit level_3,Store_2,2024-06-10,166
+spirit level_3,Store_2,2024-06-17,166
+spirit level_3,Store_3,2024-02-26,155
+spirit level_3,Store_3,2024-03-04,149
+spirit level_3,Store_3,2024-03-11,136
+spirit level_3,Store_3,2024-03-18,144
+spirit level_3,Store_3,2024-03-25,160
+spirit level_3,Store_3,2024-04-01,128
+spirit level_3,Store_3,2024-04-08,145
+spirit level_3,Store_3,2024-04-15,157
+spirit level_3,Store_3,2024-04-22,140
+spirit level_3,Store_3,2024-04-29,143
+spirit level_3,Store_3,2024-05-06,147
+spirit level_3,Store_3,2024-05-13,159
+spirit level_3,Store_3,2024-05-20,142
+spirit level_3,Store_3,2024-05-27,144
+spirit level_3,Store_3,2024-06-03,144
+spirit level_3,Store_3,2024-06-10,164
+spirit level_3,Store_3,2024-06-17,163
+spirit level_3,Store_4,2024-02-26,140
+spirit level_3,Store_4,2024-03-04,134
+spirit level_3,Store_4,2024-03-11,124
+spirit level_3,Store_4,2024-03-18,131
+spirit level_3,Store_4,2024-03-25,143
+spirit level_3,Store_4,2024-04-01,115
+spirit level_3,Store_4,2024-04-08,132
+spirit level_3,Store_4,2024-04-15,141
+spirit level_3,Store_4,2024-04-22,124
+spirit level_3,Store_4,2024-04-29,131
+spirit level_3,Store_4,2024-05-06,133
+spirit level_3,Store_4,2024-05-13,142
+spirit level_3,Store_4,2024-05-20,129
+spirit level_3,Store_4,2024-05-27,133
+spirit level_3,Store_4,2024-06-03,131
+spirit level_3,Store_4,2024-06-10,147
+spirit level_3,Store_4,2024-06-17,148
+spirit level_3,Store_5,2024-02-26,159
+spirit level_3,Store_5,2024-03-04,153
+spirit level_3,Store_5,2024-03-11,135
+spirit level_3,Store_5,2024-03-18,142
+spirit level_3,Store_5,2024-03-25,167
+spirit level_3,Store_5,2024-04-01,129
+spirit level_3,Store_5,2024-04-08,144
+spirit level_3,Store_5,2024-04-15,161
+spirit level_3,Store_5,2024-04-22,145
+spirit level_3,Store_5,2024-04-29,141
+spirit level_3,Store_5,2024-05-06,148
+spirit level_3,Store_5,2024-05-13,165
+spirit level_3,Store_5,2024-05-20,144
+spirit level_3,Store_5,2024-05-27,143
+spirit level_3,Store_5,2024-06-03,144
+spirit level_3,Store_5,2024-06-10,172
+spirit level_3,Store_5,2024-06-17,171
+spirit level_3,Store_6,2024-02-26,112
+spirit level_3,Store_6,2024-03-04,103
+spirit level_3,Store_6,2024-03-11,85
+spirit level_3,Store_6,2024-03-18,96
+spirit level_3,Store_6,2024-03-25,119
+spirit level_3,Store_6,2024-04-01,74
+spirit level_3,Store_6,2024-04-08,98
+spirit level_3,Store_6,2024-04-15,114
+spirit level_3,Store_6,2024-04-22,91
+spirit level_3,Store_6,2024-04-29,95
+spirit level_3,Store_6,2024-05-06,100
+spirit level_3,Store_6,2024-05-13,117
+spirit level_3,Store_6,2024-05-20,93
+spirit level_3,Store_6,2024-05-27,97
+spirit level_3,Store_6,2024-06-03,97
+spirit level_3,Store_6,2024-06-10,125
+spirit level_3,Store_6,2024-06-17,123
+spirit level_3,Store_7,2024-02-26,79
+spirit level_3,Store_7,2024-03-04,70
+spirit level_3,Store_7,2024-03-11,49
+spirit level_3,Store_7,2024-03-18,60
+spirit level_3,Store_7,2024-03-25,87
+spirit level_3,Store_7,2024-04-01,38
+spirit level_3,Store_7,2024-04-08,62
+spirit level_3,Store_7,2024-04-15,82
+spirit level_3,Store_7,2024-04-22,56
+spirit level_3,Store_7,2024-04-29,59
+spirit level_3,Store_7,2024-05-06,66
+spirit level_3,Store_7,2024-05-13,85
+spirit level_3,Store_7,2024-05-20,59
+spirit level_3,Store_7,2024-05-27,62
+spirit level_3,Store_7,2024-06-03,62
+spirit level_3,Store_7,2024-06-10,94
+spirit level_3,Store_7,2024-06-17,93
+spirit level_3,Store_8,2024-02-26,41
+spirit level_3,Store_8,2024-03-04,32
+spirit level_3,Store_8,2024-03-11,15
+spirit level_3,Store_8,2024-03-18,23
+spirit level_3,Store_8,2024-03-25,46
+spirit level_3,Store_8,2024-04-01,3
+spirit level_3,Store_8,2024-04-08,27
+spirit level_3,Store_8,2024-04-15,40
+spirit level_3,Store_8,2024-04-22,20
+spirit level_3,Store_8,2024-04-29,24
+spirit level_3,Store_8,2024-05-06,27
+spirit level_3,Store_8,2024-05-13,46
+spirit level_3,Store_8,2024-05-20,23
+spirit level_3,Store_8,2024-05-27,27
+spirit level_3,Store_8,2024-06-03,24
+spirit level_3,Store_8,2024-06-10,54
+spirit level_3,Store_8,2024-06-17,54
+toolbox_1,Store_1,2024-02-26,54
+toolbox_1,Store_1,2024-03-04,48
+toolbox_1,Store_1,2024-03-11,35
+toolbox_1,Store_1,2024-03-18,38
+toolbox_1,Store_1,2024-03-25,58
+toolbox_1,Store_1,2024-04-01,25
+toolbox_1,Store_1,2024-04-08,42
+toolbox_1,Store_1,2024-04-15,52
+toolbox_1,Store_1,2024-04-22,41
+toolbox_1,Store_1,2024-04-29,41
+toolbox_1,Store_1,2024-05-06,41
+toolbox_1,Store_1,2024-05-13,60
+toolbox_1,Store_1,2024-05-20,42
+toolbox_1,Store_1,2024-05-27,44
+toolbox_1,Store_1,2024-06-03,38
+toolbox_1,Store_1,2024-06-10,66
+toolbox_1,Store_1,2024-06-17,70
+toolbox_1,Store_2,2024-02-26,164
+toolbox_1,Store_2,2024-03-04,161
+toolbox_1,Store_2,2024-03-11,155
+toolbox_1,Store_2,2024-03-18,157
+toolbox_1,Store_2,2024-03-25,167
+toolbox_1,Store_2,2024-04-01,153
+toolbox_1,Store_2,2024-04-08,158
+toolbox_1,Store_2,2024-04-15,164
+toolbox_1,Store_2,2024-04-22,159
+toolbox_1,Store_2,2024-04-29,157
+toolbox_1,Store_2,2024-05-06,159
+toolbox_1,Store_2,2024-05-13,166
+toolbox_1,Store_2,2024-05-20,158
+toolbox_1,Store_2,2024-05-27,158
+toolbox_1,Store_2,2024-06-03,158
+toolbox_1,Store_2,2024-06-10,169
+toolbox_1,Store_2,2024-06-17,168
+toolbox_1,Store_3,2024-02-26,41
+toolbox_1,Store_3,2024-03-04,31
+toolbox_1,Store_3,2024-03-11,15
+toolbox_1,Store_3,2024-03-18,26
+toolbox_1,Store_3,2024-03-25,46
+toolbox_1,Store_3,2024-04-01,4
+toolbox_1,Store_3,2024-04-08,29
+toolbox_1,Store_3,2024-04-15,42
+toolbox_1,Store_3,2024-04-22,20
+toolbox_1,Store_3,2024-04-29,25
+toolbox_1,Store_3,2024-05-06,30
+toolbox_1,Store_3,2024-05-13,45
+toolbox_1,Store_3,2024-05-20,22
+toolbox_1,Store_3,2024-05-27,27
+toolbox_1,Store_3,2024-06-03,26
+toolbox_1,Store_3,2024-06-10,52
+toolbox_1,Store_3,2024-06-17,48
+toolbox_1,Store_4,2024-02-26,124
+toolbox_1,Store_4,2024-03-04,119
+toolbox_1,Store_4,2024-03-11,101
+toolbox_1,Store_4,2024-03-18,109
+toolbox_1,Store_4,2024-03-25,131
+toolbox_1,Store_4,2024-04-01,93
+toolbox_1,Store_4,2024-04-08,110
+toolbox_1,Store_4,2024-04-15,128
+toolbox_1,Store_4,2024-04-22,108
+toolbox_1,Store_4,2024-04-29,108
+toolbox_1,Store_4,2024-05-06,114
+toolbox_1,Store_4,2024-05-13,130
+toolbox_1,Store_4,2024-05-20,110
+toolbox_1,Store_4,2024-05-27,111
+toolbox_1,Store_4,2024-06-03,111
+toolbox_1,Store_4,2024-06-10,136
+toolbox_1,Store_4,2024-06-17,138
+toolbox_1,Store_5,2024-02-26,81
+toolbox_1,Store_5,2024-03-04,76
+toolbox_1,Store_5,2024-03-11,58
+toolbox_1,Store_5,2024-03-18,66
+toolbox_1,Store_5,2024-03-25,89
+toolbox_1,Store_5,2024-04-01,53
+toolbox_1,Store_5,2024-04-08,67
+toolbox_1,Store_5,2024-04-15,85
+toolbox_1,Store_5,2024-04-22,67
+toolbox_1,Store_5,2024-04-29,65
+toolbox_1,Store_5,2024-05-06,71
+toolbox_1,Store_5,2024-05-13,87
+toolbox_1,Store_5,2024-05-20,67
+toolbox_1,Store_5,2024-05-27,66
+toolbox_1,Store_5,2024-06-03,68
+toolbox_1,Store_5,2024-06-10,94
+toolbox_1,Store_5,2024-06-17,92
+toolbox_1,Store_6,2024-02-26,116
+toolbox_1,Store_6,2024-03-04,108
+toolbox_1,Store_6,2024-03-11,88
+toolbox_1,Store_6,2024-03-18,101
+toolbox_1,Store_6,2024-03-25,122
+toolbox_1,Store_6,2024-04-01,75
+toolbox_1,Store_6,2024-04-08,101
+toolbox_1,Store_6,2024-04-15,119
+toolbox_1,Store_6,2024-04-22,90
+toolbox_1,Store_6,2024-04-29,99
+toolbox_1,Store_6,2024-05-06,105
+toolbox_1,Store_6,2024-05-13,119
+toolbox_1,Store_6,2024-05-20,98
+toolbox_1,Store_6,2024-05-27,102
+toolbox_1,Store_6,2024-06-03,102
+toolbox_1,Store_6,2024-06-10,128
+toolbox_1,Store_6,2024-06-17,131
+toolbox_1,Store_7,2024-02-26,117
+toolbox_1,Store_7,2024-03-04,108
+toolbox_1,Store_7,2024-03-11,94
+toolbox_1,Store_7,2024-03-18,102
+toolbox_1,Store_7,2024-03-25,121
+toolbox_1,Store_7,2024-04-01,83
+toolbox_1,Store_7,2024-04-08,106
+toolbox_1,Store_7,2024-04-15,115
+toolbox_1,Store_7,2024-04-22,99
+toolbox_1,Store_7,2024-04-29,103
+toolbox_1,Store_7,2024-05-06,105
+toolbox_1,Store_7,2024-05-13,121
+toolbox_1,Store_7,2024-05-20,101
+toolbox_1,Store_7,2024-05-27,105
+toolbox_1,Store_7,2024-06-03,102
+toolbox_1,Store_7,2024-06-10,128
+toolbox_1,Store_7,2024-06-17,127
+toolbox_1,Store_8,2024-02-26,121
+toolbox_1,Store_8,2024-03-04,118
+toolbox_1,Store_8,2024-03-11,100
+toolbox_1,Store_8,2024-03-18,105
+toolbox_1,Store_8,2024-03-25,129
+toolbox_1,Store_8,2024-04-01,98
+toolbox_1,Store_8,2024-04-08,106
+toolbox_1,Store_8,2024-04-15,124
+toolbox_1,Store_8,2024-04-22,111
+toolbox_1,Store_8,2024-04-29,105
+toolbox_1,Store_8,2024-05-06,111
+toolbox_1,Store_8,2024-05-13,128
+toolbox_1,Store_8,2024-05-20,110
+toolbox_1,Store_8,2024-05-27,106
+toolbox_1,Store_8,2024-06-03,108
+toolbox_1,Store_8,2024-06-10,133
+toolbox_1,Store_8,2024-06-17,134
+toolbox_2,Store_1,2024-02-26,112
+toolbox_2,Store_1,2024-03-04,111
+toolbox_2,Store_1,2024-03-11,85
+toolbox_2,Store_1,2024-03-18,93
+toolbox_2,Store_1,2024-03-25,125
+toolbox_2,Store_1,2024-04-01,82
+toolbox_2,Store_1,2024-04-08,89
+toolbox_2,Store_1,2024-04-15,123
+toolbox_2,Store_1,2024-04-22,99
+toolbox_2,Store_1,2024-04-29,89
+toolbox_2,Store_1,2024-05-06,103
+toolbox_2,Store_1,2024-05-13,122
+toolbox_2,Store_1,2024-05-20,98
+toolbox_2,Store_1,2024-05-27,92
+toolbox_2,Store_1,2024-06-03,100
+toolbox_2,Store_1,2024-06-10,128
+toolbox_2,Store_1,2024-06-17,130
+toolbox_2,Store_2,2024-02-26,48
+toolbox_2,Store_2,2024-03-04,37
+toolbox_2,Store_2,2024-03-11,24
+toolbox_2,Store_2,2024-03-18,31
+toolbox_2,Store_2,2024-03-25,50
+toolbox_2,Store_2,2024-04-01,9
+toolbox_2,Store_2,2024-04-08,37
+toolbox_2,Store_2,2024-04-15,42
+toolbox_2,Store_2,2024-04-22,27
+toolbox_2,Store_2,2024-04-29,33
+toolbox_2,Store_2,2024-05-06,32
+toolbox_2,Store_2,2024-05-13,52
+toolbox_2,Store_2,2024-05-20,30
+toolbox_2,Store_2,2024-05-27,37
+toolbox_2,Store_2,2024-06-03,29
+toolbox_2,Store_2,2024-06-10,60
+toolbox_2,Store_2,2024-06-17,60
+toolbox_2,Store_3,2024-02-26,75
+toolbox_2,Store_3,2024-03-04,70
+toolbox_2,Store_3,2024-03-11,57
+toolbox_2,Store_3,2024-03-18,64
+toolbox_2,Store_3,2024-03-25,79
+toolbox_2,Store_3,2024-04-01,50
+toolbox_2,Store_3,2024-04-08,64
+toolbox_2,Store_3,2024-04-15,77
+toolbox_2,Store_3,2024-04-22,60
+toolbox_2,Store_3,2024-04-29,63
+toolbox_2,Store_3,2024-05-06,68
+toolbox_2,Store_3,2024-05-13,78
+toolbox_2,Store_3,2024-05-20,64
+toolbox_2,Store_3,2024-05-27,65
+toolbox_2,Store_3,2024-06-03,66
+toolbox_2,Store_3,2024-06-10,83
+toolbox_2,Store_3,2024-06-17,85
+toolbox_2,Store_4,2024-02-26,116
+toolbox_2,Store_4,2024-03-04,108
+toolbox_2,Store_4,2024-03-11,88
+toolbox_2,Store_4,2024-03-18,95
+toolbox_2,Store_4,2024-03-25,122
+toolbox_2,Store_4,2024-04-01,76
+toolbox_2,Store_4,2024-04-08,98
+toolbox_2,Store_4,2024-04-15,115
+toolbox_2,Store_4,2024-04-22,96
+toolbox_2,Store_4,2024-04-29,97
+toolbox_2,Store_4,2024-05-06,100
+toolbox_2,Store_4,2024-05-13,123
+toolbox_2,Store_4,2024-05-20,100
+toolbox_2,Store_4,2024-05-27,101
+toolbox_2,Store_4,2024-06-03,97
+toolbox_2,Store_4,2024-06-10,133
+toolbox_2,Store_4,2024-06-17,138
+toolbox_2,Store_5,2024-02-26,192
+toolbox_2,Store_5,2024-03-04,180
+toolbox_2,Store_5,2024-03-11,164
+toolbox_2,Store_5,2024-03-18,177
+toolbox_2,Store_5,2024-03-25,197
+toolbox_2,Store_5,2024-04-01,150
+toolbox_2,Store_5,2024-04-08,181
+toolbox_2,Store_5,2024-04-15,192
+toolbox_2,Store_5,2024-04-22,168
+toolbox_2,Store_5,2024-04-29,175
+toolbox_2,Store_5,2024-05-06,180
+toolbox_2,Store_5,2024-05-13,195
+toolbox_2,Store_5,2024-05-20,170
+toolbox_2,Store_5,2024-05-27,178
+toolbox_2,Store_5,2024-06-03,176
+toolbox_2,Store_5,2024-06-10,204
+toolbox_2,Store_5,2024-06-17,199
+toolbox_2,Store_6,2024-02-26,162
+toolbox_2,Store_6,2024-03-04,156
+toolbox_2,Store_6,2024-03-11,137
+toolbox_2,Store_6,2024-03-18,148
+toolbox_2,Store_6,2024-03-25,168
+toolbox_2,Store_6,2024-04-01,127
+toolbox_2,Store_6,2024-04-08,147
+toolbox_2,Store_6,2024-04-15,166
+toolbox_2,Store_6,2024-04-22,140
+toolbox_2,Store_6,2024-04-29,147
+toolbox_2,Store_6,2024-05-06,153
+toolbox_2,Store_6,2024-05-13,165
+toolbox_2,Store_6,2024-05-20,148
+toolbox_2,Store_6,2024-05-27,150
+toolbox_2,Store_6,2024-06-03,151
+toolbox_2,Store_6,2024-06-10,172
+toolbox_2,Store_6,2024-06-17,177
+toolbox_2,Store_7,2024-02-26,182
+toolbox_2,Store_7,2024-03-04,177
+toolbox_2,Store_7,2024-03-11,156
+toolbox_2,Store_7,2024-03-18,167
+toolbox_2,Store_7,2024-03-25,192
+toolbox_2,Store_7,2024-04-01,151
+toolbox_2,Store_7,2024-04-08,164
+toolbox_2,Store_7,2024-04-15,190
+toolbox_2,Store_7,2024-04-22,165
+toolbox_2,Store_7,2024-04-29,162
+toolbox_2,Store_7,2024-05-06,174
+toolbox_2,Store_7,2024-05-13,188
+toolbox_2,Store_7,2024-05-20,165
+toolbox_2,Store_7,2024-05-27,165
+toolbox_2,Store_7,2024-06-03,171
+toolbox_2,Store_7,2024-06-10,194
+toolbox_2,Store_7,2024-06-17,191
+toolbox_2,Store_8,2024-02-26,79
+toolbox_2,Store_8,2024-03-04,73
+toolbox_2,Store_8,2024-03-11,56
+toolbox_2,Store_8,2024-03-18,64
+toolbox_2,Store_8,2024-03-25,85
+toolbox_2,Store_8,2024-04-01,49
+toolbox_2,Store_8,2024-04-08,64
+toolbox_2,Store_8,2024-04-15,82
+toolbox_2,Store_8,2024-04-22,63
+toolbox_2,Store_8,2024-04-29,63
+toolbox_2,Store_8,2024-05-06,69
+toolbox_2,Store_8,2024-05-13,84
+toolbox_2,Store_8,2024-05-20,65
+toolbox_2,Store_8,2024-05-27,65
+toolbox_2,Store_8,2024-06-03,66
+toolbox_2,Store_8,2024-06-10,90
+toolbox_2,Store_8,2024-06-17,92
+toolbox_3,Store_1,2024-02-26,99
+toolbox_3,Store_1,2024-03-04,93
+toolbox_3,Store_1,2024-03-11,81
+toolbox_3,Store_1,2024-03-18,87
+toolbox_3,Store_1,2024-03-25,103
+toolbox_3,Store_1,2024-04-01,74
+toolbox_3,Store_1,2024-04-08,89
+toolbox_3,Store_1,2024-04-15,100
+toolbox_3,Store_1,2024-04-22,85
+toolbox_3,Store_1,2024-04-29,87
+toolbox_3,Store_1,2024-05-06,91
+toolbox_3,Store_1,2024-05-13,102
+toolbox_3,Store_1,2024-05-20,87
+toolbox_3,Store_1,2024-05-27,88
+toolbox_3,Store_1,2024-06-03,88
+toolbox_3,Store_1,2024-06-10,107
+toolbox_3,Store_1,2024-06-17,107
+toolbox_3,Store_2,2024-02-26,127
+toolbox_3,Store_2,2024-03-04,119
+toolbox_3,Store_2,2024-03-11,110
+toolbox_3,Store_2,2024-03-18,116
+toolbox_3,Store_2,2024-03-25,129
+toolbox_3,Store_2,2024-04-01,100
+toolbox_3,Store_2,2024-04-08,120
+toolbox_3,Store_2,2024-04-15,123
+toolbox_3,Store_2,2024-04-22,113
+toolbox_3,Store_2,2024-04-29,117
+toolbox_3,Store_2,2024-05-06,117
+toolbox_3,Store_2,2024-05-13,129
+toolbox_3,Store_2,2024-05-20,114
+toolbox_3,Store_2,2024-05-27,119
+toolbox_3,Store_2,2024-06-03,114
+toolbox_3,Store_2,2024-06-10,135
+toolbox_3,Store_2,2024-06-17,133
+toolbox_3,Store_3,2024-02-26,139
+toolbox_3,Store_3,2024-03-04,134
+toolbox_3,Store_3,2024-03-11,118
+toolbox_3,Store_3,2024-03-18,121
+toolbox_3,Store_3,2024-03-25,145
+toolbox_3,Store_3,2024-04-01,111
+toolbox_3,Store_3,2024-04-08,126
+toolbox_3,Store_3,2024-04-15,138
+toolbox_3,Store_3,2024-04-22,128
+toolbox_3,Store_3,2024-04-29,125
+toolbox_3,Store_3,2024-05-06,125
+toolbox_3,Store_3,2024-05-13,146
+toolbox_3,Store_3,2024-05-20,128
+toolbox_3,Store_3,2024-05-27,126
+toolbox_3,Store_3,2024-06-03,121
+toolbox_3,Store_3,2024-06-10,153
+toolbox_3,Store_3,2024-06-17,158
+toolbox_3,Store_4,2024-02-26,186
+toolbox_3,Store_4,2024-03-04,178
+toolbox_3,Store_4,2024-03-11,157
+toolbox_3,Store_4,2024-03-18,168
+toolbox_3,Store_4,2024-03-25,194
+toolbox_3,Store_4,2024-04-01,146
+toolbox_3,Store_4,2024-04-08,170
+toolbox_3,Store_4,2024-04-15,189
+toolbox_3,Store_4,2024-04-22,164
+toolbox_3,Store_4,2024-04-29,167
+toolbox_3,Store_4,2024-05-06,174
+toolbox_3,Store_4,2024-05-13,192
+toolbox_3,Store_4,2024-05-20,167
+toolbox_3,Store_4,2024-05-27,170
+toolbox_3,Store_4,2024-06-03,170
+toolbox_3,Store_4,2024-06-10,200
+toolbox_3,Store_4,2024-06-17,199
+toolbox_3,Store_5,2024-02-26,159
+toolbox_3,Store_5,2024-03-04,154
+toolbox_3,Store_5,2024-03-11,137
+toolbox_3,Store_5,2024-03-18,139
+toolbox_3,Store_5,2024-03-25,167
+toolbox_3,Store_5,2024-04-01,131
+toolbox_3,Store_5,2024-04-08,145
+toolbox_3,Store_5,2024-04-15,158
+toolbox_3,Store_5,2024-04-22,148
+toolbox_3,Store_5,2024-04-29,143
+toolbox_3,Store_5,2024-05-06,145
+toolbox_3,Store_5,2024-05-13,167
+toolbox_3,Store_5,2024-05-20,146
+toolbox_3,Store_5,2024-05-27,144
+toolbox_3,Store_5,2024-06-03,140
+toolbox_3,Store_5,2024-06-10,175
+toolbox_3,Store_5,2024-06-17,175
+toolbox_3,Store_6,2024-02-26,81
+toolbox_3,Store_6,2024-03-04,70
+toolbox_3,Store_6,2024-03-11,60
+toolbox_3,Store_6,2024-03-18,67
+toolbox_3,Store_6,2024-03-25,83
+toolbox_3,Store_6,2024-04-01,47
+toolbox_3,Store_6,2024-04-08,74
+toolbox_3,Store_6,2024-04-15,76
+toolbox_3,Store_6,2024-04-22,63
+toolbox_3,Store_6,2024-04-29,68
+toolbox_3,Store_6,2024-05-06,68
+toolbox_3,Store_6,2024-05-13,84
+toolbox_3,Store_6,2024-05-20,63
+toolbox_3,Store_6,2024-05-27,71
+toolbox_3,Store_6,2024-06-03,65
+toolbox_3,Store_6,2024-06-10,91
+toolbox_3,Store_6,2024-06-17,87
+toolbox_3,Store_7,2024-02-26,146
+toolbox_3,Store_7,2024-03-04,141
+toolbox_3,Store_7,2024-03-11,125
+toolbox_3,Store_7,2024-03-18,129
+toolbox_3,Store_7,2024-03-25,152
+toolbox_3,Store_7,2024-04-01,118
+toolbox_3,Store_7,2024-04-08,132
+toolbox_3,Store_7,2024-04-15,147
+toolbox_3,Store_7,2024-04-22,133
+toolbox_3,Store_7,2024-04-29,131
+toolbox_3,Store_7,2024-05-06,134
+toolbox_3,Store_7,2024-05-13,152
+toolbox_3,Store_7,2024-05-20,134
+toolbox_3,Store_7,2024-05-27,133
+toolbox_3,Store_7,2024-06-03,131
+toolbox_3,Store_7,2024-06-10,159
+toolbox_3,Store_7,2024-06-17,161
+toolbox_3,Store_8,2024-02-26,43
+toolbox_3,Store_8,2024-03-04,37
+toolbox_3,Store_8,2024-03-11,20
+toolbox_3,Store_8,2024-03-18,30
+toolbox_3,Store_8,2024-03-25,47
+toolbox_3,Store_8,2024-04-01,9
+toolbox_3,Store_8,2024-04-08,29
+toolbox_3,Store_8,2024-04-15,45
+toolbox_3,Store_8,2024-04-22,22
+toolbox_3,Store_8,2024-04-29,29
+toolbox_3,Store_8,2024-05-06,34
+toolbox_3,Store_8,2024-05-13,45
+toolbox_3,Store_8,2024-05-20,29
+toolbox_3,Store_8,2024-05-27,32
+toolbox_3,Store_8,2024-06-03,32
+toolbox_3,Store_8,2024-06-10,53
+toolbox_3,Store_8,2024-06-17,57
